@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xml:lang="en" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 <head dir="ltr" lang="en">
-	<title>My Family Tree - Places</title>
+	<title>A Field Guide to Cowells - Places</title>
 	<meta charset="UTF-8" />
 	<meta name ="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=0.5, maximum-scale=10.0, user-scalable=yes" />
 	<meta name ="apple-mobile-web-app-capable" content="yes" />
@@ -22,18 +22,21 @@
 	<link href="../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../css/narrative-maps.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAALbm5fAdqdiO0DZEkPXLND5AQUJ1WaPM" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
 		<div class="ltr" id="header">
 			<button href="javascript:void(0);" class="navIcon" onclick="navFunction()">&#8801;</button>
-			<h1 class="nav" id="SiteTitle">My Family Tree</h1>
+			<h1 class="nav" id="SiteTitle">A Field Guide to Cowells</h1>
 		</div>
 		<div class="wrappernav ltr" id="nav" role="navigation">
 			<div class="container">
 				<ul class="nav dropmenu" id="dropmenu">
 					<li><a href="../../../individuals.html" title="Individuals">Individuals</a></li>
 					<li><a href="../../../index.html" title="Surnames">Surnames</a></li>
+					<li class = "CurrentSection"><a href="../../../places.html" title="Places">Places</a></li>
 					<li><a href="../../../media.html" title="Media">Media</a></li>
 				</ul>
 			</div>
@@ -120,8 +123,9 @@ function GoToTop() {
 					</tbody>
 				</table>
 			</div>
-			<div class="ol-popup" id="popup"><a class="ol-popup-closer" href="#" id="popup-closer"></a><div class="ol-popup-title" id="popup-title"></div><div id="popup-content"></div></div>
-			<div class="ol-popup" id="tooltip"><div id="tooltip-content"></div></div>
+			<h4>Place Map</h4>
+			<div id="map_canvas"></div>
+			<div id="popup"></div>
 			<div class="subsection" id="references">
 				<h4>References</h4>
 				<ol class="Col1" role="Volume-n-Page" type=1>
@@ -148,6 +152,58 @@ function GoToTop() {
 					</li>
 				</ol>
 			</div>
+		<script type="text/javascript">
+		
+  var marker_png = '../../../images/marker.png';
+
+		
+  var tracelife = [['Pittsburgh, Allegheny, Pennsylvania, USA', '40.44431677', '-79.98600493', 1, ' ']];
+  var map;
+  var myLatLng = new google.maps.LatLng(40.44431677, -79.98600493);
+
+  window.addEventListener("load", function() {
+    var mapOptions = {
+      scaleControl:    true,
+      panControl:      true,
+      backgroundColor: '#000000',
+      zoom:            10,
+      center:          myLatLng,
+      mapTypeId:       google.maps.MapTypeId.ROADMAP
+    };
+    map = new google.maps.Map(document.getElementById("map_canvas"),
+                              mapOptions);
+    addMarkers();
+  });
+
+  function addMarkers() {
+    var bounds = new google.maps.LatLngBounds();
+    var infoWindow = new google.maps.InfoWindow;
+
+    for (var i = 0; i < tracelife.length; i++) {
+      var location = tracelife[i];
+      var myLatLng = new google.maps.LatLng(location[1], location[2]);
+
+      var marker = new google.maps.Marker({
+        position:  myLatLng,
+        draggable: true,
+        title:     location[0],
+        map:       map,
+        zIndex:    location[3]
+      });
+      var title = "<h2>" + location[0] + "</h2>"
+      bindInfoWindow(marker, map, infoWindow, title+location[4]);
+      bounds.extend(myLatLng);
+      if ( i > 1 ) { map.fitBounds(bounds); };
+    }
+  }
+  function bindInfoWindow(marker, map, infoWindow, html) {
+          google.maps.event.addListener(marker, 'click', function() {
+              infoWindow.setContent(html);
+              infoWindow.open(map, marker);
+          });
+  }
+
+		</script>
 		</div>
 		<div class="fullclear"></div>
 		<div id="footer">
