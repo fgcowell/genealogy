@@ -17,6 +17,92 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Charlotte A Swetland",
+"given": "Charlotte A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Swetland"
+],
+"title": "",
+"type": "Married Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John Ashcraft",
+"given": "John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ashcraft"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Margaret Ashcraft",
+"given": "Margaret",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ashcraft"
+],
+"title": "",
+"type": "Married Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary E Ashcraft",
+"given": "Mary E",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ashcraft"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary E Beal",
+"given": "Mary E",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beal"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -109,8 +195,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Joe Barton",
-"given": "Joe",
+"full": "Joseph Barton",
+"given": "Joseph",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -125,13 +211,63 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Joseph Barton",
-"given": "Joseph",
+"full": "Joe Barton",
+"given": "Joe",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
 "Barton"
+],
+"title": "",
+"type": "Also Known As"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Abraham Beal",
+"given": "Abraham",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beal"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John Abraham Beal",
+"given": "John Abraham",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beal"
+],
+"title": "",
+"type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Abraham Beals",
+"given": "Abraham",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beals"
 ],
 "title": "",
 "type": "Also Known As"
@@ -177,9 +313,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Joan \"Joanie\" Loretta Beal",
-"given": "Joan \"Joanie\" Loretta",
-"nick": "",
+"full": "Joan Loretta Beal",
+"given": "Joan Loretta",
+"nick": "Joanie",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -187,6 +323,38 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Joan Loretta Swetland",
+"given": "Joan Loretta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Swetland"
+],
+"title": "",
+"type": "Married Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Joan Loretta Stanphill",
+"given": "Joan Loretta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Stanphill"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -257,6 +425,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Married Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Martha Ann Barton",
+"given": "Martha Ann",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Barton"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -301,13 +485,29 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Julia M \"Maria\" Bronson",
-"given": "Julia M \"Maria\"",
-"nick": "",
+"full": "Julia M Bronson",
+"given": "Julia M",
+"nick": "Maria",
 "note": "",
 "suffix": "",
 "surnames": [
 "Bronson"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Julia M Hanna",
+"given": "Julia M",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hanna"
 ],
 "title": "",
 "type": "Married Name"
@@ -335,16 +535,16 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Matilda Coffman",
-"given": "Matilda",
+"full": "Minerva Dowis",
+"given": "Minerva",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Coffman"
+"Dowis"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Married Name"
 }
 ],
 [
@@ -425,9 +625,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Jair \"Jerry\" W Cowell",
-"given": "Jair \"Jerry\" W",
-"nick": "",
+"full": "Jair W Cowell",
+"given": "Jair W",
+"nick": "Jerry",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -495,7 +695,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-28
+26
 ],
 "date": "",
 "fam_nick": "",
@@ -512,8 +712,24 @@ I_names_0 = [
 },
 {
 "call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Juda Tharp",
+"given": "Juda",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Tharp"
+],
+"title": "",
+"type": "Married Name"
+},
+{
+"call": "",
 "cita": [
-28
+26
 ],
 "date": "",
 "fam_nick": "",
@@ -526,7 +742,7 @@ I_names_0 = [
 "Tharp"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -545,13 +761,29 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Mitchell",
+"given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Mitchell"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
 {
 "call": "",
 "cita": [
-20
+19
 ],
 "date": "",
 "fam_nick": "",
@@ -565,6 +797,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rachel Wildman",
+"given": "Rachel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Wildman"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -598,7 +846,7 @@ I_names_0 = [
 "German"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 },
 {
 "call": "",
@@ -614,7 +862,23 @@ I_names_0 = [
 "Germann"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Scheuermann",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Scheuermann"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -623,9 +887,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Bernice \"Bunny\" Loretta Goforth",
-"given": "Bernice \"Bunny\" Loretta",
-"nick": "",
+"full": "Bernice Loretta Goforth",
+"given": "Bernice Loretta",
+"nick": "Bunny",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -633,6 +897,38 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Bernice Loretta Beal",
+"given": "Bernice Loretta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beal"
+],
+"title": "",
+"type": "Married Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Bernice Loretta Dukes",
+"given": "Bernice Loretta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dukes"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -669,6 +965,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Eva M Swetland",
+"given": "Eva M",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Swetland"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -677,9 +989,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Frederick Mortimer \"F.M.\" Hanna",
-"given": "Frederick Mortimer \"F.M.\"",
-"nick": "",
+"full": "Frederick Mortimer Hanna",
+"given": "Frederick Mortimer",
+"nick": "F.M.",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -715,7 +1027,7 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Christian Hehn",
 "given": "Christian",
-"nick": "",
+"nick": "Christy",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -741,6 +1053,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rose Swetland",
+"given": "Rose",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Swetland"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -759,6 +1087,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Scoville",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Scoville"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -899,7 +1243,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-224
+229
 ],
 "date": "",
 "fam_nick": "",
@@ -913,6 +1257,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Catherine Elizabeth Schierman",
+"given": "Catherine Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Schierman"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -955,8 +1315,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Nancy Maria Squier",
-"given": "Nancy Maria",
+"full": "Nancy Marie Squier",
+"given": "Nancy Marie",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -998,7 +1358,7 @@ I_names_0 = [
 "Squier"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Married Name"
 }
 ],
 [
@@ -1025,8 +1385,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Mary E \"Mollie\" Hostetter",
-"given": "Mary E \"Mollie\"",
+"full": "Mary E Hostetter",
+"given": "Mary E",
 "nick": "Mollie",
 "note": "",
 "suffix": "",
@@ -1035,6 +1395,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary E Hudson",
+"given": "Mary E",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hudson"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1089,6 +1465,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Vernice Cowell",
+"given": "Vernice",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Cowell"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1138,7 +1530,7 @@ I_names_0 = [
 "Jessup"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 },
 {
 "call": "",
@@ -1154,7 +1546,7 @@ I_names_0 = [
 "Jessup"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -1191,6 +1583,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Nancy S Hostetter",
+"given": "Nancy S",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hostetter"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1231,7 +1639,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-187
+192
 ],
 "date": "",
 "fam_nick": "",
@@ -1245,6 +1653,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Catherine Scheuermann",
+"given": "Catherine",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Scheuermann"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1263,6 +1687,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Marie Katherine Holstein",
+"given": "Marie Katherine",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Holstein"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1281,6 +1721,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Scheuermann",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Scheuermann"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1299,6 +1755,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sarah Ann Squier",
+"given": "Sarah Ann",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Squier"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1309,7 +1781,7 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Marion Martinsen",
 "given": "Marion",
-"nick": "",
+"nick": "Mary",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -1353,7 +1825,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-102
+107
 ],
 "date": "1881",
 "fam_nick": "",
@@ -1366,7 +1838,7 @@ I_names_0 = [
 "Kristian"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -1385,6 +1857,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ester A Barton",
+"given": "Ester A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Barton"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1425,7 +1913,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-16
+15
 ],
 "date": "",
 "fam_nick": "",
@@ -1439,6 +1927,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Clara Goforth",
+"given": "Clara",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Goforth"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1472,6 +1976,22 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Pratt"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Dorothy Maxine Swetland",
+"given": "Dorothy Maxine",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Swetland"
 ],
 "title": "",
 "type": "Married Name"
@@ -1508,7 +2028,7 @@ I_names_0 = [
 "Schaurmann"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -1542,7 +2062,7 @@ I_names_0 = [
 "Schauermann"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -1594,7 +2114,7 @@ I_names_0 = [
 "Schaurman"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -1675,9 +2195,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Johann Conrad \"Dob Conrad\" Schierman",
-"given": "Johann Conrad \"Dob Conrad\"",
-"nick": "",
+"full": "Johann Conrad Schierman",
+"given": "Johann Conrad",
+"nick": "Dob Conrad",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -1719,6 +2239,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sarah Holm",
+"given": "Sarah",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Holm"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1743,8 +2279,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Abigail Squier",
-"given": "Abigail",
+"full": "Abigail J Squier",
+"given": "Abigail J",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -1760,7 +2296,7 @@ I_names_0 = [
 "call": "",
 "cita": [],
 "date": "",
-"fam_nick": "Abbie",
+"fam_nick": "",
 "full": "Asa Scoville",
 "given": "Asa",
 "nick": "",
@@ -1804,7 +2340,7 @@ I_names_0 = [
 "Sedwick"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 },
 {
 "call": "",
@@ -1820,7 +2356,23 @@ I_names_0 = [
 "Sedgwick"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sophia Cowell",
+"given": "Sophia",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Cowell"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1839,6 +2391,38 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Arlene Helen Cowell",
+"given": "Arlene Helen",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Cowell"
+],
+"title": "",
+"type": "Married Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Arlene Helen Blackwell",
+"given": "Arlene Helen",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Blackwell"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -1987,7 +2571,7 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-89
+94
 ],
 "date": "",
 "fam_nick": "",
@@ -2000,7 +2584,23 @@ I_names_0 = [
 "Stalgreen"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Anna Pratt",
+"given": "Anna",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pratt"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -2019,6 +2619,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Eliza Hostetter",
+"given": "Eliza",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hostetter"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -2037,6 +2653,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Barbara M Hehn",
+"given": "Barbara M",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hehn"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -2070,7 +2702,7 @@ I_names_0 = [
 "Swetfeldt"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -2223,13 +2855,45 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rose \"Nellie\" N Tharp",
-"given": "Rose \"Nellie\" N",
-"nick": "",
+"full": "Rose N Tharp",
+"given": "Rose N",
+"nick": "Nellie",
 "note": "",
 "suffix": "",
 "surnames": [
 "Tharp"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rose N Cowell",
+"given": "Rose N",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Cowell"
+],
+"title": "",
+"type": "Married Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "",
+"given": "",
+"nick": "Rosey",
+"note": "",
+"suffix": "",
+"surnames": [
+""
 ],
 "title": "",
 "type": "Birth Name"
@@ -2284,7 +2948,7 @@ I_names_0 = [
 "Wildman"
 ],
 "title": "",
-"type": "Birth Name"
+"type": "Also Known As"
 }
 ],
 [
@@ -2303,6 +2967,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary L Cowell",
+"given": "Mary L",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Cowell"
+],
+"title": "",
+"type": "Married Name"
 }
 ],
 [
@@ -2321,6 +3001,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Squier",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Squier"
+],
+"title": "",
+"type": "Married Name"
 }
 ]
 ]

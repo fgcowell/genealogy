@@ -3,8 +3,12 @@
 I_death_place_0 = [
 "",
 "",
+"",
+"",
+"",
 "St. Luke's Memorial Hospital, Spokane, Spokane, Washington, USA",
 "Sigourney, Keokuk, Iowa, USA",
+"",
 "Josephine General Hospital, Grants Pass, Josephine, Oregon, USA",
 "Portland, Multnomah, Oregon, USA",
 "Grants Pass, Josephine, Oregon, USA",

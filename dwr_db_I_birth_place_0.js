@@ -3,8 +3,12 @@
 I_birth_place_0 = [
 "New York, USA",
 "Pennsylvania, USA",
+"Pennsylvania, USA",
+"",
+"Pennsylvania, USA",
 "Sigourney, Keokuk, Iowa, USA",
 "Pope, Illinois, USA",
+"",
 "Pittsburgh, Allegheny, Pennsylvania, USA",
 "Spokane, Spokane, Washington, USA",
 "Cass Lake, Cass, Minnesota, USA",

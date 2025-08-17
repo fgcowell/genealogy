@@ -2,6 +2,7 @@
 
 N_surname_0 = [
 "Adams",
+"Ashcraft",
 "Barton",
 "Beal",
 "Beasley",

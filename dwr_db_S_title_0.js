@@ -12,6 +12,7 @@ S_title_0 = [
 "Colorado Census",
 "Dean and Sandi Cowell Photo Books",
 "Elijah Roger Holm&#8217;s Diary",
+"Family Search photos from other users",
 "Faribault Democrat (Faribault, Minnesota)",
 "Find a Grave Webpages",
 "From Hardship to Homeland",

@@ -4,7 +4,7 @@ I_events_0 = [
 [
 {
 "cita": [
-203
+208
 ],
 "date": "about 1827",
 "date_sdn": 2388358,
@@ -15,71 +15,456 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 158,
+"place": 163,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-203
+208
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0269",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 205,
+"note": "",
+"rect": [
+4,
+20,
+95,
+34
+],
+"thumb": "thumb/b/f/fd01a72c90a57c41494343008fb-4,20-95,34.png"
+}
+],
 "part_family": [],
 "part_person": [
 0,
-83,
-86
+87,
+90
 ],
-"place": 35,
+"place": 37,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-75
+79
 ],
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
 "gid": "E0414",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 204,
+"note": "",
+"rect": [
+7,
+66,
+91,
+76
+],
+"thumb": "thumb/3/a/ff6b801785c774f233ed775e2a3-7,66-91,76.png"
+}
+],
 "part_family": [],
 "part_person": [
 0,
-83
+87
 ],
-"place": 89,
+"place": 94,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 }
 ],
 [
 {
 "cita": [
-100
+64
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0428",
+"media": [
+{
+"cita": [],
+"m_idx": 17,
+"note": "",
+"rect": [
+9,
+46,
+84,
+57
+],
+"thumb": "thumb/7/4/fc5457abda7116df3441e8e2847-9,46-84,57.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+8
+],
+"place": 72,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFamily is listed as having a servant in the household.\n</p>\n</div>\n</div>",
+"type": "Census (Father)"
+},
+{
+"cita": [
+64
+],
+"date": "about 1816",
+"date_sdn": 2384340,
+"descr": "",
+"gid": "E0430",
+"media": [],
+"part_family": [],
+"part_person": [
+1
+],
+"place": 182,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+52
+],
+"date": "1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0432",
+"media": [
+{
+"cita": [],
+"m_idx": 1,
+"note": "",
+"rect": [
+11,
+73,
+89,
+81
+],
+"thumb": "thumb/5/f/ff70c60957e7339a3e2c75162f5-11,73-89,81.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+51
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0434",
+"media": [
+{
+"cita": [],
+"m_idx": 2,
+"note": "",
+"rect": [
+2,
+28,
+94,
+43
+],
+"thumb": "thumb/b/e/ff70c951aa818205029b208daeb-2,28-94,43.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Father)"
+}
+],
+[
+{
+"cita": [
+64
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0428",
+"media": [
+{
+"cita": [],
+"m_idx": 17,
+"note": "",
+"rect": [
+9,
+46,
+84,
+57
+],
+"thumb": "thumb/7/4/fc5457abda7116df3441e8e2847-9,46-84,57.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+8
+],
+"place": 72,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFamily is listed as having a servant in the household.\n</p>\n</div>\n</div>",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+64
+],
+"date": "about 1823",
+"date_sdn": 2386897,
+"descr": "",
+"gid": "E0431",
+"media": [],
+"part_family": [],
+"part_person": [
+2
+],
+"place": 182,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+52
+],
+"date": "1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0432",
+"media": [
+{
+"cita": [],
+"m_idx": 1,
+"note": "",
+"rect": [
+11,
+73,
+89,
+81
+],
+"thumb": "thumb/5/f/ff70c60957e7339a3e2c75162f5-11,73-89,81.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+51
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0434",
+"media": [
+{
+"cita": [],
+"m_idx": 2,
+"note": "",
+"rect": [
+2,
+28,
+94,
+43
+],
+"thumb": "thumb/b/e/ff70c951aa818205029b208daeb-2,28-94,43.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Mother)"
+}
+],
+[
+{
+"cita": [
+49
+],
+"date": "1870",
+"date_sdn": 2404064,
+"descr": "",
+"gid": "E0429",
+"media": [
+{
+"cita": [],
+"m_idx": 16,
+"note": "",
+"rect": [
+11,
+45,
+89,
+50
+],
+"thumb": "thumb/d/3/ff70bee17875ea5a45d031d0d3d-11,45-89,50.png"
+}
+],
+"part_family": [],
+"part_person": [
+3,
+7,
+8
+],
+"place": 28,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+52
+],
+"date": "1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0432",
+"media": [
+{
+"cita": [],
+"m_idx": 1,
+"note": "",
+"rect": [
+11,
+73,
+89,
+81
+],
+"thumb": "thumb/5/f/ff70c60957e7339a3e2c75162f5-11,73-89,81.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+49,
+52
+],
+"date": "about 1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0433",
+"media": [],
+"part_family": [],
+"part_person": [
+3
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+51
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0434",
+"media": [
+{
+"cita": [],
+"m_idx": 2,
+"note": "",
+"rect": [
+2,
+28,
+94,
+43
+],
+"thumb": "thumb/b/e/ff70c951aa818205029b208daeb-2,28-94,43.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+3
+],
+"place": 38,
+"text": "",
+"type": "Census (Child)"
+}
+],
+[
+{
+"cita": [
+105
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0421",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 11,
+"note": "",
+"rect": [
+3,
+83,
+96,
+93
+],
+"thumb": "thumb/d/e/ff6bbed12794f3f8f18eda2faed-3,83-96,93.png"
+}
+],
 "part_family": [],
 "part_person": [
-1,
-3,
-54
+4,
+6,
+58
 ],
-"place": 110,
+"place": 115,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-100
+105
 ],
 "date": "about 1808",
 "date_sdn": 2381418,
@@ -88,15 +473,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1
+4
 ],
-"place": 177,
+"place": 182,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-100
+105
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -105,9 +490,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1
+4
 ],
-"place": 110,
+"place": 115,
 "text": "",
 "type": "Occupation"
 }
@@ -115,7 +500,7 @@ I_events_0 = [
 [
 {
 "cita": [
-86
+91
 ],
 "date": "3/30/1884",
 "date_sdn": 2409266,
@@ -124,29 +509,29 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 3,
+"m_idx": 6,
 "note": "",
 "rect": [
-5,
-15,
-75,
-22
+4,
+4,
+98,
+45
 ],
-"thumb": "thumb/9/5/fcbdf9817683248016062398e59-5,15-75,22.png"
+"thumb": "thumb/9/5/fcbdf9817683248016062398e59-4,4-98,45.png"
 }
 ],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 215,
+"place": 221,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-53,
-126
+54,
+131
 ],
 "date": "5/15/1900",
 "date_sdn": 2415155,
@@ -155,17 +540,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 39,
+"place": 42,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-126,
-172,
-221
+131,
+176,
+226
 ],
 "date": "12/17/1973",
 "date_sdn": 2442034,
@@ -174,7 +559,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 4,
+"m_idx": 7,
 "note": "",
 "rect": [
 0,
@@ -186,7 +571,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 7,
+"m_idx": 10,
 "note": "",
 "rect": [
 0,
@@ -199,15 +584,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 225,
+"place": 230,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nImmediate cause: Cerebral Vascular Accident. Due to Atrial Fibrillation (possible embolism). As a consequence of ASHD (atheroscelotic heart disease)<br />\nTime of death: 12:15 am\n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-172
+176
 ],
 "date": "from 1922",
 "date_sdn": 2423056,
@@ -216,17 +601,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 222,
+"place": 227,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-172,
-221,
-223
+176,
+226,
+228
 ],
 "date": "9/5/1931",
 "date_sdn": 2426590,
@@ -235,7 +620,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 6,
+"m_idx": 9,
 "note": "",
 "rect": [
 0,
@@ -248,89 +633,141 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 221,
+"place": 226,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-172
+176
 ],
 "date": "12/20/1973",
 "date_sdn": 2442037,
 "descr": "",
 "gid": "E0203",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 8,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/6/b/ff6b959fe2d3585a94462c763b6.png"
+}
+],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 71,
+"place": 76,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-110
+115
 ],
 "date": "1930",
 "date_sdn": 2425978,
 "descr": "",
 "gid": "E0060",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 19,
+"note": "",
+"rect": [
+9,
+43,
+95,
+49
+],
+"thumb": "thumb/c/c/fc5433b25bb136d87075b42eacc-9,43-95,49.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 115,
+"place": 121,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-216
+221
 ],
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
 "gid": "E0420",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 13,
+"note": "",
+"rect": [
+6,
+43,
+98,
+61
+],
+"thumb": "thumb/7/7/ff6bbb01a7f519af6f4f1f72377-6,43-98,61.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-3,
-8
+5,
+6,
+12
 ],
-"place": 243,
+"place": 248,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-189
+194
 ],
 "date": "1920",
 "date_sdn": 2422325,
 "descr": "",
 "gid": "E0059",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 18,
+"note": "",
+"rect": [
+8,
+37,
+94,
+44
+],
+"thumb": "thumb/a/5/fc54259329e13a050a6dd0ce25a-8,37-94,44.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 217,
+"place": 223,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-221
+226
 ],
 "date": "",
 "date_sdn": 0,
@@ -339,7 +776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2
+5
 ],
 "place": -1,
 "text": "",
@@ -347,7 +784,7 @@ I_events_0 = [
 },
 {
 "cita": [
-221
+226
 ],
 "date": "about 1973",
 "date_sdn": 2441684,
@@ -356,15 +793,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 67,
+"place": 71,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-40
+38
 ],
 "date": "1940",
 "date_sdn": 2429630,
@@ -373,48 +810,61 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 1,
+"m_idx": 4,
 "note": "",
 "rect": [
-17,
-52,
+10,
+51,
 93,
 54
 ],
-"thumb": "thumb/3/b/fcbe103200377991263ba426eb3-17,52-93,54.png"
+"thumb": "thumb/3/b/fcbe103200377991263ba426eb3-10,51-93,54.png"
 }
 ],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 228,
+"place": 233,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-201
+206
 ],
 "date": "1950",
 "date_sdn": 2433283,
 "descr": "",
 "gid": "E0415",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 5,
+"note": "",
+"rect": [
+9,
+60,
+94,
+63
+],
+"thumb": "thumb/d/8/ff6b944dcbb582d938430472b8d-9,60-94,63.png"
+}
+],
 "part_family": [],
 "part_person": [
-2
+5
 ],
-"place": 228,
+"place": 233,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
 }
 ],
 [
 {
 "cita": [
-79,
-88
+84,
+93
 ],
 "date": "about 1842",
 "date_sdn": 2393837,
@@ -423,16 +873,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
-"place": 186,
+"place": 192,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-79,
-88
+84,
+93
 ],
 "date": "1883",
 "date_sdn": 2408812,
@@ -441,32 +891,32 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
-"place": 215,
+"place": 221,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-79
+84
 ],
 "date": "9/1/1861",
 "date_sdn": 2401020,
-"descr": "Civil War. Enlisted 9/1/1861. Muster date 9/7/1861. Muster place Camp Butler Illinois. Rank Private. Company A. Regiment 48th Infantry. Side of war: Union. Muster out date 12/26/1864. Muster out place Fort McAllister, Georgia. Remarks: Term expired.",
+"descr": "Civil War (Union)",
 "gid": "E0417",
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
-"place": 29,
-"text": "",
+"place": 31,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nEnlisted 9/1/1861. Muster date 9/7/1861. Muster place Camp Butler Illinois. Rank Private. Company A. Regiment 48th Infantry. Side of war: Union. Muster out date 12/26/1864. Muster out place Fort McAllister, Georgia. Remarks: Term expired.\n</p>\n</div>\n</div>",
 "type": "Military Service"
 },
 {
 "cita": [
-79
+84
 ],
 "date": "2/18/1890",
 "date_sdn": 2411417,
@@ -475,15 +925,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
-"place": 215,
+"place": 221,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-79
+84
 ],
 "date": "1861",
 "date_sdn": 2400777,
@@ -492,69 +942,110 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
-"place": 157,
+"place": 162,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-216
+221
 ],
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
 "gid": "E0420",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 13,
+"note": "",
+"rect": [
+6,
+43,
+98,
+61
+],
+"thumb": "thumb/7/7/ff6bbb01a7f519af6f4f1f72377-6,43-98,61.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-3,
-8
+5,
+6,
+12
 ],
-"place": 243,
+"place": 248,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-100
+105
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0421",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 11,
+"note": "",
+"rect": [
+3,
+83,
+96,
+93
+],
+"thumb": "thumb/d/e/ff6bbed12794f3f8f18eda2faed-3,83-96,93.png"
+}
+],
 "part_family": [],
 "part_person": [
-1,
-3,
-54
+4,
+6,
+58
 ],
-"place": 110,
+"place": 115,
 "text": "",
-"type": "Census"
+"type": "Census (Child)"
 },
 {
 "cita": [
-188
+193
 ],
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
 "gid": "E0425",
-"media": [],
-"part_family": [],
-"part_person": [
-3
-],
-"place": 215,
-"text": "",
-"type": "Census"
-},
+"media": [
 {
 "cita": [],
+"m_idx": 12,
+"note": "",
+"rect": [
+15,
+84,
+86,
+93
+],
+"thumb": "thumb/d/7/ff6bc42b0795faff7cd119a4f7d-15,84-86,93.png"
+}
+],
+"part_family": [],
+"part_person": [
+6
+],
+"place": 221,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+193
+],
 "date": "",
 "date_sdn": 0,
 "descr": "First Marriage to Eliza. They both re-married.",
@@ -562,7 +1053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-3
+6
 ],
 "place": -1,
 "text": "",
@@ -572,44 +1063,67 @@ I_events_0 = [
 [
 {
 "cita": [
-84
+49
+],
+"date": "1870",
+"date_sdn": 2404064,
+"descr": "",
+"gid": "E0429",
+"media": [
+{
+"cita": [],
+"m_idx": 16,
+"note": "",
+"rect": [
+11,
+45,
+89,
+50
+],
+"thumb": "thumb/d/3/ff70bee17875ea5a45d031d0d3d-11,45-89,50.png"
+}
+],
+"part_family": [],
+"part_person": [
+3,
+7,
+8
+],
+"place": 28,
+"text": "",
+"type": "Census (Father)"
+}
+],
+[
+{
+"cita": [
+89
 ],
 "date": "1/25/1870",
 "date_sdn": 2404088,
 "descr": "",
 "gid": "E0053",
-"media": [
-{
-"cita": [],
-"m_idx": 18,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/b/4/fc544e9a5b762de8b3618a8734b.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 182,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"Possibly on the same farm. Thought to be part of a indian reservation. He was taised byhis grandfather John Ashcraft.\" \n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFuneral announcement incorrectly reports birth as \"Jan 25 1870\"\n</p>\n</div>\n</div>",
+"place": 187,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"Possibly on the same farm thought to be part of a indian reservation. He was raised by his grandfather John Ashcraft.\" - Unknown user note on MyHeritage page\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFuneral announcement incorrectly reports birth as \"Jan 25 1870\"\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
-"cita": [],
-"date": "9/12/1819",
-"date_sdn": 2385690,
-"descr": "Fought in World War 1, he enlisted at 25.",
+"cita": [
+89
+],
+"date": "9/12/1918",
+"date_sdn": 2421849,
+"descr": "World War 1",
 "gid": "E0055",
 "media": [
 {
 "cita": [],
-"m_idx": 18,
+"m_idx": 22,
 "note": "",
 "rect": [
 0,
@@ -622,7 +1136,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-4
+8
 ],
 "place": -1,
 "text": "",
@@ -630,24 +1144,7 @@ I_events_0 = [
 },
 {
 "cita": [
-104
-],
-"date": "1906",
-"date_sdn": 2417212,
-"descr": "Coal Miner",
-"gid": "E0056",
-"media": [],
-"part_family": [],
-"part_person": [
-4
-],
-"place": 140,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-104
+109
 ],
 "date": "10/24/1958",
 "date_sdn": 2436501,
@@ -656,7 +1153,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 17,
+"m_idx": 21,
 "note": "",
 "rect": [
 24,
@@ -665,74 +1162,126 @@ I_events_0 = [
 87
 ],
 "thumb": "thumb/3/a/fcbe144c6ca48fd1e393f3f41a3-24,19-77,87.png"
+},
+{
+"cita": [],
+"m_idx": 23,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/5/d/fc5446d198d2acfb4c99722d5.png"
 }
 ],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 112,
+"place": 118,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nCause: Coronary artery thrombosis. Due to: Arteriosclerosis. \n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-104
+81,
+109
 ],
 "date": "",
 "date_sdn": 0,
 "descr": "",
 "gid": "E0058",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 24,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/7/b/ff70de2ed7610dbea82433496b7.png"
+}
+],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 92,
+"place": 97,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-189
+194
 ],
 "date": "1920",
 "date_sdn": 2422325,
 "descr": "",
 "gid": "E0059",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 18,
+"note": "",
+"rect": [
+8,
+37,
+94,
+44
+],
+"thumb": "thumb/a/5/fc54259329e13a050a6dd0ce25a-8,37-94,44.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 217,
+"place": 223,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-110
+115
 ],
 "date": "1930",
 "date_sdn": 2425978,
 "descr": "",
 "gid": "E0060",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 19,
+"note": "",
+"rect": [
+9,
+43,
+95,
+49
+],
+"thumb": "thumb/c/c/fc5433b25bb136d87075b42eacc-9,43-95,49.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 115,
+"place": 121,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-107
+112
 ],
 "date": "",
 "date_sdn": 0,
@@ -741,26 +1290,58 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 146,
+"place": 151,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-104,
-107,
-132
+49
 ],
-"date": "1819",
-"date_sdn": 2385436,
+"date": "1870",
+"date_sdn": 2404064,
+"descr": "",
+"gid": "E0429",
+"media": [
+{
+"cita": [],
+"m_idx": 16,
+"note": "",
+"rect": [
+11,
+45,
+89,
+50
+],
+"thumb": "thumb/d/3/ff70bee17875ea5a45d031d0d3d-11,45-89,50.png"
+}
+],
+"part_family": [],
+"part_person": [
+3,
+7,
+8
+],
+"place": 28,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+109,
+112,
+137
+],
+"date": "1918",
+"date_sdn": 2421595,
 "descr": "Blacksmith",
 "gid": "E0065",
 "media": [
 {
 "cita": [],
-"m_idx": 18,
+"m_idx": 22,
 "note": "",
 "rect": [
 0,
@@ -773,7 +1354,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-4
+8
 ],
 "place": -1,
 "text": "",
@@ -781,7 +1362,7 @@ I_events_0 = [
 },
 {
 "cita": [
-104
+109
 ],
 "date": "3/8/1943",
 "date_sdn": 2430792,
@@ -790,7 +1371,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-4
+8
 ],
 "place": -1,
 "text": "",
@@ -798,8 +1379,8 @@ I_events_0 = [
 },
 {
 "cita": [
-110,
-189
+115,
+194
 ],
 "date": "1/25/1873",
 "date_sdn": 2405184,
@@ -808,7 +1389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-4
+8
 ],
 "place": -1,
 "text": "",
@@ -816,7 +1397,7 @@ I_events_0 = [
 },
 {
 "cita": [
-77
+82
 ],
 "date": "",
 "date_sdn": 0,
@@ -825,7 +1406,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 20,
+"m_idx": 25,
 "note": "",
 "rect": [
 0,
@@ -838,15 +1419,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 124,
+"place": 130,
 "text": "",
 "type": "Property"
 },
 {
 "cita": [
-155
+159
 ],
 "date": "about 3/25/1958",
 "date_sdn": 2436288,
@@ -855,7 +1436,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 16,
+"m_idx": 20,
 "note": "",
 "rect": [
 0,
@@ -868,15 +1449,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 139,
+"place": 145,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-132
+137
 ],
 "date": "after 1938",
 "date_sdn": 2428900,
@@ -885,17 +1466,49 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-4
+8
 ],
-"place": 83,
+"place": 87,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [
+64
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0428",
+"media": [
+{
+"cita": [],
+"m_idx": 17,
+"note": "",
+"rect": [
+9,
+46,
+84,
+57
+],
+"thumb": "thumb/7/4/fc5457abda7116df3441e8e2847-9,46-84,57.png"
+}
+],
+"part_family": [],
+"part_person": [
+1,
+2,
+8
+],
+"place": 72,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFamily is listed as having a servant in the household.\n</p>\n</div>\n</div>",
+"type": "Census (Grandchild)"
 }
 ],
 [
 {
 "cita": [
-103
+108
 ],
 "date": "7/15/1938",
 "date_sdn": 2429095,
@@ -904,15 +1517,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-5
+9
 ],
-"place": 221,
+"place": 226,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-103
+108
 ],
 "date": "9/25/2007",
 "date_sdn": 2454369,
@@ -921,7 +1534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-5
+9
 ],
 "place": 1,
 "text": "",
@@ -929,7 +1542,7 @@ I_events_0 = [
 },
 {
 "cita": [
-103
+108
 ],
 "date": "6/11/2017",
 "date_sdn": 2457916,
@@ -938,18 +1551,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-5
+9
 ],
-"place": 187,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSources online state death occurred in Bend however Joan was staying at a hospital in Portland Oregon when she passed away. Source - Myself and mother Sandi Cowell.\n</p>\n</div>\n</div>",
+"place": 193,
+"text": "",
 "type": "Death"
 }
 ],
 [
 {
 "cita": [
-67,
-108
+70,
+113
 ],
 "date": "11/3/1913",
 "date_sdn": 2420075,
@@ -958,15 +1571,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 32,
+"place": 34,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-108
+113
 ],
 "date": "5/5/1985",
 "date_sdn": 2446191,
@@ -975,15 +1588,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 83,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nCause = Stroke\n</p>\n</div>\n</div>",
+"place": 87,
+"text": "<div>\n<p>\n<b>Cause</b>: Stroke\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-110
+115
 ],
 "date": "1930",
 "date_sdn": 2425978,
@@ -992,37 +1605,24 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 115,
+"place": 121,
 "text": "",
 "type": "Residence"
 },
 {
-"cita": [],
-"date": "1920",
-"date_sdn": 2422325,
-"descr": "",
-"gid": "E0043",
-"media": [],
-"part_family": [],
-"part_person": [
-6
+"cita": [
+168
 ],
-"place": 217,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
 "date": "1941",
 "date_sdn": 2429996,
-"descr": "Unites States Army - Private, Branch Immaterial - Warrant Officers, USA",
+"descr": "World War II - Unites States Army Private",
 "gid": "E0045",
 "media": [
 {
 "cita": [],
-"m_idx": 35,
+"m_idx": 40,
 "note": "",
 "rect": [
 0,
@@ -1034,7 +1634,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 36,
+"m_idx": 41,
 "note": "",
 "rect": [
 0,
@@ -1047,70 +1647,109 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 221,
+"place": 226,
 "text": "",
 "type": "Military Service"
 },
 {
 "cita": [
-107
+112
 ],
 "date": "",
 "date_sdn": 0,
 "descr": "",
 "gid": "E0047",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 45,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/1/7/fc53e8735d53942ee14a753b71.png"
+}
+],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 92,
+"place": 97,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-110
+115
 ],
 "date": "1930",
 "date_sdn": 2425978,
 "descr": "",
 "gid": "E0060",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 19,
+"note": "",
+"rect": [
+9,
+43,
+95,
+49
+],
+"thumb": "thumb/c/c/fc5433b25bb136d87075b42eacc-9,43-95,49.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 115,
+"place": 121,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-189
+194
 ],
 "date": "1920",
 "date_sdn": 2422325,
 "descr": "",
 "gid": "E0059",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 18,
+"note": "",
+"rect": [
+8,
+37,
+94,
+44
+],
+"thumb": "thumb/a/5/fc54259329e13a050a6dd0ce25a-8,37-94,44.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-4,
-6
+5,
+8,
+10
 ],
-"place": 217,
+"place": 223,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-108
+113
 ],
 "date": "",
 "date_sdn": 0,
@@ -1119,7 +1758,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-6
+10
 ],
 "place": -1,
 "text": "",
@@ -1127,7 +1766,7 @@ I_events_0 = [
 },
 {
 "cita": [
-225
+230
 ],
 "date": "",
 "date_sdn": 0,
@@ -1136,7 +1775,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 41,
+"m_idx": 46,
 "note": "",
 "rect": [
 0,
@@ -1149,14 +1788,16 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
 "place": -1,
 "text": "",
 "type": "Occupation"
 },
 {
-"cita": [],
+"cita": [
+114
+],
 "date": "10/16/1940",
 "date_sdn": 2429919,
 "descr": "",
@@ -1164,7 +1805,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 39,
+"m_idx": 44,
 "note": "",
 "rect": [
 0,
@@ -1177,16 +1818,16 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 160,
+"place": 165,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-107,
-109
+112,
+114
 ],
 "date": "",
 "date_sdn": 0,
@@ -1195,7 +1836,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 39,
+"m_idx": 44,
 "note": "",
 "rect": [
 0,
@@ -1208,14 +1849,16 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 221,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nJohn Stepherson Beal was a blue collar worker. He was a machinist. He was in the military for a short time.\n</p>\n</div>\n</div>",
+"place": 226,
+"text": "",
 "type": "Occupation"
 },
 {
-"cita": [],
+"cita": [
+114
+],
 "date": "",
 "date_sdn": 0,
 "descr": "2 Yrs of highschool",
@@ -1223,7 +1866,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 39,
+"m_idx": 44,
 "note": "",
 "rect": [
 0,
@@ -1236,7 +1879,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
 "place": -1,
 "text": "",
@@ -1244,7 +1887,7 @@ I_events_0 = [
 },
 {
 "cita": [
-67
+70
 ],
 "date": "11/4/1913",
 "date_sdn": 2420076,
@@ -1253,7 +1896,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 37,
+"m_idx": 42,
 "note": "",
 "rect": [
 6,
@@ -1265,7 +1908,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 38,
+"m_idx": 43,
 "note": "",
 "rect": [
 5,
@@ -1278,9 +1921,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-6
+10
 ],
-"place": 69,
+"place": 74,
 "text": "",
 "type": "Baptism"
 }
@@ -1288,7 +1931,7 @@ I_events_0 = [
 [
 {
 "cita": [
-205
+210
 ],
 "date": "about 1818",
 "date_sdn": 2385071,
@@ -1297,15 +1940,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-7
+11
 ],
-"place": 162,
+"place": 167,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-205
+210
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -1314,30 +1957,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 45,
+"m_idx": 50,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+7,
+54,
+97,
+68
 ],
-"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393.png"
+"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393-7,54-97,68.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-8,
-45
+11,
+12,
+49
 ],
-"place": 215,
+"place": 221,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-205
+210
 ],
 "date": "",
 "date_sdn": 0,
@@ -1346,7 +1989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-7
+11
 ],
 "place": -1,
 "text": "",
@@ -1354,7 +1997,7 @@ I_events_0 = [
 },
 {
 "cita": [
-234
+239
 ],
 "date": "between 1870 and 1880",
 "date_sdn": 2404064,
@@ -1363,7 +2006,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-7
+11
 ],
 "place": -1,
 "text": "",
@@ -1371,7 +2014,7 @@ I_events_0 = [
 },
 {
 "cita": [
-231
+236
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -1380,30 +2023,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 46,
+"m_idx": 51,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+12,
+55,
+77,
+71
 ],
-"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97.png"
+"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97-12,55-77,71.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-8,
-45
+11,
+12,
+49
 ],
-"place": 122,
+"place": 128,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-129
+134
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -1412,31 +2055,31 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 44,
+"m_idx": 49,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+86,
+88,
+94
 ],
-"thumb": "thumb/b/9/ff24d885aae4d7ce0b4f194e39b.png"
+"thumb": "thumb/b/9/ff24d885aae4d7ce0b4f194e39b-6,86-88,94.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-45
+11,
+49
 ],
-"place": 130,
+"place": 136,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-234
+239
 ],
 "date": "1880",
 "date_sdn": 2407716,
@@ -1445,30 +2088,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 155,
+"m_idx": 157,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+19,
+70,
+91,
+74
 ],
-"thumb": "thumb/0/6/ff24cb835cb7bc901e7624db960.png"
+"thumb": "thumb/0/6/ff24cb835cb7bc901e7624db960-19,70-91,74.png"
 }
 ],
 "part_family": [],
 "part_person": [
-8,
-45
+12,
+49
 ],
-"place": 215,
+"place": 221,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-86,
-88
+91,
+93
 ],
 "date": "9/23/1857",
 "date_sdn": 2399581,
@@ -1477,7 +2120,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 3,
+"m_idx": 6,
 "note": "",
 "rect": [
 6,
@@ -1490,24 +2133,25 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-8
+12
 ],
-"place": 215,
+"place": 221,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-197
+55,
+202
 ],
 "date": "8/20/1923",
 "date_sdn": 2423652,
-"descr": "Cause: Fractured ribs followed by pleuropneumonia. According to obit: &#8220;She died in the Mercy Hospital here after a short illness resultant from falling down the cellar stairs of her home near North Liberty.&#8221;",
+"descr": "",
 "gid": "E0403",
 "media": [
 {
 "cita": [],
-"m_idx": 48,
+"m_idx": 53,
 "note": "",
 "rect": [
 0,
@@ -1519,7 +2163,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 49,
+"m_idx": 54,
 "note": "",
 "rect": [
 0,
@@ -1532,15 +2176,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-8
+12
 ],
-"place": 105,
-"text": "",
+"place": 110,
+"text": "<div>\n<p>\n<b>Cause</b>: Fractured ribs followed by pleuropneumonia. According to obit: \"She died in the Mercy Hospital here after a short illness resultant from falling down the cellar stairs of her home near North Liberty.\"\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-94
+99
 ],
 "date": "10/26/1889",
 "date_sdn": 2411302,
@@ -1549,34 +2193,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-8
+12
 ],
-"place": 122,
+"place": 128,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-216
+221
 ],
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
 "gid": "E0420",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 13,
+"note": "",
+"rect": [
+6,
+43,
+98,
+61
+],
+"thumb": "thumb/7/7/ff6bbb01a7f519af6f4f1f72377-6,43-98,61.png"
+}
+],
 "part_family": [],
 "part_person": [
-2,
-3,
-8
+5,
+6,
+12
 ],
-"place": 243,
+"place": 248,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-205
+210
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -1585,30 +2242,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 45,
+"m_idx": 50,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+7,
+54,
+97,
+68
 ],
-"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393.png"
+"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393-7,54-97,68.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-8,
-45
+11,
+12,
+49
 ],
-"place": 215,
+"place": 221,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-231
+236
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -1617,32 +2274,32 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 46,
+"m_idx": 51,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+12,
+55,
+77,
+71
 ],
-"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97.png"
+"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97-12,55-77,71.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-8,
-45
+11,
+12,
+49
 ],
-"place": 122,
+"place": 128,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 }
 ],
 [
 {
 "cita": [
-207
+212
 ],
 "date": "about 1813",
 "date_sdn": 2383245,
@@ -1651,15 +2308,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-9
+13
 ],
-"place": 45,
+"place": 49,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-207
+212
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -1668,63 +2325,64 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 50,
+"m_idx": 55,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+10,
+79,
+92,
+94
 ],
-"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4.png"
+"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4-10,79-92,94.png"
 }
 ],
 "part_family": [],
 "part_person": [
-9,
-10,
-11
+13,
+14,
+15
 ],
-"place": 49,
+"place": 53,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-233
+238
 ],
 "date": "1880",
 "date_sdn": 2407716,
-"descr": "(Caroline Bronson, Julia&#8217;s Mom, was just visiting)",
+"descr": "Caroline, Julia&#8217;s Mom, was visiting",
 "gid": "E0382",
 "media": [
 {
 "cita": [],
-"m_idx": 113,
+"m_idx": 116,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+18,
+30,
+83,
+40
 ],
-"thumb": "thumb/c/4/ff1c745f87e213a9f5ab955794c.png"
+"thumb": "thumb/c/4/ff1c745f87e213a9f5ab955794c-18,30-83,40.png"
 }
 ],
 "part_family": [],
 "part_person": [
-9,
-28
+13,
+15,
+32
 ],
-"place": 77,
+"place": 81,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Grandparent)"
 }
 ],
 [
 {
 "cita": [
-207
+212
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -1733,30 +2391,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 50,
+"m_idx": 55,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+10,
+79,
+92,
+94
 ],
-"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4.png"
+"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4-10,79-92,94.png"
 }
 ],
 "part_family": [],
 "part_person": [
-9,
-10,
-11
+13,
+14,
+15
 ],
-"place": 49,
+"place": 53,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-207
+212
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -1765,15 +2423,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-10
+14
 ],
-"place": 49,
+"place": 53,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-207
+212
 ],
 "date": "about 1795",
 "date_sdn": 2376671,
@@ -1782,9 +2440,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-10
+14
 ],
-"place": 45,
+"place": 49,
 "text": "",
 "type": "Birth"
 }
@@ -1792,7 +2450,7 @@ I_events_0 = [
 [
 {
 "cita": [
-206
+211
 ],
 "date": "about 1838",
 "date_sdn": 2392376,
@@ -1801,45 +2459,78 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-11
+15
 ],
-"place": 158,
+"place": 163,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-230
+235
 ],
 "date": "1870",
 "date_sdn": 2404064,
-"descr": "Listed w/o frederick; Name &#8220;Mariah&#8221; (all dates and birth places of her and children line up, so I believe this is same person)",
+"descr": "",
 "gid": "E0389",
+"media": [
+{
+"cita": [],
+"m_idx": 118,
+"note": "",
+"rect": [
+11,
+85,
+90,
+91
+],
+"thumb": "thumb/a/9/ff1c7fbb24d77017d0537bd999a-11,85-90,91.png"
+}
+],
+"part_family": [],
+"part_person": [
+15,
+31
+],
+"place": 14,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nJulia is listed as head of household w/o frederick; Name \"Mariah\" (all dates and birth places of her and children line up, so I believe this is same person)\n</p>\n</div>\n</div>",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+211
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0384",
 "media": [
 {
 "cita": [],
 "m_idx": 115,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+4,
+80,
+79,
+88
 ],
-"thumb": "thumb/a/9/ff1c7fbb24d77017d0537bd999a.png"
+"thumb": "thumb/2/3/fd01ca8d60323f454fb509e2d32-4,80-79,88.png"
 }
 ],
 "part_family": [],
 "part_person": [
-11
+15,
+31,
+32
 ],
-"place": 14,
+"place": 81,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-207
+212
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -1848,30 +2539,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 50,
+"m_idx": 55,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+10,
+79,
+92,
+94
 ],
-"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4.png"
+"thumb": "thumb/4/d/ff1c7b2b9ffbcf420bdf7c8ed4-10,79-92,94.png"
 }
 ],
 "part_family": [],
 "part_person": [
-9,
-10,
-11
+13,
+14,
+15
 ],
-"place": 49,
+"place": 53,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 },
 {
 "cita": [
-241
+246
 ],
 "date": "1920",
 "date_sdn": 2422325,
@@ -1880,30 +2571,62 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 116,
+"m_idx": 119,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+11,
+47,
+96,
+54
 ],
-"thumb": "thumb/f/7/ff1c887d161406601ef530d907f.png"
+"thumb": "thumb/f/7/ff1c887d161406601ef530d907f-11,47-96,54.png"
 }
 ],
 "part_family": [],
 "part_person": [
-11
+15
 ],
-"place": 181,
+"place": 186,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
+},
+{
+"cita": [
+238
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "Caroline, Julia&#8217;s Mom, was visiting",
+"gid": "E0382",
+"media": [
+{
+"cita": [],
+"m_idx": 116,
+"note": "",
+"rect": [
+18,
+30,
+83,
+40
+],
+"thumb": "thumb/c/4/ff1c745f87e213a9f5ab955794c-18,30-83,40.png"
+}
+],
+"part_family": [],
+"part_person": [
+13,
+15,
+32
+],
+"place": 81,
+"text": "",
+"type": "Census (Mother)"
 }
 ],
 [
 {
 "cita": [
-59
+60
 ],
 "date": "about 1819",
 "date_sdn": 2385436,
@@ -1912,1217 +2635,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-12
-],
-"place": 236,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [
-50
-],
-"date": "9/9/1934",
-"date_sdn": 2427690,
-"descr": "Birth of Edward Hudson Cowell",
-"gid": "E0017",
-"media": [
-{
-"cita": [
-50
-],
-"m_idx": 55,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/7/fc068ab86f533f2d626130f1d79.png"
-}
-],
-"part_family": [],
-"part_person": [
-13
-],
-"place": 151,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-140
-],
-"date": "7/8/1957",
-"date_sdn": 2436028,
-"descr": "Death of Edward Hudson Cowell",
-"gid": "E0019",
-"media": [
-{
-"cita": [
-140
-],
-"m_idx": 56,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/9/fc0694c6bfb533708c360c0f091.png"
-}
-],
-"part_family": [],
-"part_person": [
-13
-],
-"place": 195,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [
-168
-],
-"date": "about 2/23/1953",
-"date_sdn": 2434432,
-"descr": "Theft of Items Belonging to Edward Hudson Cowell",
-"gid": "E0020",
-"media": [
-{
-"cita": [
-168
-],
-"m_idx": 54,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/7/c/fc0697ea5a735419556d63eabc7.png"
-}
-],
-"part_family": [],
-"part_person": [
-13
-],
-"place": 138,
-"text": "",
-"type": "Interesting Event"
-},
-{
-"cita": [
-169
-],
-"date": "1954",
-"date_sdn": 2434744,
-"descr": "Western Electric; Occupation of Edward Hudson Cowell",
-"gid": "E0032",
-"media": [],
-"part_family": [],
-"part_person": [
-13
-],
-"place": 138,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [],
-"date": "about 7/8/1957",
-"date_sdn": 2436028,
-"descr": "Burial of Edward Hudson Cowell",
-"gid": "E0033",
-"media": [
-{
-"cita": [
-61
-],
-"m_idx": 53,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/a/a/fc06c6caaf32a02d50dc39eecaa.png"
-}
-],
-"part_family": [],
-"part_person": [
-13
-],
-"place": 60,
-"text": "",
-"type": "Burial"
-}
-],
-[
-{
-"cita": [
-39
-],
-"date": "10/14/1928",
-"date_sdn": 2425534,
-"descr": "Cerebral Hemmorage",
-"gid": "E0116",
-"media": [
-{
-"cita": [],
-"m_idx": 63,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/a/fc6112d41093c8941af1fb050a1.png"
-},
-{
-"cita": [],
-"m_idx": 68,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc6d92a9eca4adc70e368a9eac9.png"
-},
-{
-"cita": [],
-"m_idx": 245,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/3/fc6108596c167d7d195d992935.png"
-}
-],
-"part_family": [],
-"part_person": [
-14
-],
-"place": 132,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDeath certificate lists date and time of death at Oct 14 1927 at 2:30am\n</p>\n</div>\n</div>",
-"type": "Death"
-},
-{
-"cita": [],
-"date": "5/13/1841",
-"date_sdn": 2393604,
-"descr": "",
-"gid": "E0119",
-"media": [
-{
-"cita": [],
-"m_idx": 63,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/a/fc6112d41093c8941af1fb050a1.png"
-},
-{
-"cita": [],
-"m_idx": 68,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc6d92a9eca4adc70e368a9eac9.png"
-}
-],
-"part_family": [],
-"part_person": [
-14
-],
-"place": 86,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-152
-],
-"date": "4/1902",
-"date_sdn": 2415841,
-"descr": "Hotel Keeper",
-"gid": "E0140",
-"media": [
-{
-"cita": [],
-"m_idx": 97,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/8/fc6abd0d9f45b2b854f400b9688.png"
-}
-],
-"part_family": [],
-"part_person": [
-14
-],
-"place": 132,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-62
-],
-"date": "10/1928",
-"date_sdn": 2425521,
-"descr": "",
-"gid": "E0157",
-"media": [],
-"part_family": [],
-"part_person": [
-14
-],
-"place": 185,
-"text": "",
-"type": "Burial"
-},
-{
-"cita": [
-147
-],
-"date": "5/18/1882",
-"date_sdn": 2408584,
-"descr": "Newspaper Article: Greene Co., PA to the Front, naming the persons in Ringgold who came from &#8220;Beaver County&#8221;/Greene County, PA.",
-"gid": "E0321",
-"media": [],
-"part_family": [],
-"part_person": [
-14
-],
-"place": -1,
-"text": "",
-"type": "Interesting Event"
-}
-],
-[
-{
-"cita": [
-98
-],
-"date": "1841",
-"date_sdn": 2393472,
-"descr": "Final pension payment",
-"gid": "E0144",
-"media": [
-{
-"cita": [],
-"m_idx": 69,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/0/3/fc6acc0808dd41523eaead9530.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 182,
-"text": "",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "5/1/1832",
-"date_sdn": 2390305,
-"descr": "$60 annual pension granted - Issued under the Act of June 7, 1832",
-"gid": "E0145",
-"media": [
-{
-"cita": [],
-"m_idx": 69,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/0/3/fc6acc0808dd41523eaead9530.png"
-},
-{
-"cita": [],
-"m_idx": 70,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/d/fc6d8ef01094eaafa4b3e1268d5.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 182,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nJust adjusted for inflation that would be about $2,100, not accounting for purchasing power changes between then and now\n</p>\n</div>\n</div>",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "4/9/1785",
-"date_sdn": 2373117,
-"descr": "Issued Record of Active Duty",
-"gid": "E0146",
-"media": [
-{
-"cita": [],
-"m_idx": 71,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/3/0/fc6ace0225a5bd034681f591203.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 16,
-"text": "",
-"type": "Military Service"
-},
-{
-"cita": [
-220
-],
-"date": "4/22/1757",
-"date_sdn": 2362903,
-"descr": "",
-"gid": "E0147",
-"media": [
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 99,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "5/1776",
-"date_sdn": 2369852,
-"descr": "Enlisted in the Army of the United States, 2nd Regiment of the Jersey Line (New Jersey Militia) as a Private",
-"gid": "E0148",
-"media": [
-{
-"cita": [],
-"m_idx": 51,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
-},
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 150,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nServed in the 2nd Regiment of the Jersey Line (in the Flying Camp and the New Jersey Militia) as a Private<br />\nVarious times amounting to 19 months<br />\nHis last service was in 1781 for 2 months<br />\nServed under Captains Nathaniel Luce and Charles Tygard, and Colonel Ephraim Martin<br />\nHe was in the battles of Long Island and Monmouth\n</p>\n</div>\n</div>",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "8/1776",
-"date_sdn": 2369944,
-"descr": "Engaged in the Battle of Long Island with forces commanded by General Sullivan",
-"gid": "E0149",
-"media": [
-{
-"cita": [],
-"m_idx": 51,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": -1,
-"text": "",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "1778",
-"date_sdn": 2370462,
-"descr": "Engaged in the battle of Monmouth",
-"gid": "E0150",
-"media": [
-{
-"cita": [],
-"m_idx": 51,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": -1,
-"text": "",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "between 1776 and 1778",
-"date_sdn": 2369731,
-"descr": "Joined George Washington and 5000 troops in a severe engagement with like numbers of british troops",
-"gid": "E0151",
-"media": [
-{
-"cita": [],
-"m_idx": 51,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 75,
-"text": "",
-"type": "Military Service"
-},
-{
-"cita": [],
-"date": "10/27/1841",
-"date_sdn": 2393771,
-"descr": "",
-"gid": "E0152",
-"media": [
-{
-"cita": [],
-"m_idx": 51,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
-},
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 86,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [
-97
-],
-"date": "11/22/1841",
-"date_sdn": 2393797,
-"descr": "",
-"gid": "E0153",
-"media": [
-{
-"cita": [],
-"m_idx": 75,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/1/fc6ad7445c9642b0f2a6486c515.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 66,
-"text": "",
-"type": "Will"
-},
-{
-"cita": [],
-"date": "from 1781 to 1808",
-"date_sdn": 2371558,
-"descr": "",
-"gid": "E0154",
-"media": [
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 16,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "from 1808 to 1832",
-"date_sdn": 2381418,
-"descr": "",
-"gid": "E0155",
-"media": [
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 86,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "from 1832 to 1841",
-"date_sdn": 2390184,
-"descr": "",
-"gid": "E0156",
-"media": [
-{
-"cita": [],
-"m_idx": 73,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
-}
-],
-"part_family": [],
-"part_person": [
-15
-],
-"place": 66,
-"text": "",
-"type": "Residence"
-}
-],
-[
-{
-"cita": [
-161
-],
-"date": "9/18/1881",
-"date_sdn": 2408342,
-"descr": "",
-"gid": "E0120",
-"media": [
-{
-"cita": [],
-"m_idx": 79,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/0/0/fc611d35ee97228db0e70a0f00.png"
-}
-],
-"part_family": [],
-"part_person": [
 16
 ],
-"place": -1,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [
-153
-],
-"date": "about 11/3/1865",
-"date_sdn": 2402544,
-"descr": "Gold found on Jacob Cowell&#8217;s farm",
-"gid": "E0132",
-"media": [
-{
-"cita": [],
-"m_idx": 78,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/c/fc6a9dac57c315c293a3a9593c2.png"
-}
-],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 137,
-"text": "",
-"type": "Interesting Event"
-},
-{
-"cita": [],
-"date": "about 1865",
-"date_sdn": 2402238,
-"descr": "Farm",
-"gid": "E0133",
-"media": [
-{
-"cita": [],
-"m_idx": 78,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/c/fc6a9dac57c315c293a3a9593c2.png"
-}
-],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 137,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [
-161
-],
-"date": "4/23/1879",
-"date_sdn": 2407463,
-"descr": "",
-"gid": "E0199",
-"media": [],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 86,
-"text": "",
-"type": "Will"
-},
-{
-"cita": [
-161
-],
-"date": "8/22/1801",
-"date_sdn": 2379095,
-"descr": "",
-"gid": "E0322",
-"media": [],
-"part_family": [],
-"part_person": [
-16
-],
-"place": -1,
+"place": 241,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-25
-],
-"date": "1830",
-"date_sdn": 2389454,
-"descr": "",
-"gid": "E0328",
-"media": [],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 66,
-"text": "",
-"type": "Census"
-},
-{
-"cita": [
-26
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Remarried to Elizabeth between 1850-1860",
-"gid": "E0329",
-"media": [],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 66,
-"text": "",
-"type": "Marriage"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1895",
-"date_sdn": 2413195,
-"descr": "Altercation with John Maple",
-"gid": "E0138",
-"media": [
-{
-"cita": [],
-"m_idx": 80,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/0/fc6107737764bb9e97ff8c69908.png"
-}
-],
-"part_family": [],
-"part_person": [
-17
-],
-"place": 132,
-"text": "",
-"type": "Interesting Event"
-},
-{
-"cita": [
-92,
-196
-],
-"date": "1/20/1870",
-"date_sdn": 2404083,
-"descr": "",
-"gid": "E0279",
-"media": [],
-"part_family": [],
-"part_person": [
-17
-],
-"place": 235,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-232
-],
-"date": "1880",
-"date_sdn": 2407716,
-"descr": "",
-"gid": "E0295",
-"media": [
-{
-"cita": [],
-"m_idx": 61,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/3/1/fd31fe13da47f984bc3e4cd8413.png"
-},
-{
-"cita": [
-232
-],
-"m_idx": 237,
-"note": "",
-"rect": [
-10,
-60,
-81,
-80
-],
-"thumb": "thumb/0/0/fea09b0e51a2ccbfe8c90b2c900-10,60-81,80.png"
-}
-],
-"part_family": [],
-"part_person": [
-17,
-91
-],
-"place": 23,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAccording to this 1880 census Jair Cowell and Rose Tharp lived right next door to each other when he was 10 years old and she was 6 years old. <br />\nRose's name is listed as \"Rosey\".\n</p>\n</div>\n</div>",
-"type": "Census"
-},
-{
-"cita": [
-196
-],
-"date": "4/7/1949",
-"date_sdn": 2433014,
-"descr": "Cause: Hypostatic pneumonia due to Malnutrition due to Parkinson&#8217;s Disease. Secondary condition: Anemia.",
-"gid": "E0297",
-"media": [
-{
-"cita": [],
-"m_idx": 81,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/f/fea642adb4b40c8d3e9c10240f5.png"
-}
-],
-"part_family": [],
-"part_person": [
-17
-],
-"place": 17,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [
-196
-],
-"date": "4/9/1949",
-"date_sdn": 2433016,
-"descr": "",
-"gid": "E0298",
-"media": [
-{
-"cita": [
-82
-],
-"m_idx": 82,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/a/c/fea648af7b4326cf3dfbf3bdfca.png"
-}
-],
-"part_family": [],
-"part_person": [
-17
-],
-"place": 184,
-"text": "",
-"type": "Burial"
-},
-{
-"cita": [
-196
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Farmer",
-"gid": "E0299",
-"media": [],
-"part_family": [],
-"part_person": [
-17
-],
-"place": -1,
-"text": "",
-"type": "Occupation"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1929",
-"date_sdn": 2425613,
-"descr": "Mechanic",
-"gid": "E0196",
-"media": [
-{
-"cita": [],
-"m_idx": 92,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/e/9/fc97876c85ee95b943eaf7f09e.png"
-}
-],
-"part_family": [],
-"part_person": [
-18
-],
-"place": -1,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-87
-],
-"date": "8/3/1907",
-"date_sdn": 2417791,
-"descr": "",
-"gid": "E0197",
-"media": [
-{
-"cita": [],
-"m_idx": 92,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/e/9/fc97876c85ee95b943eaf7f09e.png"
-}
-],
-"part_family": [],
-"part_person": [
-18
-],
-"place": 196,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-134
-],
-"date": "6/17/1988",
-"date_sdn": 2447330,
-"descr": "",
-"gid": "E0239",
-"media": [
-{
-"cita": [],
-"m_idx": 90,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/b/7/fcdb32f21343cbdc032f458cd7b.png"
-}
-],
-"part_family": [],
-"part_person": [
-18
-],
-"place": 61,
-"text": "",
-"type": "Death"
-}
-],
-[],
-[
-{
-"cita": [
-99
-],
-"date": "1860",
-"date_sdn": 2400411,
-"descr": "",
-"gid": "E0349",
-"media": [
-{
-"cita": [],
-"m_idx": 94,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/2/ff19cea84345496f3117ca2a425.png"
-}
-],
-"part_family": [],
-"part_person": [
-20
-],
-"place": 108,
-"text": "",
-"type": "Census"
-},
-{
-"cita": [
-59,
-99
-],
-"date": "about 1816",
-"date_sdn": 2384340,
-"descr": "",
-"gid": "E0350",
-"media": [],
-"part_family": [],
-"part_person": [
-20
-],
-"place": 116,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-59,
-99
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Farmer",
-"gid": "E0351",
-"media": [],
-"part_family": [],
-"part_person": [
-20
-],
-"place": -1,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-59
+60
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -3131,7 +2652,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 93,
+"m_idx": 96,
 "note": "",
 "rect": [
 11,
@@ -3144,18 +2665,1316 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-20
+16,
+24,
+25
 ],
-"place": 235,
+"place": 240,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
+},
+{
+"cita": [
+104
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0349",
+"media": [
+{
+"cita": [],
+"m_idx": 97,
+"note": "",
+"rect": [
+7,
+47,
+93,
+72
+],
+"thumb": "thumb/5/2/ff19cea84345496f3117ca2a425-7,47-93,72.png"
+}
+],
+"part_family": [],
+"part_person": [
+16,
+24,
+25
+],
+"place": 113,
+"text": "",
+"type": "Census (Unknown)"
 }
 ],
 [
 {
 "cita": [
-28,
-78
+48
+],
+"date": "9/9/1934",
+"date_sdn": 2427690,
+"descr": "",
+"gid": "E0017",
+"media": [
+{
+"cita": [
+48
+],
+"m_idx": 60,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/7/fc068ab86f533f2d626130f1d79.png"
+}
+],
+"part_family": [],
+"part_person": [
+17
+],
+"place": 156,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+145
+],
+"date": "7/8/1957",
+"date_sdn": 2436028,
+"descr": "",
+"gid": "E0019",
+"media": [
+{
+"cita": [
+145
+],
+"m_idx": 61,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/1/9/fc0694c6bfb533708c360c0f091.png"
+}
+],
+"part_family": [],
+"part_person": [
+17
+],
+"place": 201,
+"text": "<div>\n<p>\n<b>Cause</b>: Construction/traffic accident\n</p>\n</div>",
+"type": "Death"
+},
+{
+"cita": [
+172
+],
+"date": "about 2/23/1953",
+"date_sdn": 2434432,
+"descr": "Hubcaps and fender skirts stolen while he was attending the saturday night Medford-Grants Pass basketball game",
+"gid": "E0020",
+"media": [
+{
+"cita": [
+172
+],
+"m_idx": 59,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/7/c/fc0697ea5a735419556d63eabc7.png"
+}
+],
+"part_family": [],
+"part_person": [
+17
+],
+"place": 144,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+173
+],
+"date": "1954",
+"date_sdn": 2434744,
+"descr": "Western Electric",
+"gid": "E0032",
+"media": [],
+"part_family": [],
+"part_person": [
+17
+],
+"place": 144,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+62
+],
+"date": "about 7/8/1957",
+"date_sdn": 2436028,
+"descr": "",
+"gid": "E0033",
+"media": [
+{
+"cita": [
+63
+],
+"m_idx": 58,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/a/fc06c6caaf32a02d50dc39eecaa.png"
+}
+],
+"part_family": [],
+"part_person": [
+17
+],
+"place": 64,
+"text": "",
+"type": "Burial"
+}
+],
+[
+{
+"cita": [
+37,
+178
+],
+"date": "10/14/1927",
+"date_sdn": 2425168,
+"descr": "",
+"gid": "E0116",
+"media": [
+{
+"cita": [],
+"m_idx": 66,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/1/a/fc6112d41093c8941af1fb050a1.png"
+},
+{
+"cita": [],
+"m_idx": 71,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/c/fc6d92a9eca4adc70e368a9eac9.png"
+}
+],
+"part_family": [],
+"part_person": [
+18
+],
+"place": 138,
+"text": "<div>\n<p>\n<b>Cause</b>: Cerebral Hemmorage\n</p>\n</div>",
+"type": "Death"
+},
+{
+"cita": [
+37,
+65
+],
+"date": "5/13/1841",
+"date_sdn": 2393604,
+"descr": "",
+"gid": "E0119",
+"media": [],
+"part_family": [],
+"part_person": [
+18
+],
+"place": 91,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+156
+],
+"date": "4/1902",
+"date_sdn": 2415841,
+"descr": "Hotel Keeper",
+"gid": "E0140",
+"media": [],
+"part_family": [],
+"part_person": [
+18
+],
+"place": 138,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+65
+],
+"date": "10/1928",
+"date_sdn": 2425521,
+"descr": "",
+"gid": "E0157",
+"media": [],
+"part_family": [],
+"part_person": [
+18
+],
+"place": 191,
+"text": "",
+"type": "Burial"
+},
+{
+"cita": [
+161
+],
+"date": "1889",
+"date_sdn": 2411004,
+"descr": "",
+"gid": "E0143",
+"media": [
+{
+"cita": [],
+"m_idx": 68,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/c/3/fc6ac80127562d876ac4f6ceb3c.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 198,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+237
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0295",
+"media": [
+{
+"cita": [
+237
+],
+"m_idx": 238,
+"note": "",
+"rect": [
+10,
+60,
+81,
+80
+],
+"thumb": "thumb/0/0/fea09b0e51a2ccbfe8c90b2c900-10,60-81,80.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+21,
+95,
+98
+],
+"place": 23,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAccording to this 1880 census Jair Cowell and Rose Tharp lived right next door to each other when he was 10 years old and she was 6 years old. <br />\nRose's name is listed as \"Rosey\".\n</p>\n</div>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+178
+],
+"date": "8/1869",
+"date_sdn": 2403911,
+"descr": "Settled on a farm",
+"gid": "E0113",
+"media": [],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 84,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+177,
+178
+],
+"date": "between 1869 and 1888",
+"date_sdn": 2403699,
+"descr": "Bought a farm east of Maloy",
+"gid": "E0114",
+"media": [
+{
+"cita": [],
+"m_idx": 101,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/8/b/fc6a86f1d3e192de2819833bab8.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": -1,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+146
+],
+"date": "1884",
+"date_sdn": 2409177,
+"descr": "",
+"gid": "E0142",
+"media": [
+{
+"cita": [],
+"m_idx": 67,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/3/9/fc6ac6f769d7aa525f19438e393.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 22,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+162,
+178
+],
+"date": "1888",
+"date_sdn": 2410638,
+"descr": "Moved to Maloy. &#8220;Maloy House&#8221;",
+"gid": "E0115",
+"media": [],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 138,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+152
+],
+"date": "5/18/1882",
+"date_sdn": 2408584,
+"descr": "Newspaper Article: Greene Co., PA to the Front, naming the persons in Ringgold who came from &#8220;Beaver County&#8221;/Greene County, PA.",
+"gid": "E0321",
+"media": [
+{
+"cita": [],
+"m_idx": 70,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/2/ff0b1c32eae2a7ec47daa365829.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": -1,
+"text": "",
+"type": "Interesting Event"
+}
+],
+[
+{
+"cita": [
+103
+],
+"date": "1841",
+"date_sdn": 2393472,
+"descr": "Final pension payment",
+"gid": "E0144",
+"media": [
+{
+"cita": [],
+"m_idx": 72,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/0/3/fc6acc0808dd41523eaead9530.png"
+}
+],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 187,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+100
+],
+"date": "5/1/1832",
+"date_sdn": 2390305,
+"descr": "$60 annual pension granted - Issued under the Act of June 7, 1832",
+"gid": "E0145",
+"media": [
+{
+"cita": [],
+"m_idx": 73,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/5/d/fc6d8ef01094eaafa4b3e1268d5.png"
+}
+],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 187,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nJust adjusted for inflation that would be about $2,100, not accounting for purchasing power changes between then and now\n</p>\n</div>\n</div>",
+"type": "Interesting Event"
+},
+{
+"cita": [
+225
+],
+"date": "4/22/1757",
+"date_sdn": 2362903,
+"descr": "",
+"gid": "E0147",
+"media": [],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 104,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "10/27/1841",
+"date_sdn": 2393771,
+"descr": "",
+"gid": "E0152",
+"media": [
+{
+"cita": [],
+"m_idx": 56,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
+},
+{
+"cita": [],
+"m_idx": 76,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
+}
+],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 91,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [
+102
+],
+"date": "11/22/1841",
+"date_sdn": 2393797,
+"descr": "",
+"gid": "E0153",
+"media": [
+{
+"cita": [],
+"m_idx": 78,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/5/1/fc6ad7445c9642b0f2a6486c515.png"
+}
+],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 70,
+"text": "",
+"type": "Will"
+},
+{
+"cita": [
+225
+],
+"date": "from 1781 to 1808",
+"date_sdn": 2371558,
+"descr": "",
+"gid": "E0154",
+"media": [],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 16,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+225
+],
+"date": "from 1808 to 1832",
+"date_sdn": 2381418,
+"descr": "",
+"gid": "E0155",
+"media": [],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 91,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+225
+],
+"date": "from 1832 to 1841",
+"date_sdn": 2390184,
+"descr": "",
+"gid": "E0156",
+"media": [],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 70,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+101,
+215,
+225
+],
+"date": "5/1776",
+"date_sdn": 2369852,
+"descr": "Revolutionary War",
+"gid": "E0148",
+"media": [
+{
+"cita": [],
+"m_idx": 56,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/8/5/fc6ad1339f07db09e1a1b0c3958.png"
+},
+{
+"cita": [],
+"m_idx": 74,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/3/0/fc6ace0225a5bd034681f591203.png"
+},
+{
+"cita": [],
+"m_idx": 75,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/d/fc6d84b7cfb71711e66a640dbda.png"
+},
+{
+"cita": [],
+"m_idx": 76,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/7/fc6d84c3b2f3bc2f5f6041e0372.png"
+},
+{
+"cita": [],
+"m_idx": 77,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/7/7/fc6d84d17222b9147b2d1f0e277.png"
+}
+],
+"part_family": [],
+"part_person": [
+19
+],
+"place": 155,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nEnlisted in May of 1776. Served in the 2nd Regiment of the Jersey Line (in the Flying Camp and the New Jersey Militia) as a Private over 21 non-consecutive months. Served under Captains Nathaniel Luce and Charles Tygard, and Colonel Ephraim Martin. He engaged in the battle of Long Island with forces commanded by General Sullivan in August of 1776. At Fort Washington he joined George Washington and 5000 troops in an engagement with like numbers of British troops and succeeded. He participated in the Battle of Monmouth in 1778. His last service was in 1781 for 2 months.\n</p>\n</div>\n</div>",
+"type": "Military Service"
+}
+],
+[
+{
+"cita": [
+165
+],
+"date": "9/18/1881",
+"date_sdn": 2408342,
+"descr": "",
+"gid": "E0120",
+"media": [],
+"part_family": [],
+"part_person": [
+20
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [
+157
+],
+"date": "about 11/3/1865",
+"date_sdn": 2402544,
+"descr": "Gold found on Jacob Cowell&#8217;s farm",
+"gid": "E0132",
+"media": [
+{
+"cita": [],
+"m_idx": 81,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/c/fc6a9dac57c315c293a3a9593c2.png"
+}
+],
+"part_family": [],
+"part_person": [
+20
+],
+"place": 143,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+165
+],
+"date": "4/23/1879",
+"date_sdn": 2407463,
+"descr": "",
+"gid": "E0199",
+"media": [
+{
+"cita": [],
+"m_idx": 82,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/0/0/fc611d35ee97228db0e70a0f00.png"
+}
+],
+"part_family": [],
+"part_person": [
+20
+],
+"place": 91,
+"text": "",
+"type": "Will"
+},
+{
+"cita": [
+165
+],
+"date": "8/22/1801",
+"date_sdn": 2379095,
+"descr": "",
+"gid": "E0322",
+"media": [],
+"part_family": [],
+"part_person": [
+20
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+23
+],
+"date": "1830",
+"date_sdn": 2389454,
+"descr": "",
+"gid": "E0328",
+"media": [
+{
+"cita": [],
+"m_idx": 79,
+"note": "",
+"rect": [
+12,
+33,
+75,
+37
+],
+"thumb": "thumb/4/1/ff0e129feee1039484c4b063314-12,33-75,37.png"
+}
+],
+"part_family": [],
+"part_person": [
+20
+],
+"place": 70,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+24
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Remarried to Elizabeth between 1850-1860",
+"gid": "E0329",
+"media": [],
+"part_family": [],
+"part_person": [
+20
+],
+"place": 70,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [
+162
+],
+"date": "about 1895",
+"date_sdn": 2413195,
+"descr": "Altercation with John Maple",
+"gid": "E0138",
+"media": [
+{
+"cita": [],
+"m_idx": 83,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/8/0/fc6107737764bb9e97ff8c69908.png"
+}
+],
+"part_family": [],
+"part_person": [
+21
+],
+"place": 138,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+97,
+201
+],
+"date": "1/20/1870",
+"date_sdn": 2404083,
+"descr": "",
+"gid": "E0279",
+"media": [],
+"part_family": [],
+"part_person": [
+21
+],
+"place": 240,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+237
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0295",
+"media": [
+{
+"cita": [
+237
+],
+"m_idx": 238,
+"note": "",
+"rect": [
+10,
+60,
+81,
+80
+],
+"thumb": "thumb/0/0/fea09b0e51a2ccbfe8c90b2c900-10,60-81,80.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+21,
+95,
+98
+],
+"place": 23,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAccording to this 1880 census Jair Cowell and Rose Tharp lived right next door to each other when he was 10 years old and she was 6 years old. <br />\nRose's name is listed as \"Rosey\".\n</p>\n</div>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+148
+],
+"date": "1/1/1899",
+"date_sdn": 2414656,
+"descr": "Moved to farm in Grant township",
+"gid": "E0139",
+"media": [
+{
+"cita": [],
+"m_idx": 86,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/e/9/fc6abba22293fd8924876e82a9e.png"
+},
+{
+"cita": [],
+"m_idx": 87,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/0/fc6abbb84cd78cfeae06dc0b00a.png"
+},
+{
+"cita": [],
+"m_idx": 88,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/b/fc6abbc423917e1c8fe2c6ae8b9.png"
+},
+{
+"cita": [],
+"m_idx": 91,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/a/fc6aafeb150694e0b3f464924a2.png"
+}
+],
+"part_family": [],
+"part_person": [
+21,
+95
+],
+"place": 86,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+201
+],
+"date": "4/7/1949",
+"date_sdn": 2433014,
+"descr": "",
+"gid": "E0297",
+"media": [
+{
+"cita": [],
+"m_idx": 84,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/5/f/fea642adb4b40c8d3e9c10240f5.png"
+}
+],
+"part_family": [],
+"part_person": [
+21
+],
+"place": 17,
+"text": "<div>\n<p>\n<b>Cause</b>: Hypostatic pneumonia due to Malnutrition due to Parkinson's Disease. Secondary condition: Anemia.\n</p>\n</div>",
+"type": "Death"
+},
+{
+"cita": [
+201
+],
+"date": "4/9/1949",
+"date_sdn": 2433016,
+"descr": "",
+"gid": "E0298",
+"media": [
+{
+"cita": [
+87
+],
+"m_idx": 85,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/c/fea648af7b4326cf3dfbf3bdfca.png"
+}
+],
+"part_family": [],
+"part_person": [
+21
+],
+"place": 190,
+"text": "",
+"type": "Burial"
+},
+{
+"cita": [
+201
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Farmer",
+"gid": "E0299",
+"media": [],
+"part_family": [],
+"part_person": [
+21
+],
+"place": -1,
+"text": "",
+"type": "Occupation"
+}
+],
+[
+{
+"cita": [
+97
+],
+"date": "about 1929",
+"date_sdn": 2425613,
+"descr": "Mechanic",
+"gid": "E0196",
+"media": [],
+"part_family": [],
+"part_person": [
+22
+],
+"place": -1,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+92
+],
+"date": "8/3/1907",
+"date_sdn": 2417791,
+"descr": "",
+"gid": "E0197",
+"media": [],
+"part_family": [],
+"part_person": [
+22
+],
+"place": 202,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+139
+],
+"date": "6/17/1988",
+"date_sdn": 2447330,
+"descr": "",
+"gid": "E0239",
+"media": [
+{
+"cita": [],
+"m_idx": 93,
+"note": "",
+"rect": [
+16,
+25,
+70,
+27
+],
+"thumb": "thumb/b/7/fcdb32f21343cbdc032f458cd7b-16,25-70,27.png"
+}
+],
+"part_family": [],
+"part_person": [
+22
+],
+"place": 65,
+"text": "",
+"type": "Death"
+}
+],
+[],
+[
+{
+"cita": [
+104
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0349",
+"media": [
+{
+"cita": [],
+"m_idx": 97,
+"note": "",
+"rect": [
+7,
+47,
+93,
+72
+],
+"thumb": "thumb/5/2/ff19cea84345496f3117ca2a425-7,47-93,72.png"
+}
+],
+"part_family": [],
+"part_person": [
+16,
+24,
+25
+],
+"place": 113,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+60,
+104
+],
+"date": "about 1816",
+"date_sdn": 2384340,
+"descr": "",
+"gid": "E0350",
+"media": [],
+"part_family": [],
+"part_person": [
+24
+],
+"place": 122,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+60,
+104
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Farmer",
+"gid": "E0351",
+"media": [],
+"part_family": [],
+"part_person": [
+24
+],
+"place": -1,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+60
+],
+"date": "1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0352",
+"media": [
+{
+"cita": [],
+"m_idx": 96,
+"note": "",
+"rect": [
+11,
+81,
+94,
+95
+],
+"thumb": "thumb/3/0/ff19d0dea545c411d7c4be2c903-11,81-94,95.png"
+}
+],
+"part_family": [],
+"part_person": [
+16,
+24,
+25
+],
+"place": 240,
+"text": "",
+"type": "Census (Father)"
+}
+],
+[
+{
+"cita": [
+26,
+83
 ],
 "date": "9/21/1848",
 "date_sdn": 2396292,
@@ -3164,25 +3983,57 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-21
+25
 ],
-"place": 106,
+"place": 111,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-28,
-78
+104
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0349",
+"media": [
+{
+"cita": [],
+"m_idx": 97,
+"note": "",
+"rect": [
+7,
+47,
+93,
+72
+],
+"thumb": "thumb/5/2/ff19cea84345496f3117ca2a425-7,47-93,72.png"
+}
+],
+"part_family": [],
+"part_person": [
+16,
+24,
+25
+],
+"place": 113,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+26,
+83
 ],
 "date": "4/7/1934",
 "date_sdn": 2427535,
-"descr": "Cause of death: Chronic Myocardial Insufficiency (heart failure). Time of death: 10am.",
+"descr": "",
 "gid": "E0340",
 "media": [
 {
 "cita": [],
-"m_idx": 95,
+"m_idx": 98,
 "note": "",
 "rect": [
 0,
@@ -3195,26 +4046,71 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-21
+25
 ],
 "place": 23,
-"text": "",
+"text": "<div>\n<p>\n<b>Cause</b>: Chronic Myocardial Insufficiency (heart failure). Time of death: 10am.\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-28
+60
+],
+"date": "1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E0352",
+"media": [
+{
+"cita": [],
+"m_idx": 96,
+"note": "",
+"rect": [
+11,
+81,
+94,
+95
+],
+"thumb": "thumb/3/0/ff19d0dea545c411d7c4be2c903-11,81-94,95.png"
+}
+],
+"part_family": [],
+"part_person": [
+16,
+24,
+25
+],
+"place": 240,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+26
 ],
 "date": "about 4/7/1934",
 "date_sdn": 2427535,
 "descr": "",
 "gid": "E0341",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 234,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/1/ff19b2eb629357dfb30df410b12.png"
+}
+],
 "part_family": [],
 "part_person": [
-21
+25
 ],
-"place": 135,
+"place": 141,
 "text": "",
 "type": "Burial"
 }
@@ -3222,7 +4118,7 @@ I_events_0 = [
 [
 {
 "cita": [
-17
+16
 ],
 "date": "",
 "date_sdn": 0,
@@ -3231,9 +4127,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-22
+26
 ],
-"place": 30,
+"place": 32,
 "text": "",
 "type": "Birth"
 }
@@ -3241,9 +4137,8 @@ I_events_0 = [
 [
 {
 "cita": [
-21,
-72,
-176
+76,
+180
 ],
 "date": "3/10/1815",
 "date_sdn": 2384043,
@@ -3252,15 +4147,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-23
+27
 ],
-"place": 86,
+"place": 91,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-176
+180
 ],
 "date": "10/14/1854",
 "date_sdn": 2398506,
@@ -3269,17 +4164,45 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-23
+27
 ],
-"place": 86,
+"place": 91,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "1854",
+"date_sdn": 2398220,
+"descr": "",
+"gid": "E0436",
+"media": [
+{
+"cita": [],
+"m_idx": 102,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/1/ff0df22970150221cf50ccc751a.png"
+}
+],
+"part_family": [],
+"part_person": [
+27
+],
+"place": 116,
+"text": "",
+"type": "Burial"
 }
 ],
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1728",
 "date_sdn": 2352199,
@@ -3288,7 +4211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-24
+28
 ],
 "place": -1,
 "text": "",
@@ -3296,7 +4219,7 @@ I_events_0 = [
 },
 {
 "cita": [
-187
+192
 ],
 "date": "2/23/1727",
 "date_sdn": 2351887,
@@ -3305,9 +4228,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-24
+28
 ],
-"place": 167,
+"place": 172,
 "text": "",
 "type": "Baptism"
 }
@@ -3315,7 +4238,7 @@ I_events_0 = [
 [
 {
 "cita": [
-49
+47
 ],
 "date": "11/17/1917",
 "date_sdn": 2421550,
@@ -3324,15 +4247,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
-"place": 246,
+"place": 251,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-48
+46
 ],
 "date": "5/4/1988",
 "date_sdn": 2447286,
@@ -3341,15 +4264,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
-"place": 265,
+"place": 270,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-49
+47
 ],
 "date": "",
 "date_sdn": 0,
@@ -3358,7 +4281,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
 "place": 21,
 "text": "",
@@ -3366,7 +4289,39 @@ I_events_0 = [
 },
 {
 "cita": [
-49
+15
+],
+"date": "1920",
+"date_sdn": 2422325,
+"descr": "",
+"gid": "E0310",
+"media": [
+{
+"cita": [],
+"m_idx": 114,
+"note": "",
+"rect": [
+6,
+42,
+98,
+56
+],
+"thumb": "thumb/f/4/ff0b022245542241eb25c50984f-6,42-98,56.png"
+}
+],
+"part_family": [],
+"part_person": [
+29,
+30,
+60
+],
+"place": 216,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+47
 ],
 "date": "1920",
 "date_sdn": 2422325,
@@ -3375,15 +4330,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
-"place": 210,
+"place": 216,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-49
+47
 ],
 "date": "1930",
 "date_sdn": 2425978,
@@ -3392,35 +4347,24 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
-"place": 59,
+"place": 63,
 "text": "",
 "type": "Residence"
 },
 {
-"cita": [],
+"cita": [
+230
+],
 "date": "1937",
 "date_sdn": 2428535,
 "descr": "Clerk",
 "gid": "E0070",
-"media": [
-{
-"cita": [],
-"m_idx": 41,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/5/fc5409be32d4d863b6ea566fa5c.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
 "place": -1,
 "text": "",
@@ -3435,7 +4379,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+29
 ],
 "place": -1,
 "text": "",
@@ -3445,8 +4389,8 @@ I_events_0 = [
 [
 {
 "cita": [
-16,
-74
+15,
+78
 ],
 "date": "2/4/1880",
 "date_sdn": 2407750,
@@ -3455,32 +4399,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+30
 ],
-"place": 125,
+"place": 131,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-16
+15
 ],
 "date": "1920",
 "date_sdn": 2422325,
 "descr": "",
 "gid": "E0310",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 114,
+"note": "",
+"rect": [
+6,
+42,
+98,
+56
+],
+"thumb": "thumb/f/4/ff0b022245542241eb25c50984f-6,42-98,56.png"
+}
+],
 "part_family": [],
 "part_person": [
-26
+29,
+30,
+60
 ],
-"place": 210,
+"place": 216,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-202
+207
 ],
 "date": "9/8/1955",
 "date_sdn": 2435359,
@@ -3489,7 +4448,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 107,
+"m_idx": 110,
 "note": "",
 "rect": [
 0,
@@ -3502,15 +4461,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-26
+30
 ],
-"place": 70,
+"place": 75,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-202
+207
 ],
 "date": "9/15/1955",
 "date_sdn": 2435366,
@@ -3519,15 +4478,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+30
 ],
-"place": 121,
+"place": 127,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-202
+207
 ],
 "date": "",
 "date_sdn": 0,
@@ -3536,7 +4495,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+30
 ],
 "place": -1,
 "text": "",
@@ -3544,44 +4503,75 @@ I_events_0 = [
 },
 {
 "cita": [
-202
+207
 ],
 "date": "1917",
 "date_sdn": 2421230,
-"descr": "First moved there",
+"descr": "",
 "gid": "E0315",
 "media": [],
 "part_family": [],
 "part_person": [
-26
+30
 ],
-"place": 210,
+"place": 216,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-202
+207
 ],
 "date": "1928",
 "date_sdn": 2425247,
-"descr": "First moved there",
+"descr": "",
 "gid": "E0316",
 "media": [],
 "part_family": [],
 "part_person": [
-26
+30
 ],
-"place": 70,
+"place": 75,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [
+17
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0437",
+"media": [
+{
+"cita": [],
+"m_idx": 109,
+"note": "",
+"rect": [
+8,
+67,
+93,
+74
+],
+"thumb": "thumb/9/e/ff0b173cf0e96e4be02a049de9-8,67-93,74.png"
+}
+],
+"part_family": [],
+"part_person": [
+30,
+60
+],
+"place": 251,
+"text": "",
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-237,
-238
+242,
+243
 ],
 "date": "12/1856",
 "date_sdn": 2399285,
@@ -3590,116 +4580,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-27
+31
 ],
-"place": 259,
+"place": 264,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-123
-],
-"date": "12/3/1948",
-"date_sdn": 2432889,
-"descr": "",
-"gid": "E0381",
-"media": [],
-"part_family": [],
-"part_person": [
-27
-],
-"place": 13,
-"text": "",
-"type": "Death"
-}
-],
-[
-{
-"cita": [
-206
-],
-"date": "about 1832",
-"date_sdn": 2390184,
-"descr": "",
-"gid": "E0271",
-"media": [],
-"part_family": [],
-"part_person": [
-28
-],
-"place": 158,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
-206
-],
-"date": "1860",
-"date_sdn": 2400411,
-"descr": "Day Laborer",
-"gid": "E0272",
-"media": [],
-"part_family": [],
-"part_person": [
-28
-],
-"place": 233,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-233
-],
-"date": "1880",
-"date_sdn": 2407716,
-"descr": "(Caroline Bronson, Julia&#8217;s Mom, was just visiting)",
-"gid": "E0382",
-"media": [
-{
-"cita": [],
-"m_idx": 113,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/4/ff1c745f87e213a9f5ab955794c.png"
-}
-],
-"part_family": [],
-"part_person": [
-9,
-28
-],
-"place": 77,
-"text": "",
-"type": "Census"
-},
-{
-"cita": [
-233
-],
-"date": "1880",
-"date_sdn": 2407716,
-"descr": "Blacksmith",
-"gid": "E0383",
-"media": [],
-"part_family": [],
-"part_person": [
-28
-],
-"place": 77,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-206
+211
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -3708,28 +4597,195 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 112,
+"m_idx": 115,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+4,
+80,
+79,
+88
 ],
-"thumb": "thumb/2/3/fd01ca8d60323f454fb509e2d32.png"
+"thumb": "thumb/2/3/fd01ca8d60323f454fb509e2d32-4,80-79,88.png"
 }
 ],
 "part_family": [],
 "part_person": [
-28
+15,
+31,
+32
 ],
-"place": 77,
+"place": 81,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+128
+],
+"date": "12/3/1948",
+"date_sdn": 2432889,
+"descr": "",
+"gid": "E0381",
+"media": [],
+"part_family": [],
+"part_person": [
+31
+],
+"place": 13,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [
+235
+],
+"date": "1870",
+"date_sdn": 2404064,
+"descr": "",
+"gid": "E0389",
+"media": [
+{
+"cita": [],
+"m_idx": 118,
+"note": "",
+"rect": [
+11,
+85,
+90,
+91
+],
+"thumb": "thumb/a/9/ff1c7fbb24d77017d0537bd999a-11,85-90,91.png"
+}
+],
+"part_family": [],
+"part_person": [
+15,
+31
+],
+"place": 14,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nJulia is listed as head of household w/o frederick; Name \"Mariah\" (all dates and birth places of her and children line up, so I believe this is same person)\n</p>\n</div>\n</div>",
+"type": "Census (Child)"
+}
+],
+[
+{
+"cita": [
+211
+],
+"date": "about 1832",
+"date_sdn": 2390184,
+"descr": "",
+"gid": "E0271",
+"media": [],
+"part_family": [],
+"part_person": [
+32
+],
+"place": 163,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+211
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "Day Laborer",
+"gid": "E0272",
+"media": [],
+"part_family": [],
+"part_person": [
+32
+],
+"place": 238,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+238
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "Caroline, Julia&#8217;s Mom, was visiting",
+"gid": "E0382",
+"media": [
+{
+"cita": [],
+"m_idx": 116,
+"note": "",
+"rect": [
+18,
+30,
+83,
+40
+],
+"thumb": "thumb/c/4/ff1c745f87e213a9f5ab955794c-18,30-83,40.png"
+}
+],
+"part_family": [],
+"part_person": [
+13,
+15,
+32
+],
+"place": 81,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+238
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "Blacksmith",
+"gid": "E0383",
+"media": [],
+"part_family": [],
+"part_person": [
+32
+],
+"place": 81,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+211
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0384",
+"media": [
+{
+"cita": [],
+"m_idx": 115,
+"note": "",
+"rect": [
+4,
+80,
+79,
+88
+],
+"thumb": "thumb/2/3/fd01ca8d60323f454fb509e2d32-4,80-79,88.png"
+}
+],
+"part_family": [],
+"part_person": [
+15,
+31,
+32
+],
+"place": 81,
 "text": "",
 "type": "Census"
 },
 {
 "cita": [
-233
+238
 ],
 "date": "1880",
 "date_sdn": 2407716,
@@ -3738,15 +4794,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-28
+32
 ],
-"place": 77,
+"place": 81,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-208
+213
 ],
 "date": "4/20/1881",
 "date_sdn": 2408191,
@@ -3755,7 +4811,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 114,
+"m_idx": 117,
 "note": "",
 "rect": [
 0,
@@ -3768,15 +4824,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-28
+32
 ],
-"place": 106,
+"place": 111,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-208
+213
 ],
 "date": "before 7/30/1895",
 "date_sdn": 2413405,
@@ -3785,7 +4841,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-28
+32
 ],
 "place": -1,
 "text": "",
@@ -3795,7 +4851,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1714",
 "date_sdn": 2347086,
@@ -3804,7 +4860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+33
 ],
 "place": -1,
 "text": "",
@@ -3812,7 +4868,7 @@ I_events_0 = [
 },
 {
 "cita": [
-187
+192
 ],
 "date": "2/14/1719",
 "date_sdn": 2348956,
@@ -3821,15 +4877,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+33
 ],
-"place": 167,
+"place": 172,
 "text": "",
 "type": "Baptism"
 },
 {
 "cita": [
-187
+192
 ],
 "date": "",
 "date_sdn": 0,
@@ -3838,7 +4894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+33
 ],
 "place": -1,
 "text": "",
@@ -3848,7 +4904,7 @@ I_events_0 = [
 [
 {
 "cita": [
-193
+198
 ],
 "date": "1875",
 "date_sdn": 2405890,
@@ -3857,29 +4913,29 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 119,
+"m_idx": 122,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+5,
+37,
+49,
+53
 ],
-"thumb": "thumb/8/8/ff1e39d3a82169459a674afc88.png"
+"thumb": "thumb/8/8/ff1e39d3a82169459a674afc88-5,37-49,53.png"
 }
 ],
 "part_family": [],
 "part_person": [
-30,
-81
+34,
+85
 ],
-"place": 58,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nMistakes: Last name was listed at \"Haine\". Barbara's age listed as 38, when it was actually 28.\n</p>\n</div>\n</div>",
-"type": "Census"
+"place": 62,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nLast name was listed at \"Haine\". Barbara's age listed as 38, when it was actually 28.\n</p>\n</div>\n</div>",
+"type": "Census (Father)"
 },
 {
 "cita": [
-193
+198
 ],
 "date": "about 1833",
 "date_sdn": 2390550,
@@ -3888,16 +4944,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+34
 ],
-"place": 81,
+"place": 85,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-193,
-204
+198,
+209
 ],
 "date": "",
 "date_sdn": 0,
@@ -3906,7 +4962,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+34
 ],
 "place": -1,
 "text": "",
@@ -3914,7 +4970,7 @@ I_events_0 = [
 },
 {
 "cita": [
-194
+199
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -3923,7 +4979,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 118,
+"m_idx": 121,
 "note": "",
 "rect": [
 16,
@@ -3936,16 +4992,17 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-30,
-82
+34,
+85,
+86
 ],
-"place": 58,
+"place": 62,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-204
+209
 ],
 "date": "",
 "date_sdn": 0,
@@ -3954,7 +5011,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+34
 ],
 "place": -1,
 "text": "",
@@ -3962,7 +5019,7 @@ I_events_0 = [
 },
 {
 "cita": [
-204
+209
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -3971,61 +5028,48 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 117,
+"m_idx": 120,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+52,
+84,
+60
 ],
-"thumb": "thumb/a/c/ff1e4655fe26367b1e7612b68ca.png"
+"thumb": "thumb/a/c/ff1e4655fe26367b1e7612b68ca-6,52-84,60.png"
 }
 ],
 "part_family": [],
 "part_person": [
-30
+34
 ],
-"place": 214,
+"place": 220,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nChristian's name mis-spelled as \"Crusty\".\n</p>\n</div>\n</div>",
-"type": "Census"
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-200,
-235
+205,
+240
 ],
 "date": "5/1884",
 "date_sdn": 2409298,
 "descr": "",
 "gid": "E0249",
-"media": [
-{
-"cita": [],
-"m_idx": 120,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/6/fceae488372152c622aa847c965.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-31
+35
 ],
-"place": 154,
+"place": 159,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-235
+240
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -4034,31 +5078,33 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 121,
+"m_idx": 123,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+7,
+60,
+96,
+65
 ],
-"thumb": "thumb/3/2/ff1e3d7bb405fe7350c711c5d23.png"
+"thumb": "thumb/3/2/ff1e3d7bb405fe7350c711c5d23-7,60-96,65.png"
 }
 ],
 "part_family": [],
 "part_person": [
-31,
-81
+35,
+85
 ],
-"place": 126,
+"place": 132,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
 }
 ],
 [],
 [
 {
-"cita": [],
+"cita": [
+214
+],
 "date": "10/24/1892",
 "date_sdn": 2412396,
 "descr": "",
@@ -4066,7 +5112,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 130,
+"m_idx": 132,
 "note": "",
 "rect": [
 0,
@@ -4079,14 +5125,16 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 47,
+"place": 51,
 "text": "",
 "type": "Naturalization"
 },
 {
-"cita": [],
+"cita": [
+214
+],
 "date": "10/24/1892",
 "date_sdn": 2412396,
 "descr": "",
@@ -4094,7 +5142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-33
+37
 ],
 "place": 2,
 "text": "",
@@ -4102,7 +5150,7 @@ I_events_0 = [
 },
 {
 "cita": [
-111
+116
 ],
 "date": "11/27/1890",
 "date_sdn": 2411699,
@@ -4111,29 +5159,29 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 131,
+"m_idx": 133,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+9,
+55,
+53,
+57
 ],
-"thumb": "thumb/0/2/fcbe2cce0064a9522ff57ab5620.png"
+"thumb": "thumb/0/2/fcbe2cce0064a9522ff57ab5620-9,55-53,57.png"
 }
 ],
 "part_family": [],
 "part_person": [
-33
+37
 ],
 "place": -1,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nYear immigrated according to census data is 1881-1882. This record might have been from a later travel. It also appears that Edward is also the only person in the family on this trip.\n</p>\n</div>\n</div>",
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nYear immigrated according to census data is 1881-1882. This record might have been from a later travel. It also appears that Edward is the only person in the family on this trip.\n</p>\n</div>\n</div>",
 "type": "Travel"
 },
 {
 "cita": [
-111,
-240
+116,
+245
 ],
 "date": "about 1844",
 "date_sdn": 2394567,
@@ -4142,16 +5190,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 163,
+"place": 168,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-136,
-179
+141,
+184
 ],
 "date": "6/2/1939",
 "date_sdn": 2429417,
@@ -4160,40 +5208,40 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 126,
+"m_idx": 128,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+3,
+57,
+49,
+62
 ],
-"thumb": "thumb/d/7/fcbe38735d95d2cef95998a3f7d.png"
+"thumb": "thumb/d/7/fcbe38735d95d2cef95998a3f7d-3,57-49,62.png"
 },
 {
 "cita": [],
-"m_idx": 127,
+"m_idx": 129,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+9,
+55,
+95,
+58
 ],
-"thumb": "thumb/3/f/fcbe559412c397c529267ccdaf3.png"
+"thumb": "thumb/3/f/fcbe559412c397c529267ccdaf3-9,55-95,58.png"
 }
 ],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 260,
+"place": 265,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-240
+245
 ],
 "date": "1920",
 "date_sdn": 2422325,
@@ -4202,45 +5250,28 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 125,
+"m_idx": 127,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+64,
+98,
+71
 ],
-"thumb": "thumb/8/6/fcbe4724a541dbc3c0aee145568.png"
+"thumb": "thumb/8/6/fcbe4724a541dbc3c0aee145568-6,64-98,71.png"
 }
 ],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 88,
+"place": 93,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-240
-],
-"date": "1920",
-"date_sdn": 2422325,
-"descr": "Farmer",
-"gid": "E0219",
-"media": [],
-"part_family": [],
-"part_person": [
-33
-],
-"place": 88,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-239
+244
 ],
 "date": "1910",
 "date_sdn": 2418673,
@@ -4249,45 +5280,48 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 124,
+"m_idx": 126,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+79,
+90,
+86
 ],
-"thumb": "thumb/1/2/fcbe4c1473542c16fa43ede1321.png"
+"thumb": "thumb/1/2/fcbe4c1473542c16fa43ede1321-6,79-90,86.png"
 }
 ],
 "part_family": [],
 "part_person": [
-33
+37,
+57
 ],
 "place": 0,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-239
+241,
+244,
+245
 ],
-"date": "1910",
-"date_sdn": 2418673,
+"date": "",
+"date_sdn": 0,
 "descr": "Farmer",
 "gid": "E0221",
 "media": [],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 0,
+"place": -1,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-236
+241
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -4296,56 +5330,41 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 123,
+"m_idx": 125,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+12,
+41,
+98,
+51
 ],
-"thumb": "thumb/c/a/fcbe50fa3db4d3d8c2876fdfcac.png"
+"thumb": "thumb/c/a/fcbe50fa3db4d3d8c2876fdfcac-12,41-98,51.png"
 }
 ],
 "part_family": [],
 "part_person": [
-33
+37,
+38,
+57
 ],
-"place": 240,
+"place": 245,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-236
-],
-"date": "1900",
-"date_sdn": 2415021,
-"descr": "Farmer",
-"gid": "E0224",
-"media": [],
-"part_family": [],
-"part_person": [
-33
-],
-"place": 240,
-"text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-101
+106
 ],
 "date": "3/1919",
 "date_sdn": 2422019,
-"descr": "Moved to Tennessee",
+"descr": "Moved to Tennessee to live with family",
 "gid": "E0234",
 "media": [],
 "part_family": [],
 "part_person": [
-33
+37
 ],
-"place": 236,
+"place": 241,
 "text": "",
 "type": "Residence"
 }
@@ -4353,77 +5372,93 @@ I_events_0 = [
 [
 {
 "cita": [
-101,
-170
+106,
+174
 ],
 "date": "1907",
 "date_sdn": 2417577,
 "descr": "Sawmill Bookkeeper for Potlatch Labor Company",
 "gid": "E0124",
-"media": [
-{
-"cita": [],
-"m_idx": 133,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/2/f/fc6a85c37ee796a9440b592df2.png"
-},
-{
-"cita": [],
-"m_idx": 134,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/7/3/fcbe66f2c4857748fc608e7bc37.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 240,
+"place": 245,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-101,
-170
+106,
+174
 ],
 "date": "1910",
 "date_sdn": 2418673,
 "descr": "Bookkeeper",
 "gid": "E0125",
-"media": [
-{
-"cita": [],
-"m_idx": 133,
-"note": "",
-"rect": [
-49,
-66,
-74,
-70
-],
-"thumb": "thumb/2/f/fc6a85c37ee796a9440b592df2-49,66-74,70.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 224,
+"place": 229,
 "text": "",
 "type": "Occupation"
+},
+{
+"cita": [
+11
+],
+"date": "from 1912 to 1914",
+"date_sdn": 2419403,
+"descr": "Rented McKutchen farm",
+"gid": "E0228",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 102,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+174
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Active members of Seventh-Day Adventist Church",
+"gid": "E0129",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 239,
+"text": "",
+"type": "Religion"
+},
+{
+"cita": [
+7
+],
+"date": "1918",
+"date_sdn": 2421595,
+"descr": "",
+"gid": "E0284",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 225,
+"text": "",
+"type": "Residence"
 },
 {
 "cita": [
@@ -4436,7 +5471,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 133,
+"m_idx": 135,
 "note": "",
 "rect": [
 49,
@@ -4449,15 +5484,45 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 234,
+"place": 239,
 "text": "",
 "type": "Interesting Event"
 },
 {
 "cita": [
-170
+167
+],
+"date": "11/1915",
+"date_sdn": 2420803,
+"descr": "Exchange 40 acre ranch 4 miles each of town with another family",
+"gid": "E0293",
+"media": [
+{
+"cita": [],
+"m_idx": 139,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/4/2/fe62b844fd244991103279cdb24.png"
+}
+],
+"part_family": [],
+"part_person": [
+38
+],
+"place": 102,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+174
 ],
 "date": "1928",
 "date_sdn": 2425247,
@@ -4466,18 +5531,50 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 234,
+"place": 239,
 "text": "",
 "type": "Retirement"
 },
 {
 "cita": [
+241
+],
+"date": "1900",
+"date_sdn": 2415021,
+"descr": "",
+"gid": "E0223",
+"media": [
+{
+"cita": [],
+"m_idx": 125,
+"note": "",
+"rect": [
+12,
+41,
+98,
+51
+],
+"thumb": "thumb/c/a/fcbe50fa3db4d3d8c2876fdfcac-12,41-98,51.png"
+}
+],
+"part_family": [],
+"part_person": [
+37,
+38,
+57
+],
+"place": 245,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
 9,
-101,
-130,
-224
+106,
+135,
+229
 ],
 "date": "8/6/1883",
 "date_sdn": 2409029,
@@ -4486,27 +5583,27 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 193,
+"place": 199,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNote: Marriage return incorrectly states Wisconsin, instead of Minnesota.\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
 "cita": [
 6,
-130
+135
 ],
 "date": "10/16/1971",
 "date_sdn": 2441241,
-"descr": "Cause: Shock Hypovalemic due to Mesenteric Thrombosis as a consequence of Diffuse Arteriosclerotic Disease",
+"descr": "",
 "gid": "E0235",
 "media": [
 {
 "cita": [
-130
+135
 ],
-"m_idx": 132,
+"m_idx": 134,
 "note": "",
 "rect": [
 0,
@@ -4519,10 +5616,10 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 201,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n3:45 am - On 64th wedding anniversary\n</p>\n</div>\n</div>",
+"place": 207,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n3:45 am - On 64th wedding anniversary\n</p>\n</div>\n<p>\n<b>Cause</b>: Shock Hypovalemic due to Mesenteric Thrombosis as a consequence of Diffuse Arteriosclerotic Disease\n</p>\n</div>",
 "type": "Death"
 },
 {
@@ -4536,7 +5633,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
 "place": -1,
 "text": "",
@@ -4553,7 +5650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
 "place": -1,
 "text": "",
@@ -4561,8 +5658,8 @@ I_events_0 = [
 },
 {
 "cita": [
-63,
-130
+66,
+135
 ],
 "date": "1971",
 "date_sdn": 2440953,
@@ -4571,15 +5668,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
-"place": 242,
+"place": 247,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-130
+135
 ],
 "date": "1971",
 "date_sdn": 2440953,
@@ -4588,18 +5685,33 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+38
 ],
 "place": 8,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0438",
+"media": [],
+"part_family": [],
+"part_person": [
+38
+],
+"place": -1,
+"text": "",
+"type": "Birth"
 }
 ],
 [
 {
 "cita": [
 8,
-213
+218
 ],
 "date": "9/15/1914",
 "date_sdn": 2420391,
@@ -4608,15 +5720,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
-"place": 96,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-213
+218
 ],
 "date": "5/1/2001",
 "date_sdn": 2452031,
@@ -4625,15 +5737,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
-"place": 201,
+"place": 207,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-101
+106
 ],
 "date": "1/31/1919",
 "date_sdn": 2421990,
@@ -4642,7 +5754,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
 "place": -1,
 "text": "",
@@ -4659,9 +5771,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
-"place": 201,
+"place": 207,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nRichard Kemp was born in Palouse Wa. I wonder how they met?!\n</p>\n</div>\n</div>",
 "type": "Marriage"
 },
@@ -4676,7 +5788,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
 "place": 6,
 "text": "",
@@ -4693,7 +5805,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+39
 ],
 "place": -1,
 "text": "",
@@ -4703,7 +5815,45 @@ I_events_0 = [
 [
 {
 "cita": [
-34
+32,
+41
+],
+"date": "about 1870",
+"date_sdn": 2404064,
+"descr": "from Yagodnaya Polyana, Russia, aboard the SS Ohio",
+"gid": "E0089",
+"media": [],
+"part_family": [],
+"part_person": [
+40,
+71
+],
+"place": 209,
+"text": "<div>\n<i class=\"NoteType\">\nCitation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAmong few Protestants on board the November Ohio transport were the following family most locating near Great Bend, George Brach, Peter Ochs, Henry Scheuermann, and two Conrad Scheuermanns. They were soon joined in Kansas by the families of George H. Henry Rothe, and Conrad Aschenbrenner who had arrived in New York on January 6, 1876 on the SS City of Montreal. These families began forming the nucleus from which Russian German immigration to the Pacific Northwest would first undertaken in 1881.\n</p>\n</div>\n</div>",
+"type": "Immigration"
+},
+{
+"cita": [
+32,
+42
+],
+"date": "1881",
+"date_sdn": 2408082,
+"descr": "Palouse River about 5 miles north of Endicott, WA",
+"gid": "E0090",
+"media": [],
+"part_family": [],
+"part_person": [
+40,
+71
+],
+"place": 260,
+"text": "<div>\n<i class=\"NoteType\">\nCitation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShortly after Conrad Schierman arrived in the Palouse, he rode north from Endicott to explore the surrounding countryside. Waves of knee-high tawny bunchgrass blew in the breeze across the broad hills. After riding about five miles, he came to the crest of a massive basaltic bluff overlooking the Palouse River Valley. Finding it too steep to descend, he followed the river's course upstream until he came to a more gentle slope near its northernmost point in that area. Descending here and riding back a short distance to the expanse spied earlier, he found a beautiful meadow bordered on the west by the river and sheltered on the east by the steep rock bluffs. He returned to the railroad camp and shared the news of his discovery with the other families who proceeded to investigate the site together. They were taken by the beauty and fertility of the site, and soon traveled to the federal land office in Colfax to arrange for the purchase of the land. Their request was rather unorthodox since their intention was to collectively purchase a quarter-section adjacent to the river. Officials complied and the property was divided among them reflecting the communal mir model to which they had been accustomed in Russia.<br />\nThis original \u201cPalouse Colony\u201d consisted of the Peter and Henry Ochs families together with those of Conrad, Henry, George, and John Schierman.\n</p>\n</div>\n</div>",
+"type": "Immigration"
+},
+{
+"cita": [
+32
 ],
 "date": "1855",
 "date_sdn": 2398585,
@@ -4712,7 +5862,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-36
+40
 ],
 "place": -1,
 "text": "",
@@ -4720,9 +5870,9 @@ I_events_0 = [
 },
 {
 "cita": [
-34,
-101,
-227
+32,
+106,
+232
 ],
 "date": "3/10/1912",
 "date_sdn": 2419472,
@@ -4731,9 +5881,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-36
+40
 ],
-"place": 255,
+"place": 260,
 "text": "",
 "type": "Death"
 }
@@ -4742,7 +5892,39 @@ I_events_0 = [
 [
 {
 "cita": [
-120
+189
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0439",
+"media": [
+{
+"cita": [],
+"m_idx": 193,
+"note": "",
+"rect": [
+16,
+39,
+84,
+46
+],
+"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9-16,39-84,46.png"
+}
+],
+"part_family": [],
+"part_person": [
+42,
+79,
+82
+],
+"place": 259,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+125
 ],
 "date": "11/25/1940",
 "date_sdn": 2429959,
@@ -4751,7 +5933,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 141,
+"m_idx": 143,
 "note": "",
 "rect": [
 0,
@@ -4764,114 +5946,102 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-38
+42
 ],
-"place": 127,
+"place": 133,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-120
+125
 ],
 "date": "8/9/1856",
 "date_sdn": 2399171,
 "descr": "",
 "gid": "E0174",
-"media": [
-{
-"cita": [],
-"m_idx": 141,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/d/fc8449350486c63a2af437052dc.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-38
+42
 ],
-"place": 141,
+"place": 146,
 "text": "",
 "type": "Birth"
 }
 ],
 [
 {
-"cita": [],
+"cita": [
+56,
+169
+],
 "date": "about 1881",
 "date_sdn": 2408082,
 "descr": "",
 "gid": "E0166",
-"media": [
-{
-"cita": [],
-"m_idx": 144,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/0/fc84246cedc153be4ef3d8b5a05.png"
-},
-{
-"cita": [],
-"m_idx": 194,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-39
+43
 ],
-"place": 198,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
 {
-"cita": [],
+"cita": [
+56
+],
 "date": "1930",
 "date_sdn": 2425978,
 "descr": "Service Station Manager",
 "gid": "E0167",
-"media": [
-{
-"cita": [],
-"m_idx": 194,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-39
+43
 ],
-"place": 54,
+"place": 58,
 "text": "",
 "type": "Occupation"
 },
 {
+"cita": [
+56
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0440",
+"media": [
+{
 "cita": [],
+"m_idx": 195,
+"note": "",
+"rect": [
+8,
+59,
+96,
+68
+],
+"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c-8,59-96,68.png"
+}
+],
+"part_family": [],
+"part_person": [
+43,
+80,
+82
+],
+"place": 58,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+169
+],
 "date": "4/1/1958",
 "date_sdn": 2436295,
 "descr": "",
@@ -4879,7 +6049,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 144,
+"m_idx": 146,
 "note": "",
 "rect": [
 0,
@@ -4892,27 +6062,40 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-39
+43
 ],
-"place": 127,
+"place": 133,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-69,
-165
+72,
+169
 ],
 "date": "4/7/1958",
 "date_sdn": 2436301,
 "descr": "",
 "gid": "E0172",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 145,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/b/fc842be2b146fa553d67f2101b9.png"
+}
+],
 "part_family": [],
 "part_person": [
-39
+43
 ],
-"place": 147,
+"place": 152,
 "text": "",
 "type": "Burial"
 }
@@ -4920,7 +6103,7 @@ I_events_0 = [
 [
 {
 "cita": [
-122
+127
 ],
 "date": "",
 "date_sdn": 0,
@@ -4929,9 +6112,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+44
 ],
-"place": 177,
+"place": 182,
 "text": "",
 "type": "Birth"
 }
@@ -4939,46 +6122,129 @@ I_events_0 = [
 [
 {
 "cita": [
-198
+30
 ],
-"date": "9/27/1882",
-"date_sdn": 2408716,
+"date": "1910",
+"date_sdn": 2418673,
 "descr": "",
-"gid": "E0194",
+"gid": "E0275",
 "media": [
 {
 "cita": [],
 "m_idx": 153,
 "note": "",
 "rect": [
-52,
-31,
-87,
-59
+7,
+53,
+90,
+65
 ],
-"thumb": "thumb/a/c/fc97872c15b79a916497b2997ca-52,31-87,59.png"
+"thumb": "thumb/4/9/fd31e85c19948c7698436023d94-7,53-90,65.png"
 }
 ],
 "part_family": [],
 "part_person": [
-41
+45,
+47,
+48
 ],
-"place": 37,
+"place": 200,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+31
+],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "",
+"gid": "E0441",
+"media": [
+{
+"cita": [],
+"m_idx": 154,
+"note": "",
+"rect": [
+9,
+35,
+95,
+43
+],
+"thumb": "thumb/0/1/fd31edbe397945fdd386167a10-9,35-95,43.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+47
+],
+"place": 156,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+50
+],
+"date": "1900",
+"date_sdn": 2415021,
+"descr": "",
+"gid": "E0354",
+"media": [
+{
+"cita": [],
+"m_idx": 151,
+"note": "",
+"rect": [
+6,
+42,
+93,
+51
+],
+"thumb": "thumb/f/c/ff19d9e6d5d4ad9e0e05d8b45cf-6,42-93,51.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+46,
+51
+],
+"place": 36,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+203,
+223
+],
+"date": "9/27/1882",
+"date_sdn": 2408716,
+"descr": "",
+"gid": "E0194",
+"media": [],
+"part_family": [],
+"part_person": [
+45
+],
+"place": 40,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-198
+203
 ],
 "date": "10/3/1968",
 "date_sdn": 2440133,
-"descr": "Cause: Cerebral Vascular Accident. Due to Generalized Arteriosclerosis. Due to Uramia.",
+"descr": "",
 "gid": "E0278",
 "media": [
 {
 "cita": [],
-"m_idx": 148,
+"m_idx": 150,
 "note": "",
 "rect": [
 0,
@@ -4991,17 +6257,17 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-41
+45
 ],
-"place": 151,
-"text": "",
+"place": 156,
+"text": "<div>\n<p>\n<b>Cause</b>: Cerebral Vascular Accident. Due to Generalized Arteriosclerosis. Due to Uramia.\n</p>\n</div>",
 "type": "Death"
 }
 ],
 [
 {
 "cita": [
-51
+50
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -5010,28 +6276,30 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 149,
+"m_idx": 151,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+42,
+93,
+51
 ],
-"thumb": "thumb/f/c/ff19d9e6d5d4ad9e0e05d8b45cf.png"
+"thumb": "thumb/f/c/ff19d9e6d5d4ad9e0e05d8b45cf-6,42-93,51.png"
 }
 ],
 "part_family": [],
 "part_person": [
-42
+45,
+46,
+51
 ],
-"place": 34,
+"place": 36,
 "text": "",
-"type": "Census"
+"type": "Census (Father)"
 },
 {
 "cita": [
-51
+50
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -5040,7 +6308,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+46
 ],
 "place": -1,
 "text": "",
@@ -5048,8 +6316,8 @@ I_events_0 = [
 },
 {
 "cita": [
-51,
-122
+50,
+127
 ],
 "date": "7/20/1848",
 "date_sdn": 2396229,
@@ -5058,24 +6326,24 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+46
 ],
-"place": 168,
+"place": 173,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-122
+127
 ],
 "date": "1/16/1922",
 "date_sdn": 2423071,
-"descr": "Cause: Apoplexy due to Arterio Sclerosis.",
+"descr": "",
 "gid": "E0359",
 "media": [
 {
 "cita": [],
-"m_idx": 150,
+"m_idx": 152,
 "note": "",
 "rect": [
 0,
@@ -5088,15 +6356,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-42
+46
 ],
-"place": 34,
-"text": "",
+"place": 36,
+"text": "<div>\n<p>\n<b>Cause</b>: Apoplexy due to Arterio Sclerosis.\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-122
+127
 ],
 "date": "",
 "date_sdn": 0,
@@ -5105,7 +6373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+46
 ],
 "place": -1,
 "text": "",
@@ -5115,7 +6383,7 @@ I_events_0 = [
 [
 {
 "cita": [
-218
+223
 ],
 "date": "about 1878",
 "date_sdn": 2406986,
@@ -5124,52 +6392,102 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-43
+47
 ],
-"place": 136,
+"place": 142,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-33
+30
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0275",
+"media": [
+{
+"cita": [],
+"m_idx": 153,
+"note": "",
+"rect": [
+7,
+53,
+90,
+65
+],
+"thumb": "thumb/4/9/fd31e85c19948c7698436023d94-7,53-90,65.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+47,
+48
+],
+"place": 200,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+31
 ],
 "date": "1950",
 "date_sdn": 2433283,
 "descr": "Night Clerk at a hotel",
 "gid": "E0277",
-"media": [
-{
-"cita": [],
-"m_idx": 152,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/0/1/fd31edbe397945fdd386167a10.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-43
+47
 ],
 "place": -1,
 "text": "",
 "type": "Occupation"
 },
 {
+"cita": [
+31
+],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "",
+"gid": "E0441",
+"media": [
+{
+"cita": [],
+"m_idx": 154,
+"note": "",
+"rect": [
+9,
+35,
+95,
+43
+],
+"thumb": "thumb/0/1/fd31edbe397945fdd386167a10-9,35-95,43.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+47
+],
+"place": 156,
+"text": "",
+"type": "Census (Father)"
+},
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0332",
+"gid": "E0442",
 "media": [],
 "part_family": [],
 "part_person": [
-43
+47
 ],
 "place": -1,
 "text": "",
@@ -5178,7 +6496,9 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
+"cita": [
+223
+],
 "date": "12/8/1909",
 "date_sdn": 2418649,
 "descr": "",
@@ -5186,19 +6506,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 91,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/e/b/fc9766813236494fe1fd39146be.png"
-},
-{
-"cita": [],
-"m_idx": 153,
+"m_idx": 155,
 "note": "",
 "rect": [
 0,
@@ -5211,7 +6519,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-44
+48
 ],
 "place": 25,
 "text": "",
@@ -5219,7 +6527,39 @@ I_events_0 = [
 },
 {
 "cita": [
-137
+30
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0275",
+"media": [
+{
+"cita": [],
+"m_idx": 153,
+"note": "",
+"rect": [
+7,
+53,
+90,
+65
+],
+"thumb": "thumb/4/9/fd31e85c19948c7698436023d94-7,53-90,65.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+47,
+48
+],
+"place": 200,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+142
 ],
 "date": "3/12/1998",
 "date_sdn": 2450885,
@@ -5227,37 +6567,25 @@ I_events_0 = [
 "gid": "E0193",
 "media": [
 {
-"cita": [],
-"m_idx": 91,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/e/b/fc9766813236494fe1fd39146be.png"
-},
-{
 "cita": [
-137
+142
 ],
-"m_idx": 154,
+"m_idx": 156,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+5,
+32,
+61,
+35
 ],
-"thumb": "thumb/1/c/fc9784355ee1c2dfea1aebe9ec1.png"
+"thumb": "thumb/1/c/fc9784355ee1c2dfea1aebe9ec1-5,32-61,35.png"
 }
 ],
 "part_family": [],
 "part_person": [
-44
+48
 ],
-"place": 61,
+"place": 65,
 "text": "",
 "type": "Death"
 }
@@ -5265,7 +6593,7 @@ I_events_0 = [
 [
 {
 "cita": [
-129
+134
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -5274,29 +6602,29 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 44,
+"m_idx": 49,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+6,
+86,
+88,
+94
 ],
-"thumb": "thumb/b/9/ff24d885aae4d7ce0b4f194e39b.png"
+"thumb": "thumb/b/9/ff24d885aae4d7ce0b4f194e39b-6,86-88,94.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-45
+11,
+49
 ],
-"place": 130,
+"place": 136,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-197
+202
 ],
 "date": "",
 "date_sdn": 0,
@@ -5305,47 +6633,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-45
+49
 ],
-"place": 103,
+"place": 108,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-205
-],
-"date": "1860",
-"date_sdn": 2400411,
-"descr": "",
-"gid": "E0408",
-"media": [
-{
-"cita": [],
-"m_idx": 45,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393.png"
-}
-],
-"part_family": [],
-"part_person": [
-7,
-8,
-45
-],
-"place": 215,
-"text": "",
-"type": "Census (Unknown)"
-},
-{
-"cita": [
-234
+239
 ],
 "date": "1880",
 "date_sdn": 2407716,
@@ -5354,29 +6650,29 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 155,
+"m_idx": 157,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+19,
+70,
+91,
+74
 ],
-"thumb": "thumb/0/6/ff24cb835cb7bc901e7624db960.png"
+"thumb": "thumb/0/6/ff24cb835cb7bc901e7624db960-19,70-91,74.png"
 }
 ],
 "part_family": [],
 "part_person": [
-8,
-45
+12,
+49
 ],
-"place": 215,
+"place": 221,
 "text": "",
-"type": "Census"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-231
+236
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -5385,34 +6681,66 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 46,
+"m_idx": 51,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+12,
+55,
+77,
+71
 ],
-"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97.png"
+"thumb": "thumb/7/9/ff24cde26337b7eb60fb44b7b97-12,55-77,71.png"
 }
 ],
 "part_family": [],
 "part_person": [
-7,
-8,
-45
+11,
+12,
+49
 ],
-"place": 122,
+"place": 128,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
+},
+{
+"cita": [
+210
+],
+"date": "1860",
+"date_sdn": 2400411,
+"descr": "",
+"gid": "E0408",
+"media": [
+{
+"cita": [],
+"m_idx": 50,
+"note": "",
+"rect": [
+7,
+54,
+97,
+68
+],
+"thumb": "thumb/3/9/ff1fc647c59cb37f5ae81e3393-7,54-97,68.png"
+}
+],
+"part_family": [],
+"part_person": [
+11,
+12,
+49
+],
+"place": 221,
+"text": "",
+"type": "Census (Mother)"
 }
 ],
 [],
 [
 {
 "cita": [
-51,
-219
+50,
+224
 ],
 "date": "7/4/1851",
 "date_sdn": 2397308,
@@ -5421,15 +6749,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+51
 ],
-"place": 168,
+"place": 173,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-219
+50
+],
+"date": "1900",
+"date_sdn": 2415021,
+"descr": "",
+"gid": "E0354",
+"media": [
+{
+"cita": [],
+"m_idx": 151,
+"note": "",
+"rect": [
+6,
+42,
+93,
+51
+],
+"thumb": "thumb/f/c/ff19d9e6d5d4ad9e0e05d8b45cf-6,42-93,51.png"
+}
+],
+"part_family": [],
+"part_person": [
+45,
+46,
+51
+],
+"place": 36,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+224
 ],
 "date": "10/6/1921",
 "date_sdn": 2422969,
@@ -5438,7 +6798,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 156,
+"m_idx": 158,
 "note": "",
 "rect": [
 0,
@@ -5451,14 +6811,16 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-47
+51
 ],
-"place": 85,
+"place": 90,
 "text": "",
 "type": "Death"
 },
 {
-"cita": [],
+"cita": [
+224
+],
 "date": "",
 "date_sdn": 0,
 "descr": "In early womanhood united with Congregrational Church, later the Methodist Church at Greene County Chapel.",
@@ -5466,14 +6828,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+51
 ],
 "place": -1,
 "text": "",
 "type": "Religion"
 },
 {
-"cita": [],
+"cita": [
+224
+],
 "date": "",
 "date_sdn": 0,
 "descr": "Unknown affliction which caused her spend her life mostly at home, rearing her children",
@@ -5481,7 +6845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+51
 ],
 "place": -1,
 "text": "",
@@ -5494,7 +6858,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1815",
 "date_sdn": 2383975,
@@ -5503,7 +6867,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-51
+55
 ],
 "place": -1,
 "text": "",
@@ -5513,7 +6877,7 @@ I_events_0 = [
 [
 {
 "cita": [
-191
+196
 ],
 "date": "1782",
 "date_sdn": 2371923,
@@ -5522,7 +6886,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-52
+56
 ],
 "place": -1,
 "text": "",
@@ -5530,7 +6894,7 @@ I_events_0 = [
 },
 {
 "cita": [
-191
+196
 ],
 "date": "1847",
 "date_sdn": 2395663,
@@ -5539,7 +6903,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-52
+56
 ],
 "place": -1,
 "text": "",
@@ -5548,7 +6912,72 @@ I_events_0 = [
 ],
 [
 {
+"cita": [
+244
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0220",
+"media": [
+{
 "cita": [],
+"m_idx": 126,
+"note": "",
+"rect": [
+6,
+79,
+90,
+86
+],
+"thumb": "thumb/1/2/fcbe4c1473542c16fa43ede1321-6,79-90,86.png"
+}
+],
+"part_family": [],
+"part_person": [
+37,
+57
+],
+"place": 0,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+241
+],
+"date": "1900",
+"date_sdn": 2415021,
+"descr": "",
+"gid": "E0223",
+"media": [
+{
+"cita": [],
+"m_idx": 125,
+"note": "",
+"rect": [
+12,
+41,
+98,
+51
+],
+"thumb": "thumb/c/a/fcbe50fa3db4d3d8c2876fdfcac-12,41-98,51.png"
+}
+],
+"part_family": [],
+"part_person": [
+37,
+38,
+57
+],
+"place": 245,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+149
+],
 "date": "3/30/1916",
 "date_sdn": 2420953,
 "descr": "",
@@ -5556,7 +6985,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 140,
+"m_idx": 142,
 "note": "",
 "rect": [
 0,
@@ -5569,39 +6998,26 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-53
+57
 ],
-"place": 252,
+"place": 257,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-144
+149
 ],
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
 "gid": "E0135",
-"media": [
-{
-"cita": [],
-"m_idx": 140,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/2/fc6aa31d64414ceac33a1f30c25.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-53
+57
 ],
-"place": 163,
+"place": 168,
 "text": "",
 "type": "Birth"
 }
@@ -5609,44 +7025,57 @@ I_events_0 = [
 [
 {
 "cita": [
-100
+105
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0421",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 11,
+"note": "",
+"rect": [
+3,
+83,
+96,
+93
+],
+"thumb": "thumb/d/e/ff6bbed12794f3f8f18eda2faed-3,83-96,93.png"
+}
+],
 "part_family": [],
 "part_person": [
-1,
-3,
-54
+4,
+6,
+58
 ],
-"place": 110,
+"place": 115,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-100,
-212
+105,
+217
 ],
-"date": "",
-"date_sdn": 0,
-"descr": "Either about 1817 or 1823",
+"date": "about 1820",
+"date_sdn": 2385801,
+"descr": "",
 "gid": "E0424",
 "media": [],
 "part_family": [],
 "part_person": [
-54
+58
 ],
-"place": 168,
+"place": 173,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-212
+217
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -5655,9 +7084,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-54
+58
 ],
-"place": 186,
+"place": 192,
 "text": "",
 "type": "Census"
 }
@@ -5665,7 +7094,7 @@ I_events_0 = [
 [
 {
 "cita": [
-17
+16
 ],
 "date": "",
 "date_sdn": 0,
@@ -5674,9 +7103,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-55
+59
 ],
-"place": 30,
+"place": 32,
 "text": "",
 "type": "Birth"
 }
@@ -5684,8 +7113,71 @@ I_events_0 = [
 [
 {
 "cita": [
-16,
+15
+],
+"date": "1920",
+"date_sdn": 2422325,
+"descr": "",
+"gid": "E0310",
+"media": [
+{
+"cita": [],
+"m_idx": 114,
+"note": "",
+"rect": [
+6,
+42,
+98,
+56
+],
+"thumb": "thumb/f/4/ff0b022245542241eb25c50984f-6,42-98,56.png"
+}
+],
+"part_family": [],
+"part_person": [
+29,
+30,
+60
+],
+"place": 216,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
 17
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0437",
+"media": [
+{
+"cita": [],
+"m_idx": 109,
+"note": "",
+"rect": [
+8,
+67,
+93,
+74
+],
+"thumb": "thumb/9/e/ff0b173cf0e96e4be02a049de9-8,67-93,74.png"
+}
+],
+"part_family": [],
+"part_person": [
+30,
+60
+],
+"place": 251,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+15,
+16
 ],
 "date": "9/22/1880",
 "date_sdn": 2407981,
@@ -5694,35 +7186,48 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-56
+60
 ],
-"place": 30,
+"place": 32,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-17
+16
 ],
 "date": "8/29/1925",
 "date_sdn": 2424392,
-"descr": "Heart failure",
+"descr": "",
 "gid": "E0317",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 160,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/0/8/ff0b125285d483fb96a1fd36980.png"
+}
+],
 "part_family": [],
 "part_person": [
-56
+60
 ],
-"place": 210,
-"text": "",
+"place": 216,
+"text": "<div>\n<p>\n<b>Cause</b>: Heart failure\n</p>\n</div>",
 "type": "Death"
 }
 ],
 [
 {
 "cita": [
-60,
-183
+61,
+188
 ],
 "date": "5/29/1884",
 "date_sdn": 2409326,
@@ -5731,15 +7236,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-57
+61
 ],
-"place": 78,
+"place": 82,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-60
+61
 ],
 "date": "1950",
 "date_sdn": 2433283,
@@ -5748,7 +7253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-57
+61
 ],
 "place": 18,
 "text": "",
@@ -5756,7 +7261,24 @@ I_events_0 = [
 },
 {
 "cita": [
-183
+188
+],
+"date": "1942",
+"date_sdn": 2430361,
+"descr": "",
+"gid": "E0305",
+"media": [],
+"part_family": [],
+"part_person": [
+61
+],
+"place": 3,
+"text": "",
+"type": "Residence (Unknown)"
+},
+{
+"cita": [
+188
 ],
 "date": "4/1942",
 "date_sdn": 2430451,
@@ -5765,9 +7287,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-57
+61
 ],
-"place": 170,
+"place": 175,
 "text": "",
 "type": "Occupation"
 },
@@ -5782,18 +7304,129 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-57
+61
 ],
-"place": 170,
+"place": 175,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [
+188
+],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0443",
+"media": [
+{
+"cita": [],
+"m_idx": 162,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/c/c/ff0ac75462575c45c516c6a83cc.png"
+}
+],
+"part_family": [],
+"part_person": [
+61
+],
+"place": -1,
+"text": "",
+"type": "Draft Registration"
+},
+{
+"cita": [
+61
+],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "",
+"gid": "E0446",
+"media": [
+{
+"cita": [],
+"m_idx": 164,
+"note": "",
+"rect": [
+9,
+52,
+96,
+55
+],
+"thumb": "thumb/e/f/fefae3fc57f3aec397e4fa042fe-9,52-96,55.png"
+}
+],
+"part_family": [],
+"part_person": [
+61,
+83
+],
+"place": 18,
+"text": "",
+"type": "Census (Father)"
+},
+{
+"cita": [
+75
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0447",
+"media": [
+{
+"cita": [],
+"m_idx": 163,
+"note": "",
+"rect": [
+8,
+87,
+92,
+92
+],
+"thumb": "thumb/e/b/ff0af9490e43399ef219845f9be-8,87-92,92.png"
+}
+],
+"part_family": [],
+"part_person": [
+61,
+62,
+83
+],
+"place": 80,
+"text": "",
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-89,
-124
+126
+],
+"date": "about 1939",
+"date_sdn": 2429265,
+"descr": "",
+"gid": "E0245",
+"media": [],
+"part_family": [],
+"part_person": [
+62,
+89
+],
+"place": 5,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+94,
+129
 ],
 "date": "10/12/1913",
 "date_sdn": 2420053,
@@ -5802,15 +7435,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-58
+62
 ],
-"place": 76,
+"place": 80,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-135
+75
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0447",
+"media": [
+{
+"cita": [],
+"m_idx": 163,
+"note": "",
+"rect": [
+8,
+87,
+92,
+92
+],
+"thumb": "thumb/e/b/ff0af9490e43399ef219845f9be-8,87-92,92.png"
+}
+],
+"part_family": [],
+"part_person": [
+61,
+62,
+83
+],
+"place": 80,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+140
 ],
 "date": "9/20/1990",
 "date_sdn": 2448155,
@@ -5819,22 +7484,22 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 163,
+"m_idx": 165,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+11,
+24,
+69,
+28
 ],
-"thumb": "thumb/7/5/fcdb4b025ac2341d70eb3016857.png"
+"thumb": "thumb/7/5/fcdb4b025ac2341d70eb3016857-11,24-69,28.png"
 }
 ],
 "part_family": [],
 "part_person": [
-58
+62
 ],
-"place": 239,
+"place": 244,
 "text": "",
 "type": "Death"
 }
@@ -5843,7 +7508,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "about 1641",
 "date_sdn": 2320424,
@@ -5852,7 +7517,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-60
+64
 ],
 "place": -1,
 "text": "",
@@ -5860,7 +7525,7 @@ I_events_0 = [
 },
 {
 "cita": [
-45
+43
 ],
 "date": "1695",
 "date_sdn": 2340147,
@@ -5869,7 +7534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-60
+64
 ],
 "place": -1,
 "text": "",
@@ -5877,7 +7542,7 @@ I_events_0 = [
 },
 {
 "cita": [
-45
+43
 ],
 "date": "",
 "date_sdn": 0,
@@ -5886,9 +7551,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-60
+64
 ],
-"place": 167,
+"place": 172,
 "text": "",
 "type": "Residence"
 }
@@ -5896,7 +7561,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1815",
 "date_sdn": 2383975,
@@ -5905,7 +7570,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-61
+65
 ],
 "place": -1,
 "text": "",
@@ -5915,7 +7580,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1621",
 "date_sdn": 2313119,
@@ -5924,7 +7589,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-62
+66
 ],
 "place": -1,
 "text": "",
@@ -5934,7 +7599,7 @@ I_events_0 = [
 [
 {
 "cita": [
-34
+32
 ],
 "date": "1787",
 "date_sdn": 2373749,
@@ -5943,7 +7608,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-63
+67
 ],
 "place": -1,
 "text": "",
@@ -5951,7 +7616,7 @@ I_events_0 = [
 },
 {
 "cita": [
-34
+32
 ],
 "date": "1825",
 "date_sdn": 2387628,
@@ -5960,7 +7625,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-63
+67
 ],
 "place": -1,
 "text": "",
@@ -5970,7 +7635,7 @@ I_events_0 = [
 [
 {
 "cita": [
-45
+43
 ],
 "date": "1687",
 "date_sdn": 2337225,
@@ -5979,7 +7644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-64
+68
 ],
 "place": -1,
 "text": "",
@@ -5987,7 +7652,7 @@ I_events_0 = [
 },
 {
 "cita": [
-45
+43
 ],
 "date": "",
 "date_sdn": 0,
@@ -5996,7 +7661,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-64
+68
 ],
 "place": -1,
 "text": "",
@@ -6006,7 +7671,7 @@ I_events_0 = [
 [
 {
 "cita": [
-34
+32
 ],
 "date": "1762",
 "date_sdn": 2364618,
@@ -6015,7 +7680,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-65
+69
 ],
 "place": -1,
 "text": "",
@@ -6023,7 +7688,7 @@ I_events_0 = [
 },
 {
 "cita": [
-34
+32
 ],
 "date": "1817",
 "date_sdn": 2384706,
@@ -6032,7 +7697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-65
+69
 ],
 "place": -1,
 "text": "",
@@ -6040,7 +7705,7 @@ I_events_0 = [
 },
 {
 "cita": [
-187
+192
 ],
 "date": "1/3/1753",
 "date_sdn": 2361333,
@@ -6049,9 +7714,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-65
+69
 ],
-"place": 167,
+"place": 172,
 "text": "<div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThere were 2 Johann Henrich's who were born to Johann Hartmann Scheuermann and Elisabeth German. This Johann Henrich was the older of the two (he was 14 in 1766 whereas his younger brother was 8). There were 2 baptism dates listed, 01/03/1753 or 01/20/1755. I am assuming the older date was for this Johann Henrich.<br />\nSource: Volga German Institute page \"Scheuermann (Yagodnaya Polyana)\"\n</p>\n</div>\n</div>",
 "type": "Baptism"
 }
@@ -6059,7 +7724,7 @@ I_events_0 = [
 [
 {
 "cita": [
-34
+32
 ],
 "date": "1814",
 "date_sdn": 2383610,
@@ -6068,7 +7733,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-66
+70
 ],
 "place": -1,
 "text": "",
@@ -6076,7 +7741,7 @@ I_events_0 = [
 },
 {
 "cita": [
-34
+32
 ],
 "date": "about 1858",
 "date_sdn": 2399681,
@@ -6085,7 +7750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-66
+70
 ],
 "place": -1,
 "text": "",
@@ -6095,8 +7760,8 @@ I_events_0 = [
 [
 {
 "cita": [
-34,
-222
+32,
+227
 ],
 "date": "12/26/1854",
 "date_sdn": 2398579,
@@ -6105,17 +7770,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+71
 ],
-"place": 204,
+"place": 210,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
 6,
-34,
-222
+32,
+227
 ],
 "date": "4/9/1924",
 "date_sdn": 2423885,
@@ -6124,7 +7789,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 167,
+"m_idx": 169,
 "note": "",
 "rect": [
 0,
@@ -6137,16 +7802,35 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-67
+71
 ],
-"place": 41,
+"place": 45,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-35,
-36
+32,
+41
+],
+"date": "about 1870",
+"date_sdn": 2404064,
+"descr": "from Yagodnaya Polyana, Russia, aboard the SS Ohio",
+"gid": "E0089",
+"media": [],
+"part_family": [],
+"part_person": [
+40,
+71
+],
+"place": 209,
+"text": "<div>\n<i class=\"NoteType\">\nCitation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAmong few Protestants on board the November Ohio transport were the following family most locating near Great Bend, George Brach, Peter Ochs, Henry Scheuermann, and two Conrad Scheuermanns. They were soon joined in Kansas by the families of George H. Henry Rothe, and Conrad Aschenbrenner who had arrived in New York on January 6, 1876 on the SS City of Montreal. These families began forming the nucleus from which Russian German immigration to the Pacific Northwest would first undertaken in 1881.\n</p>\n</div>\n</div>",
+"type": "Immigration"
+},
+{
+"cita": [
+33,
+34
 ],
 "date": "",
 "date_sdn": 0,
@@ -6155,15 +7839,34 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+71
 ],
-"place": 255,
+"place": 260,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWhen the Germans first came they bought 160 acres and divided it into twenty-acre parcels. They called it the Russian Colony. They would have a big garden spot like they had in Russia.<br />\nAn old Indian trail ran along the southeast side of the river here along the bluff. At first the men worked on the railroad. They had a few horses.<br />\nAbout a mile below here the Lairds had a house, then the Weitzes. When Lairds were there they had an Indian scare so they came up and stayed with the Germans. When [Henry] Litzenberger came with Henry Schierman (Conrad's brother) down here, they had camped out before by a springs near the Jimmy Smick place. Mrs. Schierman thought some Indians came to rob her but she saw a man riding a horse in the distance and told them, \u201cMein Mann!\u201d [My man!], so they rode away.\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nOne day he [Conrad] rode to the river by Hargraves and later eight families bought 160 acres, twenty acres apiece, for a little over $1 per acre. The road over the bluff to Endicott was not in yet, so they crossed near the present swinging bridge and went out past Hargaves. [Map shows locations from south to north in the colony of John Schierman, Conrad Schierman, Henry Schierman, George Schierman, John Peter Ochs, Joseph Ochs, John Schreiber, and Phillip Aschenbrenner\u201fs father.] Many later immigrants lived in the Aschenbrenner house until they found a place to settle. They all helped each other get started when new ones came.\n</p>\n</div>\n</div>",
 "type": "Property"
 },
 {
 "cita": [
-37
+32,
+42
+],
+"date": "1881",
+"date_sdn": 2408082,
+"descr": "Palouse River about 5 miles north of Endicott, WA",
+"gid": "E0090",
+"media": [],
+"part_family": [],
+"part_person": [
+40,
+71
+],
+"place": 260,
+"text": "<div>\n<i class=\"NoteType\">\nCitation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShortly after Conrad Schierman arrived in the Palouse, he rode north from Endicott to explore the surrounding countryside. Waves of knee-high tawny bunchgrass blew in the breeze across the broad hills. After riding about five miles, he came to the crest of a massive basaltic bluff overlooking the Palouse River Valley. Finding it too steep to descend, he followed the river's course upstream until he came to a more gentle slope near its northernmost point in that area. Descending here and riding back a short distance to the expanse spied earlier, he found a beautiful meadow bordered on the west by the river and sheltered on the east by the steep rock bluffs. He returned to the railroad camp and shared the news of his discovery with the other families who proceeded to investigate the site together. They were taken by the beauty and fertility of the site, and soon traveled to the federal land office in Colfax to arrange for the purchase of the land. Their request was rather unorthodox since their intention was to collectively purchase a quarter-section adjacent to the river. Officials complied and the property was divided among them reflecting the communal mir model to which they had been accustomed in Russia.<br />\nThis original \u201cPalouse Colony\u201d consisted of the Peter and Henry Ochs families together with those of Conrad, Henry, George, and John Schierman.\n</p>\n</div>\n</div>",
+"type": "Immigration"
+},
+{
+"cita": [
+35
 ],
 "date": "1891",
 "date_sdn": 2411734,
@@ -6172,7 +7875,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+71
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"We all lived together at first in a three-room house on the river with \u201cDob Conrad\u201d Schierman who was a bachelor at that time.\"  - Elizabeth (Scheuerman) Repp and Mae (Mary Scheuerman) Geier\n</p>\n</div>\n</div>",
@@ -6180,7 +7883,7 @@ I_events_0 = [
 },
 {
 "cita": [
-222
+227
 ],
 "date": "",
 "date_sdn": 0,
@@ -6189,7 +7892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+71
 ],
 "place": -1,
 "text": "",
@@ -6197,7 +7900,7 @@ I_events_0 = [
 },
 {
 "cita": [
-222
+227
 ],
 "date": "4/13/1924",
 "date_sdn": 2423889,
@@ -6206,9 +7909,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+71
 ],
-"place": 68,
+"place": 73,
 "text": "",
 "type": "Burial"
 }
@@ -6216,8 +7919,8 @@ I_events_0 = [
 [
 {
 "cita": [
-34,
-101
+32,
+106
 ],
 "date": "7/26/1890",
 "date_sdn": 2411575,
@@ -6226,15 +7929,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 68,
+"place": 73,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-42
+40
 ],
 "date": "",
 "date_sdn": 0,
@@ -6243,7 +7946,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 243,
+"m_idx": 244,
 "note": "",
 "rect": [
 0,
@@ -6256,15 +7959,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 237,
+"place": 242,
 "text": "",
 "type": "Education"
 },
 {
 "cita": [
-101
+106
 ],
 "date": "10/20/1910",
 "date_sdn": 2418965,
@@ -6273,15 +7976,69 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 224,
+"place": 229,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-101
+7
+],
+"date": "1918",
+"date_sdn": 2421595,
+"descr": "",
+"gid": "E0284",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 225,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+11
+],
+"date": "from 1912 to 1914",
+"date_sdn": 2419403,
+"descr": "Rented McKutchen farm",
+"gid": "E0228",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 102,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+174
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Active members of Seventh-Day Adventist Church",
+"gid": "E0129",
+"media": [],
+"part_family": [],
+"part_person": [
+38,
+72
+],
+"place": 239,
+"text": "",
+"type": "Religion"
+},
+{
+"cita": [
+106
 ],
 "date": "10/7/1913",
 "date_sdn": 2420048,
@@ -6290,15 +8047,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 224,
+"place": 229,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-101
+106
 ],
 "date": "12/1/1914",
 "date_sdn": 2420468,
@@ -6307,15 +8064,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 224,
+"place": 229,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
-101
+106
 ],
 "date": "between 1917 and 1918",
 "date_sdn": 2421230,
@@ -6324,16 +8081,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 212,
+"place": 218,
 "text": "",
 "type": "Medical Information"
 },
 {
 "cita": [
 6,
-133
+138
 ],
 "date": "12/25/1974",
 "date_sdn": 2442407,
@@ -6342,25 +8099,25 @@ I_events_0 = [
 "media": [
 {
 "cita": [
-133
+138
 ],
-"m_idx": 170,
+"m_idx": 172,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+11,
+23,
+70,
+27
 ],
-"thumb": "thumb/1/5/fea655ce4cd6fcc97713ca4c951.png"
+"thumb": "thumb/1/5/fea655ce4cd6fcc97713ca4c951-11,23-70,27.png"
 }
 ],
 "part_family": [],
 "part_person": [
-68
+72
 ],
-"place": 65,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nTime of death: 12:10PM\n</p>\n</div>\n</div>",
+"place": 69,
+"text": "",
 "type": "Death"
 },
 {
@@ -6374,7 +8131,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
 "place": -1,
 "text": "",
@@ -6391,7 +8148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+72
 ],
 "place": -1,
 "text": "",
@@ -6400,7 +8157,11 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
+"cita": [
+68,
+189,
+247
+],
 "date": "about 1834",
 "date_sdn": 2390915,
 "descr": "",
@@ -6408,19 +8169,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 185,
-"note": "",
-"rect": [
-33,
-48,
-60,
-51
-],
-"thumb": "thumb/f/8/fc846e4d367165749fd8f47b68f-33,48-60,51.png"
-},
-{
-"cita": [],
-"m_idx": 192,
+"m_idx": 193,
 "note": "",
 "rect": [
 0,
@@ -6433,15 +8182,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-69
+73
 ],
-"place": 131,
+"place": 137,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBirth place: Either Maine (according to 1880 census) or Nova Scotia (according to Emerson Porter Squier's death certificate)\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
 "cita": [
-242
+247
 ],
 "date": "3/6/1900",
 "date_sdn": 2415085,
@@ -6450,7 +8199,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 172,
+"m_idx": 174,
 "note": "",
 "rect": [
 0,
@@ -6463,9 +8212,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-69
+73
 ],
-"place": 72,
+"place": 77,
 "text": "",
 "type": "Death"
 }
@@ -6474,38 +8223,26 @@ I_events_0 = [
 [
 {
 "cita": [
-72,
-192
+37,
+76,
+197
 ],
 "date": "2/28/1804",
 "date_sdn": 2380015,
 "descr": "Headstone reads &#8220;Aged 52yrs 3mo 12ds&#8221;",
 "gid": "E0118",
-"media": [
-{
-"cita": [],
-"m_idx": 63,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/a/fc6112d41093c8941af1fb050a1.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-71
+75
 ],
-"place": 177,
+"place": 182,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-27
+25
 ],
 "date": "6/12/1856",
 "date_sdn": 2399113,
@@ -6514,15 +8251,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+75
 ],
-"place": 34,
+"place": 36,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-192
+197
 ],
 "date": "",
 "date_sdn": 0,
@@ -6531,9 +8268,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+75
 ],
-"place": 79,
+"place": 83,
 "text": "",
 "type": "Burial"
 }
@@ -6547,12 +8284,29 @@ I_events_0 = [
 "date_sdn": 2428142,
 "descr": "",
 "gid": "E0021",
+"media": [],
+"part_family": [],
+"part_person": [
+76
+],
+"place": 171,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+0
+],
+"date": "9/24/2020",
+"date_sdn": 2459117,
+"descr": "",
+"gid": "E0022",
 "media": [
 {
 "cita": [
 0
 ],
-"m_idx": 174,
+"m_idx": 176,
 "note": "",
 "rect": [
 0,
@@ -6565,27 +8319,10 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 166,
+"place": 228,
 "text": "",
-"type": "Birth"
-},
-{
-"cita": [
-0
-],
-"date": "9/24/2020",
-"date_sdn": 2459117,
-"descr": "",
-"gid": "E0022",
-"media": [],
-"part_family": [],
-"part_person": [
-72
-],
-"place": 223,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNote obituary on Deschutes Memorial Gardens website lists death place as Aspen Ridge Retirement Center in Bend, Oregon but Arlene passed away in hospital care at St Charles Medical Center in Bend, Oregon. Her last place of residence was Aspen Ridge Retirement Center in Bend, Oregon which is where I believe the confusion lies.\n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
@@ -6601,7 +8338,7 @@ I_events_0 = [
 "cita": [
 1
 ],
-"m_idx": 175,
+"m_idx": 177,
 "note": "",
 "rect": [
 0,
@@ -6615,7 +8352,7 @@ I_events_0 = [
 "cita": [
 1
 ],
-"m_idx": 176,
+"m_idx": 178,
 "note": "",
 "rect": [
 0,
@@ -6628,9 +8365,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 60,
+"place": 64,
 "text": "",
 "type": "Burial"
 },
@@ -6645,10 +8382,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 21,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBookkeeper for Great American Sleep Center Inc\n</p>\n</div>\n</div>",
+"place": 88,
+"text": "",
 "type": "Occupation"
 },
 {
@@ -6662,7 +8399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
 "place": 20,
 "text": "",
@@ -6679,11 +8416,43 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 256,
+"place": 261,
 "text": "",
 "type": "Occupation"
+},
+{
+"cita": [
+155
+],
+"date": "7/8/1957",
+"date_sdn": 2436028,
+"descr": "",
+"gid": "E0034",
+"media": [
+{
+"cita": [
+155
+],
+"m_idx": 181,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/d/a/fc06c9d99ca6e4d02769efb79ad.png"
+}
+],
+"part_family": [],
+"part_person": [
+76
+],
+"place": -1,
+"text": "",
+"type": "Widowed"
 },
 {
 "cita": [
@@ -6691,14 +8460,14 @@ I_events_0 = [
 ],
 "date": "1975",
 "date_sdn": 2442414,
-"descr": "Residence of Donald Wayne Blackwell &amp; Arlene Helen Squier",
+"descr": "",
 "gid": "E0027",
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 231,
+"place": 236,
 "text": "",
 "type": "Residence"
 },
@@ -6708,12 +8477,12 @@ I_events_0 = [
 ],
 "date": "about 1985",
 "date_sdn": 2446067,
-"descr": "Residence of Donald Wayne Blackwell &amp; Arlene Helen Squier",
+"descr": "",
 "gid": "E0028",
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
 "place": 21,
 "text": "",
@@ -6730,15 +8499,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 200,
+"place": 206,
 "text": "",
 "type": "Graduation"
 },
 {
 "cita": [
-169
+173
 ],
 "date": "1954",
 "date_sdn": 2434744,
@@ -6747,9 +8516,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
-"place": 201,
+"place": 207,
 "text": "",
 "type": "Occupation"
 },
@@ -6764,18 +8533,33 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+76
 ],
 "place": 7,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "After retiring, Don and Arlene became full-time RV\u2019ers, traveling around the country, while enjoying boating, snowmobiling and other outdoor activities.",
+"gid": "E0445",
+"media": [],
+"part_family": [],
+"part_person": [
+76
+],
+"place": -1,
+"text": "",
+"type": "Retirement"
 }
 ],
 [
 {
 "cita": [
-127,
-191
+132,
+196
 ],
 "date": "6/8/1784",
 "date_sdn": 2372812,
@@ -6784,7 +8568,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 182,
+"m_idx": 183,
 "note": "",
 "rect": [
 0,
@@ -6797,15 +8581,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-73
+77
 ],
-"place": 90,
+"place": 95,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-56
+57
 ],
 "date": "3/4/1829",
 "date_sdn": 2389151,
@@ -6814,7 +8598,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 183,
+"m_idx": 184,
 "note": "",
 "rect": [
 0,
@@ -6827,9 +8611,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-73
+77
 ],
-"place": 259,
+"place": 264,
 "text": "",
 "type": "Death"
 }
@@ -6837,7 +8621,7 @@ I_events_0 = [
 [
 {
 "cita": [
-191
+196
 ],
 "date": "1751",
 "date_sdn": 2360600,
@@ -6846,7 +8630,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+78
 ],
 "place": -1,
 "text": "",
@@ -6854,7 +8638,7 @@ I_events_0 = [
 },
 {
 "cita": [
-191
+196
 ],
 "date": "1828",
 "date_sdn": 2388723,
@@ -6863,7 +8647,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+78
 ],
 "place": -1,
 "text": "",
@@ -6871,94 +8655,62 @@ I_events_0 = [
 },
 {
 "cita": [
-191
+196
 ],
 "date": "from 1775 to 1776",
 "date_sdn": 2369366,
-"descr": "In 1775 he enlisted and fought at the Battle of Bunker Hill. In May 1775 he re-enlisted from Mansfield, Telland Co., Conn as a private under Capt James Dana in the regiment of Cal. Andrew Ward and he took part in the Battles of Trenton and Princeton.",
+"descr": "Revolutionary War",
 "gid": "E0377",
 "media": [],
 "part_family": [],
 "part_person": [
-74
+78
 ],
 "place": -1,
-"text": "",
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nIn 1775 he enlisted and fought at the Battle of Bunker Hill. In May 1775 he re-enlisted from Mansfield, Telland Co., Conn as a private under Capt James Dana in the regiment of Cal. Andrew Ward and he took part in the Battles of Trenton and Princeton.\n</p>\n</div>\n</div>",
 "type": "Military Service"
 }
 ],
 [
 {
-"cita": [],
+"cita": [
+68,
+189
+],
 "date": "12/11/1854",
 "date_sdn": 2398564,
 "descr": "",
 "gid": "E0175",
-"media": [
-{
-"cita": [],
-"m_idx": 185,
-"note": "",
-"rect": [
-22,
-24,
-93,
-68
-],
-"thumb": "thumb/f/8/fc846e4d367165749fd8f47b68f-22,24-93,68.png"
-},
-{
-"cita": [],
-"m_idx": 192,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-75
+79
 ],
-"place": 118,
+"place": 124,
 "text": "",
 "type": "Birth"
 },
 {
-"cita": [],
+"cita": [
+189
+],
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "Farmer",
 "gid": "E0176",
-"media": [
-{
-"cita": [],
-"m_idx": 192,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-75
+79
 ],
-"place": 254,
+"place": 259,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-64
+67,
+68
 ],
 "date": "1/28/1935",
 "date_sdn": 2427831,
@@ -6967,7 +8719,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 185,
+"m_idx": 186,
 "note": "",
 "rect": [
 22,
@@ -6979,78 +8731,54 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 186,
+"m_idx": 187,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+39,
+71,
+84,
+74
 ],
-"thumb": "thumb/f/6/fc846a80e1f249892d6374b76f.png"
+"thumb": "thumb/f/6/fc846a80e1f249892d6374b76f-39,71-84,74.png"
 }
 ],
 "part_family": [],
 "part_person": [
-75
+79
 ],
-"place": 129,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nTime of death: 7:55am<br />\nPrimary cause: General Peritonitis<br />\nSecondary cause: Ruptured duodenal ulcer (onset 1930, 5 years prior to death)\n</p>\n</div>\n</div>",
+"place": 135,
+"text": "<div>\n<p>\n<b>Cause</b>: Primary: General PeritonitisSecondary: Ruptured duodenal ulcer (onset 1930, 5 years prior to death)\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-66
+69
 ],
 "date": "1/31/1935",
 "date_sdn": 2427834,
 "descr": "",
 "gid": "E0181",
-"media": [
-{
-"cita": [],
-"m_idx": 185,
-"note": "",
-"rect": [
-32,
-57,
-61,
-60
-],
-"thumb": "thumb/f/8/fc846e4d367165749fd8f47b68f-32,57-61,60.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-75
+79
 ],
 "place": 11,
 "text": "",
 "type": "Burial"
 },
 {
-"cita": [],
+"cita": [
+68
+],
 "date": "1935",
 "date_sdn": 2427804,
 "descr": "",
 "gid": "E0182",
-"media": [
-{
-"cita": [],
-"m_idx": 185,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/f/8/fc846e4d367165749fd8f47b68f.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-75
+79
 ],
 "place": 4,
 "text": "",
@@ -7065,7 +8793,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 185,
+"m_idx": 186,
 "note": "",
 "rect": [
 21,
@@ -7078,17 +8806,49 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-75
+79
 ],
 "place": -1,
 "text": "",
 "type": "Retirement"
+},
+{
+"cita": [
+189
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0439",
+"media": [
+{
+"cita": [],
+"m_idx": 193,
+"note": "",
+"rect": [
+16,
+39,
+84,
+46
+],
+"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9-16,39-84,46.png"
+}
+],
+"part_family": [],
+"part_person": [
+42,
+79,
+82
+],
+"place": 259,
+"text": "",
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-70
+73
 ],
 "date": "1/2/1912",
 "date_sdn": 2419404,
@@ -7097,15 +8857,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-76
+80
 ],
-"place": 44,
+"place": 48,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-70
+56
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0440",
+"media": [
+{
+"cita": [],
+"m_idx": 195,
+"note": "",
+"rect": [
+8,
+59,
+96,
+68
+],
+"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c-8,59-96,68.png"
+}
+],
+"part_family": [],
+"part_person": [
+43,
+80,
+82
+],
+"place": 58,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+73
 ],
 "date": "12/12/1975",
 "date_sdn": 2442759,
@@ -7114,15 +8906,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-76
+80
 ],
-"place": 190,
+"place": 196,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-70
+73
 ],
 "date": "",
 "date_sdn": 0,
@@ -7131,9 +8923,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-76
+80
 ],
-"place": 189,
+"place": 195,
 "text": "",
 "type": "Burial"
 }
@@ -7141,101 +8933,43 @@ I_events_0 = [
 [
 {
 "cita": [
-105
+110,
+111,
+189
 ],
 "date": "4/9/1811",
 "date_sdn": 2382612,
 "descr": "",
 "gid": "E0177",
-"media": [
-{
-"cita": [],
-"m_idx": 185,
-"note": "",
-"rect": [
-32,
-44,
-61,
-48
-],
-"thumb": "thumb/f/8/fc846e4d367165749fd8f47b68f-32,44-61,48.png"
-},
-{
-"cita": [],
-"m_idx": 188,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/9/fc84827d285c541a1c00eb7598.png"
-},
-{
-"cita": [],
-"m_idx": 190,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/f/fc847bb5826195aa28712367bf1.png"
-},
-{
-"cita": [],
-"m_idx": 192,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 206,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nObituary lists birth place as Salem, New York. Emerson Porter Squier death certificate says Rochester (but mother's birth place might also be wrong on there). Book: History of Rice County lists birth place as Washington County, New York (which encloses Salem).\n</p>\n</div>\n</div>",
+"place": 212,
+"text": "",
 "type": "Birth"
 },
 {
-"cita": [],
+"cita": [
+189
+],
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "Farmer",
 "gid": "E0178",
-"media": [
-{
-"cita": [],
-"m_idx": 192,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 254,
+"place": 259,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-105
+110
 ],
 "date": "1/12/1909",
 "date_sdn": 2418319,
@@ -7244,7 +8978,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 190,
+"m_idx": 191,
 "note": "",
 "rect": [
 0,
@@ -7257,24 +8991,42 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 31,
+"place": 33,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-106
+111
 ],
-"date": "1844",
+"date": "from 1844 to 1855",
 "date_sdn": 2394567,
 "descr": "Purchased a farm on which he resided 11 years",
 "gid": "E0185",
+"media": [],
+"part_family": [],
+"part_person": [
+81
+],
+"place": 140,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+110,
+233
+],
+"date": "from 1855 to 1908",
+"date_sdn": 2398585,
+"descr": "",
+"gid": "E0186",
 "media": [
 {
 "cita": [],
-"m_idx": 188,
+"m_idx": 189,
 "note": "",
 "rect": [
 0,
@@ -7286,47 +9038,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 190,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/f/fc847bb5826195aa28712367bf1.png"
-}
-],
-"part_family": [],
-"part_person": [
-77
-],
-"place": 134,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "1855",
-"date_sdn": 2398585,
-"descr": "Located in section thirty-four. Built a frame house but in 1872 built present frame house.",
-"gid": "E0186",
-"media": [
-{
-"cita": [],
-"m_idx": 190,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/f/fc847bb5826195aa28712367bf1.png"
-},
-{
-"cita": [],
-"m_idx": 244,
+"m_idx": 245,
 "note": "",
 "rect": [
 0,
@@ -7339,157 +9051,92 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 254,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBought a farm in the town of Wells, where he resided until 1 yr prior to his death.<br />\n1855 until 1908\n</p>\n</div>\n</div>",
+"place": 259,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBought a farm in the town of Wells, where he resided until 1 yr prior to his death. Located in section thirty-four. Built a frame house but in 1872 built present frame house.\n</p>\n</div>\n</div>",
 "type": "Residence"
 },
 {
 "cita": [
-105
+110
 ],
 "date": "1909",
 "date_sdn": 2418308,
 "descr": "",
 "gid": "E0187",
-"media": [
-{
-"cita": [],
-"m_idx": 190,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/f/fc847bb5826195aa28712367bf1.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 165,
+"place": 170,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-106
+111
 ],
 "date": "1828",
 "date_sdn": 2388723,
 "descr": "Moved with parents when he was seventeen",
 "gid": "E0188",
-"media": [
-{
-"cita": [],
-"m_idx": 188,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/9/fc84827d285c541a1c00eb7598.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 145,
+"place": 150,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-106
+111
 ],
-"date": "1837",
+"date": "from 1837 to 1839",
 "date_sdn": 2392011,
 "descr": "Bought a farm, lived on it for 2 years then returned to New York",
 "gid": "E0189",
-"media": [
-{
-"cita": [],
-"m_idx": 188,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/9/fc84827d285c541a1c00eb7598.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 50,
+"place": 54,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-106
+111
 ],
 "date": "about 1855",
 "date_sdn": 2398585,
 "descr": "Bought a saw mill which he disposed of in spring of 1855",
 "gid": "E0190",
-"media": [
-{
-"cita": [],
-"m_idx": 188,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/9/fc84827d285c541a1c00eb7598.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
-"place": 148,
+"place": 153,
 "text": "",
 "type": "Residence"
 },
 {
 "cita": [
-106
+111
 ],
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "Roxanna Howard (had 8 children together)",
 "gid": "E0191",
-"media": [
-{
-"cita": [],
-"m_idx": 188,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/9/fc84827d285c541a1c00eb7598.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-77
+81
 ],
 "place": -1,
 "text": "",
@@ -7498,75 +9145,77 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
+"cita": [
+56,
+175
+],
 "date": "4/24/1880",
 "date_sdn": 2407830,
 "descr": "",
 "gid": "E0164",
-"media": [
-{
-"cita": [],
-"m_idx": 194,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c.png"
-},
-{
-"cita": [],
-"m_idx": 197,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/6/2/fc844c5a39817c806bd6afae826.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-78
+82
 ],
-"place": 193,
+"place": 199,
 "text": "",
 "type": "Birth"
 },
 {
-"cita": [],
-"date": "1930",
-"date_sdn": 2425978,
-"descr": "Wholesale Merchant",
-"gid": "E0165",
+"cita": [
+189
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0439",
 "media": [
 {
 "cita": [],
-"m_idx": 194,
+"m_idx": 193,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+16,
+39,
+84,
+46
 ],
-"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c.png"
+"thumb": "thumb/9/c/fc844ff0fde3fa0e0d9243e0ec9-16,39-84,46.png"
 }
 ],
 "part_family": [],
 "part_person": [
-78
+42,
+79,
+82
 ],
-"place": 54,
+"place": 259,
+"text": "",
+"type": "Census (Child)"
+},
+{
+"cita": [
+56
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "Wholesale Merchant",
+"gid": "E0165",
+"media": [],
+"part_family": [],
+"part_person": [
+82
+],
+"place": 58,
 "text": "",
 "type": "Occupation"
 },
 {
-"cita": [],
+"cita": [
+166,
+175
+],
 "date": "1/3/1966",
 "date_sdn": 2439129,
 "descr": "",
@@ -7574,7 +9223,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 196,
+"m_idx": 197,
 "note": "",
 "rect": [
 0,
@@ -7586,7 +9235,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 197,
+"m_idx": 198,
 "note": "",
 "rect": [
 0,
@@ -7599,45 +9248,66 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-78
+82
 ],
 "place": 15,
 "text": "",
 "type": "Death"
 },
 {
-"cita": [],
+"cita": [
+166
+],
 "date": "1/10/1966",
 "date_sdn": 2439136,
 "descr": "",
 "gid": "E0170",
+"media": [],
+"part_family": [],
+"part_person": [
+82
+],
+"place": 152,
+"text": "",
+"type": "Burial"
+},
+{
+"cita": [
+56
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0440",
 "media": [
 {
 "cita": [],
-"m_idx": 196,
+"m_idx": 195,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+8,
+59,
+96,
+68
 ],
-"thumb": "thumb/7/4/fc841ebdf25257cd04a45123847.png"
+"thumb": "thumb/c/2/fc83e679fba1d7ff82c8101b42c-8,59-96,68.png"
 }
 ],
 "part_family": [],
 "part_person": [
-78
+43,
+80,
+82
 ],
-"place": 147,
+"place": 58,
 "text": "",
-"type": "Burial"
+"type": "Census (Father)"
 }
 ],
 [
 {
 "cita": [
-60
+61
 ],
 "date": "1895",
 "date_sdn": 2413195,
@@ -7646,17 +9316,80 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-79
+83
 ],
-"place": 261,
+"place": 266,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [
+75
+],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0447",
+"media": [
+{
+"cita": [],
+"m_idx": 163,
+"note": "",
+"rect": [
+8,
+87,
+92,
+92
+],
+"thumb": "thumb/e/b/ff0af9490e43399ef219845f9be-8,87-92,92.png"
+}
+],
+"part_family": [],
+"part_person": [
+61,
+62,
+83
+],
+"place": 80,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+61
+],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "",
+"gid": "E0446",
+"media": [
+{
+"cita": [],
+"m_idx": 164,
+"note": "",
+"rect": [
+9,
+52,
+96,
+55
+],
+"thumb": "thumb/e/f/fefae3fc57f3aec397e4fa042fe-9,52-96,55.png"
+}
+],
+"part_family": [],
+"part_person": [
+61,
+83
+],
+"place": 18,
+"text": "",
+"type": "Census (Mother)"
 }
 ],
 [
 {
 "cita": [
-122
+127
 ],
 "date": "",
 "date_sdn": 0,
@@ -7665,9 +9398,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+84
 ],
-"place": 177,
+"place": 182,
 "text": "",
 "type": "Birth"
 }
@@ -7675,39 +9408,26 @@ I_events_0 = [
 [
 {
 "cita": [
-193,
-194,
-235
+198,
+199,
+240
 ],
 "date": "9/1845",
 "date_sdn": 2395176,
 "descr": "",
 "gid": "E0253",
-"media": [
-{
-"cita": [],
-"m_idx": 120,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/6/fceae488372152c622aa847c965.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-81
+85
 ],
-"place": 81,
+"place": 85,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBarbara's age on 1875 census is listed as \"38\" but I believe it was meant to be \"28\" which aligns with her age according to the 1870 and 1900 census'. \n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
 "cita": [
-235
+240
 ],
 "date": "1875",
 "date_sdn": 2405890,
@@ -7716,7 +9436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-81
+85
 ],
 "place": -1,
 "text": "",
@@ -7724,7 +9444,7 @@ I_events_0 = [
 },
 {
 "cita": [
-235
+240
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -7733,7 +9453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-81
+85
 ],
 "place": -1,
 "text": "",
@@ -7741,119 +9461,7 @@ I_events_0 = [
 },
 {
 "cita": [
-235
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Listed as head of household on 1900 census",
-"gid": "E0256",
-"media": [],
-"part_family": [],
-"part_person": [
-81
-],
-"place": -1,
-"text": "",
-"type": "Interesting Event"
-},
-{
-"cita": [
-193
-],
-"date": "1875",
-"date_sdn": 2405890,
-"descr": "",
-"gid": "E0394",
-"media": [
-{
-"cita": [],
-"m_idx": 119,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/8/ff1e39d3a82169459a674afc88.png"
-}
-],
-"part_family": [],
-"part_person": [
-30,
-81
-],
-"place": 58,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nMistakes: Last name was listed at \"Haine\". Barbara's age listed as 38, when it was actually 28.\n</p>\n</div>\n</div>",
-"type": "Census (Unknown)"
-},
-{
-"cita": [
-235
-],
-"date": "1900",
-"date_sdn": 2415021,
-"descr": "Barbara is listed as head of house, without mention of Christian",
-"gid": "E0397",
-"media": [
-{
-"cita": [],
-"m_idx": 121,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/3/2/ff1e3d7bb405fe7350c711c5d23.png"
-}
-],
-"part_family": [],
-"part_person": [
-31,
-81
-],
-"place": 126,
-"text": "",
-"type": "Census"
-},
-{
-"cita": [
-128
-],
-"date": "1855",
-"date_sdn": 2398585,
-"descr": "",
-"gid": "E0401",
-"media": [
-{
-"cita": [],
-"m_idx": 202,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/1/2/ff1e50e38e07f2fad4b900bff21.png"
-}
-],
-"part_family": [],
-"part_person": [
-81,
-82
-],
-"place": 40,
-"text": "",
-"type": "Census (Unknown)"
-}
-],
-[
-{
-"cita": [
-194
+199
 ],
 "date": "1870",
 "date_sdn": 2404064,
@@ -7862,7 +9470,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 118,
+"m_idx": 121,
 "note": "",
 "rect": [
 16,
@@ -7875,16 +9483,96 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-30,
-82
+34,
+85,
+86
 ],
-"place": 58,
+"place": 62,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Mother)"
 },
 {
 "cita": [
-128
+240
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Listed as head of household on 1900 census",
+"gid": "E0256",
+"media": [],
+"part_family": [],
+"part_person": [
+85
+],
+"place": -1,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+198
+],
+"date": "1875",
+"date_sdn": 2405890,
+"descr": "",
+"gid": "E0394",
+"media": [
+{
+"cita": [],
+"m_idx": 122,
+"note": "",
+"rect": [
+5,
+37,
+49,
+53
+],
+"thumb": "thumb/8/8/ff1e39d3a82169459a674afc88-5,37-49,53.png"
+}
+],
+"part_family": [],
+"part_person": [
+34,
+85
+],
+"place": 62,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nLast name was listed at \"Haine\". Barbara's age listed as 38, when it was actually 28.\n</p>\n</div>\n</div>",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+240
+],
+"date": "1900",
+"date_sdn": 2415021,
+"descr": "Barbara is listed as head of house, without mention of Christian",
+"gid": "E0397",
+"media": [
+{
+"cita": [],
+"m_idx": 123,
+"note": "",
+"rect": [
+7,
+60,
+96,
+65
+],
+"thumb": "thumb/3/2/ff1e3d7bb405fe7350c711c5d23-7,60-96,65.png"
+}
+],
+"part_family": [],
+"part_person": [
+35,
+85
+],
+"place": 132,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [
+133
 ],
 "date": "1855",
 "date_sdn": 2398585,
@@ -7893,29 +9581,94 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 202,
+"m_idx": 203,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+7,
+36,
+82,
+41
 ],
-"thumb": "thumb/1/2/ff1e50e38e07f2fad4b900bff21.png"
+"thumb": "thumb/1/2/ff1e50e38e07f2fad4b900bff21-7,36-82,41.png"
 }
 ],
 "part_family": [],
 "part_person": [
-81,
-82
+85,
+86
 ],
-"place": 40,
+"place": 44,
 "text": "",
-"type": "Census"
+"type": "Census (Child)"
+}
+],
+[
+{
+"cita": [
+199
+],
+"date": "1870",
+"date_sdn": 2404064,
+"descr": "",
+"gid": "E0398",
+"media": [
+{
+"cita": [],
+"m_idx": 121,
+"note": "",
+"rect": [
+16,
+74,
+88,
+87
+],
+"thumb": "thumb/4/8/ff1e40f68882219cf05cd360784-16,74-88,87.png"
+}
+],
+"part_family": [],
+"part_person": [
+34,
+85,
+86
+],
+"place": 62,
+"text": "",
+"type": "Census (Mother)"
 },
 {
 "cita": [
-128
+133
+],
+"date": "1855",
+"date_sdn": 2398585,
+"descr": "",
+"gid": "E0401",
+"media": [
+{
+"cita": [],
+"m_idx": 203,
+"note": "",
+"rect": [
+7,
+36,
+82,
+41
+],
+"thumb": "thumb/1/2/ff1e50e38e07f2fad4b900bff21-7,36-82,41.png"
+}
+],
+"part_family": [],
+"part_person": [
+85,
+86
+],
+"place": 44,
+"text": "",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+133
 ],
 "date": "about 1797",
 "date_sdn": 2377402,
@@ -7924,9 +9677,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+86
 ],
-"place": 81,
+"place": 85,
 "text": "",
 "type": "Birth"
 }
@@ -7934,37 +9687,24 @@ I_events_0 = [
 [
 {
 "cita": [
-203
+208
 ],
 "date": "about 1822",
 "date_sdn": 2386532,
 "descr": "",
 "gid": "E0266",
-"media": [
-{
-"cita": [],
-"m_idx": 204,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/b/f/fd01a72c90a57c41494343008fb.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-83
+87
 ],
-"place": 158,
+"place": 163,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-203
+208
 ],
 "date": "",
 "date_sdn": 0,
@@ -7973,7 +9713,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-83
+87
 ],
 "place": -1,
 "text": "",
@@ -7981,38 +9721,64 @@ I_events_0 = [
 },
 {
 "cita": [
-203
+208
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0269",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 205,
+"note": "",
+"rect": [
+4,
+20,
+95,
+34
+],
+"thumb": "thumb/b/f/fd01a72c90a57c41494343008fb-4,20-95,34.png"
+}
+],
 "part_family": [],
 "part_person": [
 0,
-83,
-86
+87,
+90
 ],
-"place": 35,
+"place": 37,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census"
 },
 {
 "cita": [
-75
+79
 ],
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
 "gid": "E0414",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 204,
+"note": "",
+"rect": [
+7,
+66,
+91,
+76
+],
+"thumb": "thumb/3/a/ff6b801785c774f233ed775e2a3-7,66-91,76.png"
+}
+],
 "part_family": [],
 "part_person": [
 0,
-83
+87
 ],
-"place": 89,
+"place": 94,
 "text": "",
 "type": "Census"
 }
@@ -8020,7 +9786,7 @@ I_events_0 = [
 [
 {
 "cita": [
-73
+77
 ],
 "date": "8/5/1936",
 "date_sdn": 2428386,
@@ -8029,15 +9795,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+88
 ],
-"place": 244,
+"place": 249,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-73
+77
 ],
 "date": "5/12/2022",
 "date_sdn": 2459712,
@@ -8046,9 +9812,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+88
 ],
-"place": 95,
+"place": 100,
 "text": "",
 "type": "Death"
 }
@@ -8056,27 +9822,97 @@ I_events_0 = [
 [
 {
 "cita": [
-68,
-89,
-121
+71,
+94,
+126
 ],
 "date": "11/15/1912",
 "date_sdn": 2419722,
 "descr": "",
 "gid": "E0241",
+"media": [],
+"part_family": [],
+"part_person": [
+89
+],
+"place": 208,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [
+126
+],
+"date": "about 1939",
+"date_sdn": 2429265,
+"descr": "",
+"gid": "E0245",
+"media": [],
+"part_family": [],
+"part_person": [
+62,
+89
+],
+"place": 5,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+94
+],
+"date": "1935",
+"date_sdn": 2427804,
+"descr": "Musician",
+"gid": "E0242",
+"media": [],
+"part_family": [],
+"part_person": [
+89
+],
+"place": 175,
+"text": "",
+"type": "Occupation"
+},
+{
+"cita": [
+143
+],
+"date": "10/26/2003",
+"date_sdn": 2452939,
+"descr": "",
+"gid": "E0244",
 "media": [
 {
 "cita": [],
 "m_idx": 210,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+16,
+36,
+70,
+40
 ],
-"thumb": "thumb/a/3/fcdb469637149ba57230241953a.png"
+"thumb": "thumb/a/4/fcdb452a8575a8d12b66d7fa04a-16,36-70,40.png"
+}
+],
+"part_family": [],
+"part_person": [
+89
+],
+"place": 244,
+"text": "",
+"type": "Death"
 },
+{
+"cita": [
+126
+],
+"date": "",
+"date_sdn": 0,
+"descr": "World War II",
+"gid": "E0448",
+"media": [
 {
 "cita": [],
 "m_idx": 211,
@@ -8087,102 +9923,42 @@ I_events_0 = [
 100,
 100
 ],
-"thumb": "thumb/3/0/fcdb3fe61b33bf8b522e1470903.png"
+"thumb": "thumb/a/3/fcdb469637149ba57230241953a.png"
 }
 ],
 "part_family": [],
 "part_person": [
-85
-],
-"place": 202,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [
 89
 ],
-"date": "1935",
-"date_sdn": 2427804,
-"descr": "Musician",
-"gid": "E0242",
-"media": [],
-"part_family": [],
-"part_person": [
-85
-],
-"place": 170,
+"place": -1,
 "text": "",
-"type": "Occupation"
-},
-{
-"cita": [
-138
-],
-"date": "10/26/2003",
-"date_sdn": 2452939,
-"descr": "",
-"gid": "E0244",
-"media": [
-{
-"cita": [],
-"m_idx": 209,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/a/4/fcdb452a8575a8d12b66d7fa04a.png"
-}
-],
-"part_family": [],
-"part_person": [
-85
-],
-"place": 239,
-"text": "",
-"type": "Death"
+"type": "Draft Registration"
 }
 ],
 [
 {
 "cita": [
-146,
-167,
-238
+151,
+171,
+243
 ],
 "date": "1/13/1851",
 "date_sdn": 2397136,
 "descr": "",
 "gid": "E0257",
-"media": [
-{
-"cita": [],
-"m_idx": 216,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/b/4/fceae9b460260fe952d19c1ee4b.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
-"place": 199,
+"place": 205,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-167,
-238
+171,
+243
 ],
 "date": "1910",
 "date_sdn": 2418673,
@@ -8191,7 +9967,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
 "place": -1,
 "text": "",
@@ -8199,8 +9975,8 @@ I_events_0 = [
 },
 {
 "cita": [
-125,
-167
+130,
+171
 ],
 "date": "2/5/1927",
 "date_sdn": 2424917,
@@ -8209,19 +9985,19 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 217,
+"m_idx": 218,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+5,
+32,
+94,
+34
 ],
-"thumb": "thumb/3/0/fceaec64aaf7b2405439f675103.png"
+"thumb": "thumb/3/0/fceaec64aaf7b2405439f675103-5,32-94,34.png"
 },
 {
 "cita": [],
-"m_idx": 218,
+"m_idx": 219,
 "note": "",
 "rect": [
 0,
@@ -8233,7 +10009,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 219,
+"m_idx": 220,
 "note": "",
 "rect": [
 0,
@@ -8246,7 +10022,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-86
+90
 ],
 "place": 13,
 "text": "",
@@ -8254,7 +10030,7 @@ I_events_0 = [
 },
 {
 "cita": [
-167
+171
 ],
 "date": "between 1887 and 1927",
 "date_sdn": 2410273,
@@ -8263,7 +10039,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
 "place": 13,
 "text": "",
@@ -8271,7 +10047,7 @@ I_events_0 = [
 },
 {
 "cita": [
-167
+171
 ],
 "date": "1863",
 "date_sdn": 2401507,
@@ -8280,14 +10056,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
-"place": 73,
+"place": 78,
 "text": "",
 "type": "Residence"
 },
 {
-"cita": [],
+"cita": [
+171
+],
 "date": "1878",
 "date_sdn": 2406986,
 "descr": "Walked 75 miles from Yankton South Dakota to Antelope County, Nebraska, and settled his homestead northwest of Royal",
@@ -8295,15 +10073,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
 "place": -1,
 "text": "",
-"type": "Travel (Unknown)"
+"type": "Travel"
 },
 {
 "cita": [
-167
+171
 ],
 "date": "",
 "date_sdn": 0,
@@ -8312,7 +10090,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+90
 ],
 "place": -1,
 "text": "",
@@ -8320,72 +10098,90 @@ I_events_0 = [
 },
 {
 "cita": [
-203
+208
 ],
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
 "gid": "E0269",
-"media": [],
+"media": [
+{
+"cita": [],
+"m_idx": 205,
+"note": "",
+"rect": [
+4,
+20,
+95,
+34
+],
+"thumb": "thumb/b/f/fd01a72c90a57c41494343008fb-4,20-95,34.png"
+}
+],
 "part_family": [],
 "part_person": [
 0,
-83,
-86
+87,
+90
 ],
-"place": 35,
+"place": 37,
 "text": "",
-"type": "Census (Unknown)"
+"type": "Census (Child)"
+},
+{
+"cita": [
+243
+],
+"date": "1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E0449",
+"media": [
+{
+"cita": [],
+"m_idx": 217,
+"note": "",
+"rect": [
+7,
+79,
+91,
+83
+],
+"thumb": "thumb/b/4/fceae9b460260fe952d19c1ee4b-7,79-91,83.png"
+}
+],
+"part_family": [],
+"part_person": [
+90
+],
+"place": 249,
+"text": "",
+"type": "Census"
 }
 ],
 [
 {
 "cita": [
-76,
-200,
-214
+80,
+205,
+219
 ],
 "date": "12/1/1880",
 "date_sdn": 2408051,
 "descr": "",
 "gid": "E0248",
-"media": [
-{
-"cita": [],
-"m_idx": 221,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/b/fcdb582623a3029a0daaebed9b5.png"
-},
-{
-"cita": [],
-"m_idx": 222,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/3/6/fcdb5a0bc5c21a874c9dec37863.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-87
+91
 ],
-"place": 202,
+"place": 208,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-214
+219
 ],
 "date": "1918",
 "date_sdn": 2421595,
@@ -8394,7 +10190,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+91
 ],
 "place": -1,
 "text": "",
@@ -8402,7 +10198,7 @@ I_events_0 = [
 },
 {
 "cita": [
-145
+150
 ],
 "date": "10/26/1957",
 "date_sdn": 2436138,
@@ -8411,7 +10207,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 224,
+"m_idx": 225,
 "note": "",
 "rect": [
 0,
@@ -8424,15 +10220,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-87
+91
 ],
-"place": 51,
+"place": 55,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-145
+150
 ],
 "date": "10/29/1957",
 "date_sdn": 2436141,
@@ -8441,16 +10237,78 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+91
 ],
-"place": 87,
+"place": 92,
 "text": "",
 "type": "Burial"
+},
+{
+"cita": [
+80
+],
+"date": "",
+"date_sdn": 0,
+"descr": "World War II",
+"gid": "E0450",
+"media": [
+{
+"cita": [],
+"m_idx": 222,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/5/b/fcdb582623a3029a0daaebed9b5.png"
+}
+],
+"part_family": [],
+"part_person": [
+91
+],
+"place": -1,
+"text": "",
+"type": "Draft Registration"
+},
+{
+"cita": [
+219
+],
+"date": "9/12/1918",
+"date_sdn": 2421849,
+"descr": "World War I",
+"gid": "E0451",
+"media": [
+{
+"cita": [],
+"m_idx": 223,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/3/6/fcdb5a0bc5c21a874c9dec37863.png"
+}
+],
+"part_family": [],
+"part_person": [
+91
+],
+"place": -1,
+"text": "",
+"type": "Draft Registration"
 }
 ],
 [
 {
-"cita": [],
+"cita": [
+216
+],
 "date": "after 1884",
 "date_sdn": 2409177,
 "descr": "Paster at Delphos Baptist Church",
@@ -8458,7 +10316,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 229,
+"m_idx": 230,
 "note": "",
 "rect": [
 0,
@@ -8471,7 +10329,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-88
+92
 ],
 "place": -1,
 "text": "",
@@ -8479,10 +10337,10 @@ I_events_0 = [
 },
 {
 "cita": [
-28,
-90,
-91,
-232
+26,
+95,
+96,
+237
 ],
 "date": "11/10/1845",
 "date_sdn": 2395246,
@@ -8491,26 +10349,26 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+92
 ],
-"place": 109,
+"place": 114,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-28,
-90,
-91
+26,
+95,
+96
 ],
 "date": "4/1/1923",
 "date_sdn": 2423511,
-"descr": "Cause of death: Cerebral hemorrhage due to Chronic Bright&#8217;s Disease (chronic nephritis or kidney disease). Time of death: 1PM.",
+"descr": "",
 "gid": "E0335",
 "media": [
 {
 "cita": [],
-"m_idx": 231,
+"m_idx": 232,
 "note": "",
 "rect": [
 0,
@@ -8523,24 +10381,24 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-88
+92
 ],
-"place": 253,
-"text": "",
+"place": 258,
+"text": "<div>\n<p>\n<b>Cause</b>: Cerebral hemorrhage due to Chronic Bright's Disease (chronic nephritis or kidney disease).\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-28
+26
 ],
 "date": "3/4/1864",
 "date_sdn": 2401935,
-"descr": "Civil War Vet; enlisted on 3/4/1864 as a private; seved with Company H of the 124th Indiana Infantry; Mustered out of service on 5/30/1865.",
+"descr": "Civil War (Union)",
 "gid": "E0336",
 "media": [
 {
 "cita": [],
-"m_idx": 227,
+"m_idx": 228,
 "note": "",
 "rect": [
 0,
@@ -8552,7 +10410,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 228,
+"m_idx": 229,
 "note": "",
 "rect": [
 0,
@@ -8565,15 +10423,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-88
+92
 ],
 "place": 26,
-"text": "",
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nEnlisted on 3/4/1864 as a private; seved with Company H of the 124th Indiana Infantry; Mustered out of service on 5/30/1865.\n</p>\n</div>\n</div>",
 "type": "Military Service"
 },
 {
 "cita": [
-28
+26
 ],
 "date": "about 4/1/1923",
 "date_sdn": 2423511,
@@ -8582,15 +10440,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+92
 ],
-"place": 135,
+"place": 141,
 "text": "",
 "type": "Burial"
 },
 {
 "cita": [
-47
+45
 ],
 "date": "1915",
 "date_sdn": 2420499,
@@ -8599,7 +10457,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 226,
+"m_idx": 227,
 "note": "",
 "rect": [
 34,
@@ -8612,7 +10470,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-88
+92
 ],
 "place": 23,
 "text": "",
@@ -8620,7 +10478,7 @@ I_events_0 = [
 },
 {
 "cita": [
-90
+95
 ],
 "date": "",
 "date_sdn": 0,
@@ -8629,7 +10487,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+92
 ],
 "place": -1,
 "text": "",
@@ -8639,26 +10497,26 @@ I_events_0 = [
 [
 {
 "cita": [
-90,
-177,
-178
+95,
+182,
+183
 ],
 "date": "about 1820",
 "date_sdn": 2385801,
-"descr": "Ohio, Pennsylvania or Indiana - Conflicting records",
+"descr": "",
 "gid": "E0344",
 "media": [],
 "part_family": [],
 "part_person": [
-89
+93
 ],
 "place": -1,
-"text": "",
+"text": "<div>\n<i class=\"NoteType\">\nResearch\n</i>\n<div class=\"grampsstylednote\">\n<p>\nOhio, Pennsylvania or Indiana\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
 "cita": [
-177
+182
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -8667,7 +10525,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 235,
+"m_idx": 236,
 "note": "",
 "rect": [
 7,
@@ -8680,15 +10538,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-89
+93
 ],
-"place": 178,
+"place": 183,
 "text": "",
 "type": "Census"
 },
 {
 "cita": [
-177
+182
 ],
 "date": "1850",
 "date_sdn": 2396759,
@@ -8697,15 +10555,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-89
+93
 ],
-"place": 178,
+"place": 183,
 "text": "",
 "type": "Occupation"
 },
 {
 "cita": [
-178
+183
 ],
 "date": "1860",
 "date_sdn": 2400411,
@@ -8714,7 +10572,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 236,
+"m_idx": 237,
 "note": "",
 "rect": [
 6,
@@ -8727,9 +10585,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-89
+93
 ],
-"place": 178,
+"place": 183,
 "text": "",
 "type": "Census"
 }
@@ -8737,7 +10595,7 @@ I_events_0 = [
 [
 {
 "cita": [
-177
+182
 ],
 "date": "about 1826",
 "date_sdn": 2387993,
@@ -8746,9 +10604,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+94
 ],
-"place": 168,
+"place": 173,
 "text": "",
 "type": "Birth"
 }
@@ -8756,16 +10614,16 @@ I_events_0 = [
 [
 {
 "cita": [
-199
+204
 ],
 "date": "4/26/1961",
 "date_sdn": 2437416,
-"descr": "Cause: Circulatory failure. Due to Cerebral hemmorhage. Due to Atherosclerosis.",
+"descr": "",
 "gid": "E0281",
 "media": [
 {
 "cita": [],
-"m_idx": 238,
+"m_idx": 239,
 "note": "",
 "rect": [
 0,
@@ -8778,15 +10636,15 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-91
+95
 ],
-"place": 151,
-"text": "",
+"place": 156,
+"text": "<div>\n<p>\n<b>Cause</b>: Circulatory failure. Due to Cerebral hemmorhage. Due to Atherosclerosis.\n</p>\n</div>",
 "type": "Death"
 },
 {
 "cita": [
-199
+204
 ],
 "date": "1/14/1875",
 "date_sdn": 2405903,
@@ -8795,24 +10653,24 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+95
 ],
-"place": 106,
+"place": 111,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-232
+148
 ],
-"date": "1880",
-"date_sdn": 2407716,
-"descr": "",
-"gid": "E0295",
+"date": "1/1/1899",
+"date_sdn": 2414656,
+"descr": "Moved to farm in Grant township",
+"gid": "E0139",
 "media": [
 {
 "cita": [],
-"m_idx": 61,
+"m_idx": 86,
 "note": "",
 "rect": [
 0,
@@ -8820,13 +10678,68 @@ I_events_0 = [
 100,
 100
 ],
-"thumb": "thumb/3/1/fd31fe13da47f984bc3e4cd8413.png"
+"thumb": "thumb/e/9/fc6abba22293fd8924876e82a9e.png"
+},
+{
+"cita": [],
+"m_idx": 87,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/0/fc6abbb84cd78cfeae06dc0b00a.png"
+},
+{
+"cita": [],
+"m_idx": 88,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/b/fc6abbc423917e1c8fe2c6ae8b9.png"
+},
+{
+"cita": [],
+"m_idx": 91,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/2/a/fc6aafeb150694e0b3f464924a2.png"
+}
+],
+"part_family": [],
+"part_person": [
+21,
+95
+],
+"place": 86,
+"text": "",
+"type": "Residence"
 },
 {
 "cita": [
-232
+237
 ],
-"m_idx": 237,
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0295",
+"media": [
+{
+"cita": [
+237
+],
+"m_idx": 238,
 "note": "",
 "rect": [
 10,
@@ -8839,8 +10752,10 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-17,
-91
+18,
+21,
+95,
+98
 ],
 "place": 23,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAccording to this 1880 census Jair Cowell and Rose Tharp lived right next door to each other when he was 10 years old and she was 6 years old. <br />\nRose's name is listed as \"Rosey\".\n</p>\n</div>\n</div>",
@@ -8848,7 +10763,7 @@ I_events_0 = [
 },
 {
 "cita": [
-80
+85
 ],
 "date": "1961",
 "date_sdn": 2437301,
@@ -8857,9 +10772,9 @@ I_events_0 = [
 "media": [
 {
 "cita": [
-80
+85
 ],
-"m_idx": 239,
+"m_idx": 240,
 "note": "",
 "rect": [
 0,
@@ -8872,9 +10787,9 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-91
+95
 ],
-"place": 184,
+"place": 190,
 "text": "",
 "type": "Burial"
 }
@@ -8883,8 +10798,8 @@ I_events_0 = [
 [
 {
 "cita": [
-19,
-112
+18,
+117
 ],
 "date": "6/9/1816",
 "date_sdn": 2384500,
@@ -8893,32 +10808,32 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+97
 ],
-"place": 177,
+"place": 182,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-19
+18
 ],
 "date": "1856",
 "date_sdn": 2398950,
-"descr": "Re-married to Melinda Sams in 1856 according to Geneanet (not verified)",
+"descr": "",
 "gid": "E0324",
 "media": [],
 "part_family": [],
 "part_person": [
-93
+97
 ],
 "place": -1,
-"text": "",
+"text": "<div>\n<i class=\"NoteType\">\nResearch\n</i>\n<div class=\"grampsstylednote\">\n<p>\nRe-married to Melinda Sams in 1856 according to Geneanet\n</p>\n</div>\n</div>",
 "type": "Marriage"
 },
 {
 "cita": [
-24
+22
 ],
 "date": "5/31/1886",
 "date_sdn": 2410058,
@@ -8927,48 +10842,71 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+97
 ],
-"place": 86,
+"place": 91,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [
+178
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Methodist minister",
+"gid": "E0435",
+"media": [],
+"part_family": [],
+"part_person": [
+97
+],
+"place": -1,
+"text": "",
+"type": "Occupation"
 }
 ],
 [
 {
 "cita": [
-20,
-174
+19,
+178
 ],
 "date": "4/10/1847",
 "date_sdn": 2395762,
 "descr": "",
 "gid": "E0110",
-"media": [
-{
-"cita": [],
-"m_idx": 245,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/5/3/fc6108596c167d7d195d992935.png"
-}
-],
+"media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
-"place": 56,
+"place": 60,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-174
+162,
+178
+],
+"date": "1888",
+"date_sdn": 2410638,
+"descr": "Moved to Maloy. &#8220;Maloy House&#8221;",
+"gid": "E0115",
+"media": [],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 138,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+178
 ],
 "date": "9/4/1942",
 "date_sdn": 2430607,
@@ -8977,15 +10915,193 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
-"place": 132,
+"place": 138,
 "text": "",
 "type": "Death"
 },
 {
 "cita": [
-174
+237
+],
+"date": "1880",
+"date_sdn": 2407716,
+"descr": "",
+"gid": "E0295",
+"media": [
+{
+"cita": [
+237
+],
+"m_idx": 238,
+"note": "",
+"rect": [
+10,
+60,
+81,
+80
+],
+"thumb": "thumb/0/0/fea09b0e51a2ccbfe8c90b2c900-10,60-81,80.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+21,
+95,
+98
+],
+"place": 23,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAccording to this 1880 census Jair Cowell and Rose Tharp lived right next door to each other when he was 10 years old and she was 6 years old. <br />\nRose's name is listed as \"Rosey\".\n</p>\n</div>\n</div>",
+"type": "Census (Mother)"
+},
+{
+"cita": [
+178
+],
+"date": "8/1869",
+"date_sdn": 2403911,
+"descr": "Settled on a farm",
+"gid": "E0113",
+"media": [],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 84,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+152
+],
+"date": "5/18/1882",
+"date_sdn": 2408584,
+"descr": "Newspaper Article: Greene Co., PA to the Front, naming the persons in Ringgold who came from &#8220;Beaver County&#8221;/Greene County, PA.",
+"gid": "E0321",
+"media": [
+{
+"cita": [],
+"m_idx": 70,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/2/ff0b1c32eae2a7ec47daa365829.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": -1,
+"text": "",
+"type": "Interesting Event"
+},
+{
+"cita": [
+177,
+178
+],
+"date": "between 1869 and 1888",
+"date_sdn": 2403699,
+"descr": "Bought a farm east of Maloy",
+"gid": "E0114",
+"media": [
+{
+"cita": [],
+"m_idx": 101,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/8/b/fc6a86f1d3e192de2819833bab8.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": -1,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+161
+],
+"date": "1889",
+"date_sdn": 2411004,
+"descr": "",
+"gid": "E0143",
+"media": [
+{
+"cita": [],
+"m_idx": 68,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/c/3/fc6ac80127562d876ac4f6ceb3c.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 198,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+146
+],
+"date": "1884",
+"date_sdn": 2409177,
+"descr": "",
+"gid": "E0142",
+"media": [
+{
+"cita": [],
+"m_idx": 67,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/3/9/fc6ac6f769d7aa525f19438e393.png"
+}
+],
+"part_family": [],
+"part_person": [
+18,
+98
+],
+"place": 22,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [
+178
 ],
 "date": "1942",
 "date_sdn": 2430361,
@@ -8994,9 +11110,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
-"place": 183,
+"place": 189,
 "text": "",
 "type": "Burial"
 }
@@ -9004,16 +11120,16 @@ I_events_0 = [
 [
 {
 "cita": [
-191
+196
 ],
 "date": "1754",
 "date_sdn": 2361696,
-"descr": "NOTE: This is difficult to read, on Sons of American Rev Mem App",
+"descr": "",
 "gid": "E0371",
 "media": [],
 "part_family": [],
 "part_person": [
-95
+99
 ],
 "place": -1,
 "text": "",

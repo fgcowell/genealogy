@@ -13,6 +13,7 @@ S_text_0 = [
 "",
 "<p>\n<b>\nAuthor: \n</b>\nTranscribed by Dixie (Bonnie) - Grand Daughter\n</p><p>\n<b>\nPublication information: \n</b>\nvia Jeremy Holm on Ancestry.com\n</p>",
 "",
+"",
 "<p>\n<b>\nAuthor: \n</b>\nOnline Users\n</p>",
 "<p>\n<b>\nAuthor: \n</b>\nRichard D Scheuerman\n</p>",
 "",

@@ -55,6 +55,7 @@ S_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nSource Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nOregon State Library<br />\nAncestry.com. Oregon, U.S., Marriage Indexes, 1906-2009 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc, 2000.<br />\nOriginal data: State of Oregon. Oregon, Marriage Indexes, 1906-1924, 1946-2008. Portland, OR, USA: Oregon Health Division, Center for Health Statistics.<br />\nOregon, Marriage Indexes, 1906-1924, 1946-2008. Salem, OR, USA: Oregon State Library.<br />\nOregon, Marriage Indexes, 1925-1945. Courtesy of www.vitalsearch-worldwide.com.\n</p>\n</div>\n</div>",
 "",
 "",
