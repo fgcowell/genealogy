@@ -7,6 +7,8 @@ N_surname_0 = [
 "Beal",
 "Beasley",
 "Bronson",
+"Bussell",
+"Clara",
 "Coffman",
 "Cowell",
 "Dowis",
@@ -18,6 +20,7 @@ N_surname_0 = [
 "Hartmann Scheuermann",
 "Hehn",
 "Hill",
+"Hittle",
 "Holm",
 "Holstein",
 "Hooper",
@@ -30,6 +33,7 @@ N_surname_0 = [
 "Litzenberg",
 "Litzenberger",
 "Lytle",
+"Maria",
 "Martinsen",
 "Meyers",
 "Mitchell",
@@ -40,11 +44,16 @@ N_surname_0 = [
 "Sedwick",
 "Squier",
 "Stalgren",
+"Stillwell",
 "Strauser",
 "Swetfeldt",
 "Swetland",
 "Tharp",
+"Webster",
 "Wildman",
-"Wood"
+"Withers",
+"Wood",
+"Yeaple",
+"Yost"
 ]
 Dwr.ScriptLoaded('dwr_db_N_surname_0.js');

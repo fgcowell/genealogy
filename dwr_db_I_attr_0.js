@@ -6,11 +6,10 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
 [
 {
 "cita": [
-84
+112
 ],
 "note": "",
 "type": "Description",
@@ -23,7 +22,7 @@ I_attr_0 = [
 [
 {
 "cita": [
-114
+150
 ],
 "note": "",
 "type": "Description",
@@ -43,6 +42,29 @@ I_attr_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [
+298
+],
+"note": "",
+"type": "Description",
+"value": "5'5.5\", 135 lbs, hazel/brown eye color"
+}
+],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -83,13 +105,14 @@ I_attr_0 = [
 [
 {
 "cita": [
-188
+255
 ],
 "note": "",
 "type": "Description",
 "value": "Height 5'6\", eye color blue, hair color brown/bald, weight 137, complexion light brown. Small finger on right hand cut off."
 }
 ],
+[],
 [],
 [],
 [],
@@ -127,6 +150,20 @@ I_attr_0 = [
 "value": "Blue eyes, brown hair"
 }
 ],
+[],
+[
+{
+"cita": [
+263
+],
+"note": "",
+"type": "Number of Children",
+"value": "15"
+}
+],
+[],
+[],
+[],
 [],
 [],
 [],

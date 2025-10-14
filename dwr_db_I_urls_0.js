@@ -8,6 +8,36 @@ I_urls_0 = [
 [],
 [],
 [],
+[
+{
+"descr": "MyHeritage Tree",
+"type": "Web Search",
+"uri": "https://records.myheritagelibraryedition.com/research/record-1-OYYV6XI47AI2VS72IPJYAMPM5TX62VQ-1-500505/john-henry-beals-in-myheritage-family-trees"
+},
+{
+"descr": "Family Search Profile",
+"type": "Web Search",
+"uri": "https://www.familysearch.org/en/tree/person/details/LJVY-KH7"
+}
+],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],

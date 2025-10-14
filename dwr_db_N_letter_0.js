@@ -7,6 +7,8 @@ N_letter_0 = [
 "B",
 "B",
 "B",
+"B",
+"C",
 "C",
 "C",
 "D",
@@ -14,6 +16,7 @@ N_letter_0 = [
 "F",
 "G",
 "G",
+"H",
 "H",
 "H",
 "H",
@@ -33,7 +36,9 @@ N_letter_0 = [
 "M",
 "M",
 "M",
+"M",
 "P",
+"S",
 "S",
 "S",
 "S",
@@ -45,6 +50,10 @@ N_letter_0 = [
 "S",
 "T",
 "W",
-"W"
+"W",
+"W",
+"W",
+"Y",
+"Y"
 ]
 Dwr.ScriptLoaded('dwr_db_N_letter_0.js');

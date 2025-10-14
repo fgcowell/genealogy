@@ -6,7 +6,7 @@ F_events_0 = [
 [
 {
 "cita": [
-93
+129
 ],
 "date": "4/8/1883",
 "date_sdn": 2408909,
@@ -15,7 +15,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 15,
+"m_idx": 17,
 "note": "",
 "rect": [
 8,
@@ -28,7 +28,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 221,
+"place": 263,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWilliam aka Joseph's second marriage. \n</p>\n</div>\n</div>",
 "type": "Marriage"
 }
@@ -37,7 +37,7 @@ F_events_0 = [
 [
 {
 "cita": [
-98
+134
 ],
 "date": "8/20/1910",
 "date_sdn": 2418904,
@@ -46,7 +46,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 46,
+"m_idx": 54,
 "note": "",
 "rect": [
 0,
@@ -59,15 +59,43 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 117,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNOTE: Name listed on this index is \"Miss Nell May Cox\"\n</p>\n</div>\n</div>",
+"place": 136,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis was Henry John Beal's second marriage<br />\nNOTE: Name listed on this index is \"Miss Nell May Cox\"\n</p>\n</div>\n</div>",
 "type": "Marriage"
+},
+{
+"cita": [
+210
+],
+"date": "between 1930 and 1931",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E0563",
+"media": [
+{
+"cita": [],
+"m_idx": 30,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/f/e/10029823b0393c4339fb591a95ef.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": 268,
+"text": "",
+"type": "Divorce"
 }
 ],
 [
 {
 "cita": [
-231
+313
 ],
 "date": "9/11/1937",
 "date_sdn": 2428788,
@@ -76,7 +104,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 46,
+"m_idx": 54,
 "note": "",
 "rect": [
 7,
@@ -88,7 +116,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 47,
+"m_idx": 55,
 "note": "",
 "rect": [
 0,
@@ -100,7 +128,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 48,
+"m_idx": 56,
 "note": "",
 "rect": [
 32,
@@ -113,13 +141,13 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 226,
+"place": 268,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-153
+201
 ],
 "date": "about 2/24/1944",
 "date_sdn": 2431145,
@@ -128,7 +156,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 39,
+"m_idx": 47,
 "note": "",
 "rect": [
 0,
@@ -141,7 +169,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 197,
+"place": 237,
 "text": "",
 "type": "Divorce"
 }
@@ -149,7 +177,7 @@ F_events_0 = [
 [
 {
 "cita": [
-74
+101
 ],
 "date": "3/6/1845",
 "date_sdn": 2394997,
@@ -158,7 +186,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 52,
+"m_idx": 60,
 "note": "",
 "rect": [
 0,
@@ -171,7 +199,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 98,
+"place": 114,
 "text": "",
 "type": "Marriage"
 }
@@ -180,7 +208,7 @@ F_events_0 = [
 [
 {
 "cita": [
-39
+42
 ],
 "date": "10/24/1954",
 "date_sdn": 2435040,
@@ -189,9 +217,9 @@ F_events_0 = [
 "media": [
 {
 "cita": [
-154
+204
 ],
-"m_idx": 62,
+"m_idx": 71,
 "note": "",
 "rect": [
 0,
@@ -203,9 +231,9 @@ F_events_0 = [
 },
 {
 "cita": [
-39
+42
 ],
-"m_idx": 63,
+"m_idx": 72,
 "note": "",
 "rect": [
 7,
@@ -218,13 +246,13 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 69,
+"place": 78,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-173
+234
 ],
 "date": "about 8/14/1954",
 "date_sdn": 2434969,
@@ -233,9 +261,9 @@ F_events_0 = [
 "media": [
 {
 "cita": [
-173
+234
 ],
-"m_idx": 180,
+"m_idx": 244,
 "note": "",
 "rect": [
 0,
@@ -248,7 +276,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 207,
+"place": 248,
 "text": "",
 "type": "Engagement"
 }
@@ -256,8 +284,8 @@ F_events_0 = [
 [
 {
 "cita": [
-160,
-178
+211,
+240
 ],
 "date": "10/20/1867",
 "date_sdn": 2403260,
@@ -266,7 +294,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 69,
+"m_idx": 78,
 "note": "",
 "rect": [
 0,
@@ -278,7 +306,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 71,
+"m_idx": 80,
 "note": "",
 "rect": [
 0,
@@ -291,7 +319,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 61,
+"place": 66,
 "text": "",
 "type": "Marriage"
 }
@@ -301,7 +329,7 @@ F_events_0 = [
 [
 {
 "cita": [
-97
+133
 ],
 "date": "1/10/1897",
 "date_sdn": 2413935,
@@ -310,7 +338,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 89,
+"m_idx": 101,
 "note": "",
 "rect": [
 0,
@@ -322,7 +350,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 90,
+"m_idx": 102,
 "note": "",
 "rect": [
 0,
@@ -335,7 +363,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 156,
+"place": 183,
 "text": "",
 "type": "Marriage"
 }
@@ -343,7 +371,7 @@ F_events_0 = [
 [
 {
 "cita": [
-97
+133
 ],
 "date": "5/25/1929",
 "date_sdn": 2425757,
@@ -352,7 +380,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 95,
+"m_idx": 112,
 "note": "",
 "rect": [
 0,
@@ -365,7 +393,39 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 109,
+"place": 127,
+"text": "",
+"type": "Marriage"
+}
+],
+[],
+[],
+[
+{
+"cita": [
+61
+],
+"date": "1/8/1844",
+"date_sdn": 2394574,
+"descr": "",
+"gid": "E0504",
+"media": [
+{
+"cita": [],
+"m_idx": 126,
+"note": "",
+"rect": [
+11,
+26,
+55,
+31
+],
+"thumb": "thumb/b/8/ffa1f50b42860220dc87d9c5a8b-11,26-55,31.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": 232,
 "text": "",
 "type": "Marriage"
 }
@@ -374,12 +434,79 @@ F_events_0 = [
 [
 {
 "cita": [
-17
+17,
+167
 ],
-"date": "about 1905",
-"date_sdn": 2416847,
+"date": "10/25/1905",
+"date_sdn": 2417144,
 "descr": "",
 "gid": "E0320",
+"media": [
+{
+"cita": [],
+"m_idx": 136,
+"note": "",
+"rect": [
+53,
+8,
+93,
+97
+],
+"thumb": "thumb/6/c/ffb25d2c4d8f1047d8509425c6-53,8-93,97.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": 102,
+"text": "",
+"type": "Marriage"
+}
+],
+[],
+[
+{
+"cita": [
+35,
+262
+],
+"date": "1766",
+"date_sdn": 2366079,
+"descr": "from Ober Lais, Hessen",
+"gid": "E0088",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 318,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe family joined the immigrant transport to Russia in nearby B\u00fcdingen in the summer of 1766 and was among the eighty families from the region who established the Volga German colony of Yagodnaya Polyana the following year. They sailed from L\u00fcbeck, Germany to Oranienbaum near St. Petersburg on September 13, 1766, and likely passed through Moscow en route to the Volga.\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHartmann Schauermann, his wife Elisabeth, his children (Johann Conradt, age 20; Joh. Jost, age 18; Joh. Henrich, age 14; Hans Henrich, age 12; Henrich, age 6; Balthasar, age 5; Elisabeth, age 2; Anna Elisabeth, born en route) are recorded on the list of colonists being transported from St. Petersburg to Saratov in 1767.\n</p>\n<p>\nThey settled in the Volga German colony of Yagodnaya Polyana on 16 September 1767.  They are recorded there on the 1767 Census in Household No. 26.\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe Oranienbaum passenger list records that Johann Hartmann Scheuermann and his family came from the German region of Darmstadt. The 1767 census of Yagodnaya Polyana records that he came from the German region of Nidda, while the 1767 census of Frank records that Johann [Kaspar] Scheuermann came from the German village of Lais in the region of Hessen-Darmstadt.\n</p>\n</div>\n</div>",
+"type": "Immigration"
+},
+{
+"cita": [
+46,
+262
+],
+"date": "between 11/14/1726 and 11/16/1726",
+"date_sdn": 2351786,
+"descr": "",
+"gid": "E0094",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 202,
+"text": "",
+"type": "Marriage"
+}
+],
+[],
+[
+{
+"cita": [
+296
+],
+"date": "about 1819",
+"date_sdn": 2385436,
+"descr": "",
+"gid": "E0551",
 "media": [],
 "part_family": [],
 "part_person": [],
@@ -392,42 +519,42 @@ F_events_0 = [
 [
 {
 "cita": [
-32,
-192
+126
 ],
-"date": "1766",
-"date_sdn": 2366079,
-"descr": "from Ober Lais, Hessen",
-"gid": "E0088",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 267,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe family joined the immigrant transport to Russia in nearby B\u00fcdingen in the summer of 1766 and was among the eighty families from the region who established the Volga German colony of Yagodnaya Polyana the following year. They sailed from L\u00fcbeck, Germany to Oranienbaum near St. Petersburg on September 13, 1766, and likely passed through Moscow en route to the Volga.\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHartmann Schauermann, his wife Elisabeth, his children (Johann Conradt, age 20; Joh. Jost, age 18; Joh. Henrich, age 14; Hans Henrich, age 12; Henrich, age 6; Balthasar, age 5; Elisabeth, age 2; Anna Elisabeth, born en route) are recorded on the list of colonists being transported from St. Petersburg to Saratov in 1767.\n</p>\n<p>\nThey settled in the Volga German colony of Yagodnaya Polyana on 16 September 1767.  They are recorded there on the 1767 Census in Household No. 26.\n</p>\n</div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe Oranienbaum passenger list records that Johann Hartmann Scheuermann and his family came from the German region of Darmstadt. The 1767 census of Yagodnaya Polyana records that he came from the German region of Nidda, while the 1767 census of Frank records that Johann [Kaspar] Scheuermann came from the German village of Lais in the region of Hessen-Darmstadt.\n</p>\n</div>\n</div>",
-"type": "Immigration"
-},
-{
-"cita": [
-43,
-192
-],
-"date": "between 11/14/1726 and 11/16/1726",
-"date_sdn": 2351786,
+"date": "4/21/1840",
+"date_sdn": 2393217,
 "descr": "",
-"gid": "E0094",
+"gid": "E0537",
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 172,
+"place": 250,
 "text": "",
 "type": "Marriage"
 }
 ],
-[],
 [
 {
 "cita": [
-244
+30,
+296
+],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0547",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 197,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [
+327
 ],
 "date": "about 1877",
 "date_sdn": 2406621,
@@ -442,8 +569,8 @@ F_events_0 = [
 },
 {
 "cita": [
-107,
-241
+143,
+324
 ],
 "date": "1881",
 "date_sdn": 2408082,
@@ -452,7 +579,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 130,
+"m_idx": 185,
 "note": "",
 "rect": [
 0,
@@ -464,7 +591,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 131,
+"m_idx": 186,
 "note": "",
 "rect": [
 0,
@@ -490,7 +617,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 177,
+"place": 207,
 "text": "",
 "type": "Residence"
 }
@@ -498,8 +625,8 @@ F_events_0 = [
 [
 {
 "cita": [
-106,
-229
+142,
+311
 ],
 "date": "10/16/1907",
 "date_sdn": 2417865,
@@ -508,7 +635,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 135,
+"m_idx": 193,
 "note": "",
 "rect": [
 0,
@@ -520,7 +647,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 137,
+"m_idx": 195,
 "note": "",
 "rect": [
 0,
@@ -533,13 +660,13 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 73,
+"place": 82,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-164
+215
 ],
 "date": "12/25/1945",
 "date_sdn": 2431815,
@@ -548,7 +675,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 138,
+"m_idx": 196,
 "note": "",
 "rect": [
 0,
@@ -561,13 +688,13 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 239,
+"place": 281,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nTranscription: Mr and Mrs. E. R. Holm entertained at a very lovely turkey dinner and family party at their lovely home east of Sutherlin on Christmas Day. This occasion marked the first time in seven years the entire family has been together. The table and rooms were very pretty in their holiday colors.\n</p>\n</div>\n</div>",
 "type": "Interesting Event"
 },
 {
 "cita": [
-106
+142
 ],
 "date": "10/16/1957",
 "date_sdn": 2436128,
@@ -576,7 +703,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 135,
+"m_idx": 193,
 "note": "",
 "rect": [
 0,
@@ -589,7 +716,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 188,
+"place": 224,
 "text": "",
 "type": "Interesting Event"
 }
@@ -599,8 +726,8 @@ F_events_0 = [
 [
 {
 "cita": [
-50,
-90
+66,
+125
 ],
 "date": "9/29/1870",
 "date_sdn": 2404335,
@@ -609,7 +736,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 105,
 "text": "",
 "type": "Marriage"
 }
@@ -617,8 +744,8 @@ F_events_0 = [
 [
 {
 "cita": [
-30,
-44
+32,
+50
 ],
 "date": "12/30/1901",
 "date_sdn": 2415749,
@@ -627,17 +754,47 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 105,
 "text": "",
 "type": "Marriage"
 }
 ],
 [],
+[
+{
+"cita": [
+260
+],
+"date": "5/29/1873",
+"date_sdn": 2405308,
+"descr": "",
+"gid": "E0497",
+"media": [
+{
+"cita": [],
+"m_idx": 222,
+"note": "",
+"rect": [
+73,
+5,
+99,
+94
+],
+"thumb": "thumb/4/1/ffa11eb4d246795d62c407c8614-73,5-99,94.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [
 {
 "cita": [
-75
+102
 ],
 "date": "about 1856",
 "date_sdn": 2398950,
@@ -661,7 +818,7 @@ F_events_0 = [
 [
 {
 "cita": [
-200
+272
 ],
 "date": "1875",
 "date_sdn": 2405890,
@@ -680,7 +837,7 @@ F_events_0 = [
 [
 {
 "cita": [
-196
+268
 ],
 "date": "1806",
 "date_sdn": 2380688,
@@ -697,7 +854,7 @@ F_events_0 = [
 [
 {
 "cita": [
-196
+268
 ],
 "date": "1775",
 "date_sdn": 2369366,
@@ -714,7 +871,7 @@ F_events_0 = [
 [
 {
 "cita": [
-124
+166
 ],
 "date": "4/16/1876",
 "date_sdn": 2406361,
@@ -723,7 +880,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 199,
+"place": 239,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNancy's name is referenced as \"Nancy M Haafer\"\n</p>\n</div>\n</div>",
 "type": "Marriage"
 }
@@ -740,7 +897,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 202,
+"m_idx": 266,
 "note": "",
 "rect": [
 0,
@@ -753,7 +910,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 169,
+"place": 199,
 "text": "",
 "type": "Marriage"
 }
@@ -771,7 +928,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 174,
+"place": 204,
 "text": "",
 "type": "Marriage"
 }
@@ -780,8 +937,8 @@ F_events_0 = [
 [
 {
 "cita": [
-29,
-222
+31,
+304
 ],
 "date": "11/4/1846",
 "date_sdn": 2395605,
@@ -790,7 +947,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 206,
+"m_idx": 275,
 "note": "",
 "rect": [
 25,
@@ -803,7 +960,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 263,
+"place": 312,
 "text": "",
 "type": "Marriage"
 }
@@ -811,7 +968,7 @@ F_events_0 = [
 [
 {
 "cita": [
-121
+158
 ],
 "date": "4/6/1957",
 "date_sdn": 2435935,
@@ -820,9 +977,9 @@ F_events_0 = [
 "media": [
 {
 "cita": [
-121
+158
 ],
-"m_idx": 207,
+"m_idx": 276,
 "note": "",
 "rect": [
 0,
@@ -835,13 +992,13 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 235,
+"place": 277,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-136
+180
 ],
 "date": "8/16/1973",
 "date_sdn": 2441911,
@@ -850,7 +1007,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 268,
+"place": 320,
 "text": "",
 "type": "Divorce"
 }
@@ -858,8 +1015,8 @@ F_events_0 = [
 [
 {
 "cita": [
-71,
-94
+98,
+130
 ],
 "date": "5/20/1935",
 "date_sdn": 2427943,
@@ -868,7 +1025,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 212,
+"m_idx": 281,
 "note": "",
 "rect": [
 0,
@@ -880,7 +1037,7 @@ F_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 213,
+"m_idx": 282,
 "note": "",
 "rect": [
 50,
@@ -893,7 +1050,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 176,
+"place": 206,
 "text": "",
 "type": "Marriage"
 }
@@ -901,9 +1058,9 @@ F_events_0 = [
 [
 {
 "cita": [
-151,
-171,
-243
+197,
+224,
+326
 ],
 "date": "5/12/1875",
 "date_sdn": 2406021,
@@ -920,16 +1077,29 @@ F_events_0 = [
 [
 {
 "cita": [
-205
+216,
+278
 ],
 "date": "2/13/1907",
 "date_sdn": 2417620,
-"descr": "",
+"descr": "at the home of Barbara Hehn (Swetfeldt)",
 "gid": "E0247",
 "media": [
 {
 "cita": [],
-"m_idx": 224,
+"m_idx": 293,
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/6/b/ffa8d7719e358873e59ef3265b6.png"
+},
+{
+"cita": [],
+"m_idx": 294,
 "note": "",
 "rect": [
 0,
@@ -942,7 +1112,7 @@ F_events_0 = [
 ],
 "part_family": [],
 "part_person": [],
-"place": 19,
+"place": 21,
 "text": "",
 "type": "Marriage"
 }
@@ -960,7 +1130,97 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 166,
+"place": 194,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [
+159,
+258
+],
+"date": "4/11/1840",
+"date_sdn": 2393207,
+"descr": "",
+"gid": "E0472",
+"media": [
+{
+"cita": [],
+"m_idx": 316,
+"note": "",
+"rect": [
+7,
+47,
+52,
+66
+],
+"thumb": "thumb/0/d/ff8bd5d04c196b0deb7c8cb1d0-7,47-52,66.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": 69,
+"text": "",
+"type": "Marriage"
+},
+{
+"cita": [
+263
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Family Reunion",
+"gid": "E0479",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 242,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nTranscription<br />\nThe reunion of the descendants and family friends of John Tharpe took place Thursday in the Jack Paxson grove near Days Creek, their being upwards of one hundred relatives and and friends present.<br />\nJohn Tharpe born in Pennsylvania in 1820 and married in 1841 to Mary Webster of Deleware County, Ohio who with his wife came to Jay county in 1845 ad died in 1898, was the father of 15 children.  He left 52 grandchildren, 21 great grandchildren and one great-great grandchild.<br />\nA sumptuous dinner was spread at the noon hour and after thanks was offered by Hiram Tharpe of Iowa, all enjoyed again sharing one another's hospitalities even to the old fashioned corn bread, baked beans and pumpkins cups filled with candy, grapes and bananas.<br />\nThe forenoon was spent in a social manner, family greetings and pleasant words of loving remembrances of former years and after dinner in this pleasant grove all sat and listened and drank in the thoughts presented in song, recitation and speeches by some of those present.<br />\nThe exercises opened with a song \"After the pleasures of life are over\" by John Tharpe and wife followed with prayer by Sarah Collins.  The Rev. Tullie Tharpe of Florida read the scriptural lesson and made a brief religious talk suited to the the occasion.  Violin music was furnished by John Mock of Bluffton and recitations by Miss Goldie Warner and Miss May Tharpe.<br />\nJohn Warner, John Tharpe, Chan Tharpe, Frank Tharpe, Sarah Collins, Hiram Tharpe and George Lawson made brief talks.  The meeting closed with the song, \"When the roll is called\" and lovingly all parted with a relization that this had been indeed a most happy gathering of friends and loved ones.<br />\nThose present were:  Hiram Tharpe of Iowa, Rev. Tullie Tharpe of Turkey Creek, Florida, John Mock and wife of near Bluffton, James B. Mock and wife of Redkey, Mary Adaline Baker of Nebraska, Sharah Collins of near Lynn, Chan, James and Jesse Tharpe and families of Bluff Point, Frandk Tharpe and family of Greene township; Angeline Whitnack and daughter Hazel.  Mrs. Maud Turner, Parley Glenn and family, J.B. Warner and family, John O. Warner and Elmer Warner and families.  Mrs. Heston of Oklahoma, Goldie Warner of Ladessville, Grant county, Elihu Hodge, Cornelius Collius, John Garriager, Favid V. Garringer and wife, Mrs. Isaac Thompson, Erustus Rarrick and wife, George Hodge and wife, Mrs. George Moore, George Lawson and family, John and Maggie Warner,  Mr. M. Finch and wife, Joseph Whitenack, Jack Paxson and family, Gale Warner and family and Tillman Warner.<br />\nElihu Hodge, 73 was the oldest person present and the 7 month old child of Elmer Warner was the next youngest.  It was talked of effecting an organization but owing to conditions it was deemed best not to do so at  this meeting and all separeted with a desire for a similar gather at some future date.\n</p>\n</div>\n</div>",
+"type": "Interesting Event"
+}
+],
+[
+{
+"cita": [
+190,
+243,
+292
+],
+"date": "10/11/1819",
+"date_sdn": 2385719,
+"descr": "",
+"gid": "E0481",
+"media": [
+{
+"cita": [],
+"m_idx": 332,
+"note": "",
+"rect": [
+56,
+69,
+94,
+74
+],
+"thumb": "thumb/a/a/ff8bf56ba166b4c4367c4271daa-56,69-94,74.png"
+},
+{
+"cita": [],
+"m_idx": 333,
+"note": "",
+"rect": [
+3,
+50,
+50,
+67
+],
+"thumb": "thumb/5/1/ff98ae0ac9a4f933f0753106915-3,50-50,67.png"
+}
+],
+"part_family": [],
+"part_person": [],
+"place": 44,
 "text": "",
 "type": "Marriage"
 }

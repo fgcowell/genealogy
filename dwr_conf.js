@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "A Field Guide to Cowells";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 248,
-    "F": 54,
-    "I": 100,
-    "M": 252,
-    "N": 45,
-    "P": 272,
+    "C": 331,
+    "F": 64,
+    "I": 119,
+    "M": 351,
+    "N": 54,
+    "P": 324,
     "R": 0,
-    "S": 103
+    "S": 125
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "custom_1.html", "", "tree_svg.html"];
 PAGES_TITLE = ["DynWeb|Home", "Read Me!", "Indexes", "Tree"];
